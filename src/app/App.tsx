@@ -324,6 +324,11 @@ export default function App() {
   const [selectedComment, setSelectedComment] = useState<string>("");
   const [showCommentModal, setShowCommentModal] = useState<boolean>(false);
 
+  // Delete confirmation state
+  const [showDeleteConfirm, setShowDeleteConfirm] = useState<boolean>(false);
+  const [informationToDelete, setInformationToDelete] =
+    useState<SubmittedInformation | null>(null);
+
   // Labs data state
   const [filteredLabs, setFilteredLabs] = useState<LabData[]>(labsData);
   const [filteredProducts, setFilteredProducts] = useState<string[]>([]);
@@ -806,6 +811,60 @@ export default function App() {
     }
   };
 
+  // Function to show delete confirmation popup
+  const confirmDeleteInformation = (info: SubmittedInformation) => {
+    setInformationToDelete(info);
+    setShowDeleteConfirm(true);
+  };
+
+  // Function to delete information (called from confirmation popup)
+  const deleteInformation = async () => {
+    if (!informationToDelete) return;
+
+    const token = localStorage.getItem(TOKEN_KEY);
+    if (!token) {
+      setApiMessageType("error");
+      setApiMessage("Session expirée. Veuillez vous reconnecter.");
+      setTimeout(() => logout(), 2000);
+      return;
+    }
+
+    setIsLoading(true);
+    try {
+      const res = await fetch(
+        `${API_URL}/informations/${informationToDelete.id}`,
+        {
+          method: "DELETE",
+          headers: {
+            "Content-Type": "application/json",
+            Authorization: "Bearer " + token,
+          },
+        },
+      );
+
+      const data = await res.json();
+
+      if (res.ok) {
+        setApiMessageType("success");
+
+        // Close the popup
+        setShowDeleteConfirm(false);
+        setInformationToDelete(null);
+        // Refresh the list
+        fetchAllInformations();
+      } else {
+        setApiMessageType("error");
+        setApiMessage(data.error || "Erreur lors de la suppression");
+      }
+    } catch (error) {
+      console.error("Delete information error:", error);
+      setApiMessageType("error");
+      setApiMessage("Erreur de connexion au serveur");
+    } finally {
+      setIsLoading(false);
+    }
+  };
+
   const createUser = async () => {
     const token = localStorage.getItem(TOKEN_KEY);
     if (!token) return;
@@ -917,7 +976,7 @@ export default function App() {
 
       if (res.ok) {
         setApiMessageType("success");
-        setApiMessage("Utilisateur supprimé");
+
         fetchAllUsers();
       }
     } catch (error) {
@@ -1132,6 +1191,9 @@ export default function App() {
       to: "",
     });
     setFilteredProducts([]);
+    // Reset delete confirmation state
+    setShowDeleteConfirm(false);
+    setInformationToDelete(null);
     // Reset pagination
     setAuthorizedCurrentPage(1);
     setInformationsCurrentPage(1);
@@ -1372,6 +1434,124 @@ export default function App() {
     return option ? option.label : viewValue;
   };
 
+  // Render Delete Confirmation Modal
+  const renderDeleteConfirmation = () => {
+    if (!showDeleteConfirm || !informationToDelete) return null;
+
+    return (
+      <div className="fixed inset-0 bg-black/30 backdrop-blur-sm flex items-center justify-center z-50 p-4">
+        <div className="bg-white rounded-2xl shadow-2xl max-w-md w-full max-h-[90vh] overflow-y-auto">
+          <div className="flex items-center justify-between p-6 border-b border-gray-200">
+            <h3 className="text-xl font-semibold text-gray-700">
+              Confirmer la suppression
+            </h3>
+            <button
+              onClick={() => {
+                setShowDeleteConfirm(false);
+                setInformationToDelete(null);
+              }}
+              className="text-gray-400 hover:text-gray-600 transition-colors p-2 hover:bg-gray-100 rounded-lg"
+            >
+              <X className="w-6 h-6" />
+            </button>
+          </div>
+
+          <div className="p-6">
+            <div className="flex items-center justify-center mb-6">
+              <div className="w-16 h-16 bg-gradient-to-r from-red-400 to-red-500 rounded-full flex items-center justify-center shadow-lg">
+                <AlertCircle className="w-8 h-8 text-white" />
+              </div>
+            </div>
+
+            <h4 className="text-lg font-semibold text-gray-800 text-center mb-4">
+              Êtes-vous sûr de vouloir supprimer cette information ?
+            </h4>
+
+            <div className="bg-gray-50 rounded-lg p-4 mb-6">
+              <div className="space-y-3">
+                <div>
+                  <span className="text-sm font-medium text-gray-500">BU:</span>
+                  <span className="ml-2 text-sm text-gray-800">
+                    {informationToDelete.type_bu}
+                  </span>
+                </div>
+                <div>
+                  <span className="text-sm font-medium text-gray-500">
+                    Type:
+                  </span>
+                  <span className="ml-2 text-sm text-gray-800">
+                    {informationToDelete.type_info}
+                  </span>
+                </div>
+                <div>
+                  <span className="text-sm font-medium text-gray-500">
+                    Laboratoire:
+                  </span>
+                  <span className="ml-2 text-sm text-gray-800">
+                    {informationToDelete.laboratoire}
+                  </span>
+                </div>
+                {informationToDelete.produit_concurent && (
+                  <div>
+                    <span className="text-sm font-medium text-gray-500">
+                      Produit:
+                    </span>
+                    <span className="ml-2 text-sm text-gray-800">
+                      {informationToDelete.produit_concurent}
+                    </span>
+                  </div>
+                )}
+                <div>
+                  <span className="text-sm font-medium text-gray-500">
+                    Date:
+                  </span>
+                  <span className="ml-2 text-sm text-gray-800">
+                    {formatDate(informationToDelete.created_at)}
+                  </span>
+                </div>
+              </div>
+            </div>
+
+            <p className="text-sm text-gray-500 text-center mb-6">
+              Cette action est irréversible. L'information sera définitivement
+              supprimée.
+            </p>
+
+            <div className="flex flex-col sm:flex-row gap-3 pt-4">
+              <button
+                onClick={() => {
+                  setShowDeleteConfirm(false);
+                  setInformationToDelete(null);
+                }}
+                disabled={isLoading}
+                className="flex-1 px-6 py-3 border border-gray-300 text-gray-700 rounded-lg hover:bg-gray-50 transition-colors disabled:opacity-50"
+              >
+                Annuler
+              </button>
+              <button
+                onClick={deleteInformation}
+                disabled={isLoading}
+                className="flex-1 bg-gradient-to-r from-red-500 to-red-600 text-white px-6 py-3 rounded-lg hover:from-red-600 hover:to-red-700 transition-all shadow-md hover:shadow-lg disabled:opacity-50 flex items-center justify-center gap-2"
+              >
+                {isLoading ? (
+                  <>
+                    <div className="animate-spin rounded-full h-4 w-4 border-b-2 border-white"></div>
+                    <span>Suppression...</span>
+                  </>
+                ) : (
+                  <>
+                    <Trash2 className="w-4 h-4" />
+                    <span>Supprimer définitivement</span>
+                  </>
+                )}
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    );
+  };
+
   // Render User Management
   const renderUserManagement = () => {
     const totalPages = Math.ceil(filteredUsers.length / itemsPerPage);
@@ -1490,7 +1670,7 @@ export default function App() {
             <h2 className="text-xl font-semibold text-gray-700">
               Liste des utilisateurs ({filteredUsers.length})
             </h2>
-            
+
             {/* Search Bar */}
             <div className="relative w-full md:w-64">
               <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
@@ -1584,7 +1764,7 @@ export default function App() {
                 ))}
               </tbody>
             </table>
-            
+
             {filteredUsers.length === 0 && (
               <div className="text-center py-12">
                 <AlertCircle className="w-16 h-16 text-gray-400 mx-auto mb-4" />
@@ -1916,6 +2096,9 @@ export default function App() {
                   <th className="py-4 px-6 text-left text-sm font-semibold text-gray-700">
                     Commentaire
                   </th>
+                  <th className="py-4 px-6 text-left text-sm font-semibold text-gray-700">
+                    Actions
+                  </th>
                 </tr>
               </thead>
               <tbody>
@@ -1953,10 +2136,28 @@ export default function App() {
                         "-"
                       )}
                     </td>
+                    <td className="py-4 px-6">
+                      <button
+                        onClick={() => confirmDeleteInformation(info)}
+                        className="text-red-600 hover:text-red-800 p-2 hover:bg-red-50 rounded-lg transition-colors"
+                        title="Supprimer"
+                      >
+                        <Trash2 className="w-4 h-4" />
+                      </button>
+                    </td>
                   </tr>
                 ))}
               </tbody>
             </table>
+
+            {allInformations.length === 0 && (
+              <div className="text-center py-12">
+                <AlertCircle className="w-16 h-16 text-gray-400 mx-auto mb-4" />
+                <p className="text-gray-500 text-lg">
+                  Aucune information trouvée
+                </p>
+              </div>
+            )}
           </div>
 
           {/* Pagination */}
@@ -2457,7 +2658,7 @@ export default function App() {
               </svg>
               <div className="flex flex-col items-start">
                 <span className="text-2xl sm:text-3xl font-bold">
-                  <span className="text-gray-700">Pharma</span>
+                  <span className="text-blue-600">Pharma</span>
                   <span className="text-green-600">View</span>
                 </span>
                 <span className="text-gray-500 text-xs sm:text-sm">
@@ -2745,7 +2946,8 @@ export default function App() {
                       </svg>
                     </div>
                     <span className="text-lg sm:text-xl font-bold text-gray-700">
-                      Pharma<span className="text-green-600">View</span>
+                      <span className="text-blue-600">Pharma</span>
+                      <span className="text-green-600">View</span>
                     </span>
                   </div>
 
@@ -2864,7 +3066,8 @@ export default function App() {
 
                   <div className="flex flex-col items-center">
                     <span className="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-700">
-                      Pharma<span className="text-green-600">View</span>
+                      <span className="text-blue-600">Pharma</span>
+                      <span className="text-green-600">View</span>
                     </span>
 
                     <span className="text-gray-500 text-xs sm:text-sm md:text-base hidden sm:inline text-center">
@@ -2999,7 +3202,7 @@ export default function App() {
                           <button
                             onClick={() => handleBUSelect("COMMERCIAL")}
                             className="w-full flex items-center justify-between px-5 md:px-6 py-3.5 md:py-4 bg-gradient-to-r from-orange-400 to-orange-500 text-white rounded-xl hover:from-orange-500 hover:to-orange-600 transition-all shadow-md hover:shadow-lg group"
-                            >
+                          >
                             <div className="flex items-center gap-3">
                               <Briefcase className="w-5 h-5 md:w-6 md:h-6" />
                               <span className="text-base md:text-lg font-semibold">
@@ -3644,6 +3847,9 @@ export default function App() {
           </div>
         </div>
       )}
+
+
+      {renderDeleteConfirmation()}
     </div>
   );
 }
