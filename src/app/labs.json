@@ -1,0 +1,8087 @@
+[
+  {
+    "lab": "3 CHENES",
+    "products": ["GELOFER", "GIN MAG"]
+  },
+  {
+    "lab": "3C PHARMA",
+    "products": ["FLATUPLEXIN", "SINUXIN", "EFIRUB"]
+  },
+  {
+    "lab": "4A SANTE",
+    "products": [
+      "HEMOLOG",
+      "NIFLURIC",
+      "MICOTYDE",
+      "KETOFEN",
+      "TRAMADINE",
+      "NAUSETRON",
+      "METROFAGYL",
+      "ROVAZINE",
+      "O.Z.+",
+      "FLAMAZOLE",
+      "DEBRICALM",
+      "NATRIDENT",
+      "SUPPFADOL",
+      "DICLOFAR",
+      "EURAXYL",
+      "SPASMINE",
+      "MYCOMAZOLE",
+      "GYNOVASOL",
+      "THYNORES",
+      "VISCERAL",
+      "SERTAZOLE",
+      "THYNORES PLUS",
+      "FUCIDANE",
+      "GLYCERINE",
+      "PIROXENE"
+    ]
+  },
+  {
+    "lab": "AB-BIOTICS",
+    "products": ["IRONLACT", "IRONGEST"]
+  },
+  {
+    "lab": "ABBOTT",
+    "products": [
+      "PENICILLINE G",
+      "FREESTYLE",
+      "FLAMMAZINE",
+      "FREESTYLE OPTIUM",
+      "NIBIOL"
+    ]
+  },
+  {
+    "lab": "ABBOTT EPD",
+    "products": [
+      "TULLE GRAS LUMIERE",
+      "ZECLAR",
+      "LIPANTHYL",
+      "DICETEL",
+      "DRIPTANE",
+      "DUPHASTON",
+      "INFLUVAC TETRA",
+      "DUPHALAC",
+      "ROWASA",
+      "PHYSIOTENS",
+      "TIORFAN",
+      "CLIMASTON",
+      "CREON",
+      "DUSPATALIN",
+      "BETASERC",
+      "RESTORGEL"
+    ]
+  },
+  {
+    "lab": "ABD.IBRAH.REMED.PH",
+    "products": [
+      "GABALYSE",
+      "POTONEX",
+      "TAMSUMED",
+      "INFERTEX",
+      "POLIVITA KIDS",
+      "PROSTAMED",
+      "DICYNONE ABDIBRAHI",
+      "ORNISID",
+      "FERRUM",
+      "TRIFER FOL",
+      "RIVOKSAR",
+      "ESCITOL",
+      "INAGRA",
+      "SELOFER",
+      "ABDIFLY",
+      "EPIXX",
+      "BASALOG ONE",
+      "BREQUAL",
+      "LEVOTIRON",
+      "ABILIFY",
+      "ONCEAIRE",
+      "NORMALAC",
+      "REXAPIN",
+      "DOXIUM",
+      "LAMINOX",
+      "POLIVITA",
+      "ADONIS",
+      "ABDIFLY OD",
+      "SELOFER FOL",
+      "TRIFER"
+    ]
+  },
+  {
+    "lab": "ABDI BRAHIM",
+    "products": ["ORNISID FORT"]
+  },
+  {
+    "lab": "ABOPHARM",
+    "products": ["VIT C ABOPHARM", "MAGNESIUM ABOPHARM"]
+  },
+  {
+    "lab": "ACM FRANCE",
+    "products": [
+      "XEROLYS",
+      "VITIX GEL",
+      "ACM BOREADE M",
+      "ACM BOREADE R",
+      "CICATRYL",
+      "ACM BOREADE SOIN G",
+      "ACM BOREADE SL",
+      "BOREADE LAVANTE",
+      "DECRAMPE",
+      "NOVOPHANE",
+      "ACM DUOLYS MAS PEE",
+      "ACM CICASTIM",
+      "ACM AZEANE",
+      "ACM DUOLYS CR PEEL"
+    ]
+  },
+  {
+    "lab": "ACON",
+    "products": ["ON CALL PLUS", "ON CALL EXTRA"]
+  },
+  {
+    "lab": "ADN PHARMA",
+    "products": [
+      "MULTIVITAMINE CURE",
+      "VIE-TALITY MAGNESI",
+      "MULTIVITAMINES SPR"
+    ]
+  },
+  {
+    "lab": "ADVANCED PHAR CARE",
+    "products": ["ALGAE CARE PLUS", "L CARNITINE PLUS"]
+  },
+  {
+    "lab": "AEI 24",
+    "products": ["FORTIFERRUM+", "EASYCOL BABY"]
+  },
+  {
+    "lab": "AFROPHARM",
+    "products": [
+      "BACTISOL",
+      "SYMBIOVITAM KID ME",
+      "SYMBIOVITAM",
+      "DEXCHLORPHENI.AFRO",
+      "NATRYL",
+      "NIFUROXAZIDE AFRO",
+      "FLUDAZOL",
+      "ACETADOL",
+      "SULPIRYL",
+      "SYMBIOVITAM GINSEN",
+      "RHUMAFRO",
+      "VALPROATE AFRO",
+      "SYMBIOVITAM ROY+C",
+      "SANITHOL",
+      "POLYPHENE"
+    ]
+  },
+  {
+    "lab": "AFZLAB",
+    "products": ["HEMOCARE"]
+  },
+  {
+    "lab": "AGD PHARM",
+    "products": ["PRIMPA", "FOLACIQ", "K-PLUS", "DORLAMINE"]
+  },
+  {
+    "lab": "AL DAR AL ARABIA S",
+    "products": ["ECOCLAV"]
+  },
+  {
+    "lab": "ALBION",
+    "products": ["ALBIFER PLUS", "ALBIFER"]
+  },
+  {
+    "lab": "ALCON",
+    "products": [
+      "ATROPINE ALCON",
+      "OPTI-FREE",
+      "SYSTANE HYDRATION",
+      "SYSTANE ULTRA",
+      "SYSTANE GEL"
+    ]
+  },
+  {
+    "lab": "ALEMBIC MAMI SPA",
+    "products": ["LEPTICA", "CO-AVASART", "ARBREX"]
+  },
+  {
+    "lab": "ALFA INTES",
+    "products": ["IALUVIT", "IDROFLOG", "OFTAIAL PLUS"]
+  },
+  {
+    "lab": "ALGERIA GENERI.DEV",
+    "products": [
+      "SWOR",
+      "PREDNISOLONE AGD",
+      "TRIMEBUTINE-AGD",
+      "LACTULOSE AGD",
+      "HYDROXYZINE AGD"
+    ]
+  },
+  {
+    "lab": "ALGERIA PHARM.INST",
+    "products": [
+      "FLUIMEX",
+      "SARGENINE",
+      "ASTENIA CALCIUM",
+      "ASTENIA VITAMI B12",
+      "ASTENIA VITAMINE C",
+      "CYPRODINE",
+      "API E",
+      "CORTIPRED",
+      "APISCORBUT",
+      "APITIDINE",
+      "APIROVIT",
+      "APILOR",
+      "DOFEBRIL C",
+      "ASTENIA MAGNE V.B6",
+      "CALCIBRO",
+      "CALCIUM API",
+      "DOFEBRIL"
+    ]
+  },
+  {
+    "lab": "ALGERIE PHARM",
+    "products": ["BANDELETTES URINAI"]
+  },
+  {
+    "lab": "ALIFAT PHARM",
+    "products": ["CHARBON DIET"]
+  },
+  {
+    "lab": "ALLEPO",
+    "products": ["ALPHAXITROL", "NEODRON"]
+  },
+  {
+    "lab": "ALLERGAN DULCIS",
+    "products": ["VITAMIN B12"]
+  },
+  {
+    "lab": "ALLIANCE PHARMA",
+    "products": ["BIO-TACHE"]
+  },
+  {
+    "lab": "ALPHACARE",
+    "products": [
+      "CALMAZEN",
+      "GYNOFENE",
+      "BIOPROPOLIS-C",
+      "TAMAREL",
+      "VITAMINE E ALPHA",
+      "ANTALGAN",
+      "VEREX",
+      "NUTRI D3",
+      "NUTRIFER B9 C"
+    ]
+  },
+  {
+    "lab": "ALPHARM",
+    "products": ["VIT-C 500"]
+  },
+  {
+    "lab": "ALPHARMEX",
+    "products": ["MEMOSTIM", "VITACTIV C", "MULTI-VITACTIV", "MAG 300"]
+  },
+  {
+    "lab": "AMAL BEAUTE",
+    "products": ["NITRAL PLUS"]
+  },
+  {
+    "lab": "AMB PHARMA",
+    "products": [
+      "VITAMINE D3",
+      "CALCIGENOL",
+      "MELATONINE +",
+      "VITA FOR  POLY VIT",
+      "VITA FORCE",
+      "THYMOCALYPTOL"
+    ]
+  },
+  {
+    "lab": "AMDIPHARM",
+    "products": ["FUCITHALMIC"]
+  },
+  {
+    "lab": "AMMAN PHARMAC INDU",
+    "products": ["APIFEN"]
+  },
+  {
+    "lab": "ANFARM",
+    "products": ["CLOMIFENE CITRATE"]
+  },
+  {
+    "lab": "ANGELICA PHARM",
+    "products": ["VITAMINE C", "VITAMINE C + ZINC"]
+  },
+  {
+    "lab": "ANIYA PHARME",
+    "products": ["LILIUM URICITRIL"]
+  },
+  {
+    "lab": "ANTIBIOTICOS FARMA",
+    "products": ["ANTIBIOPEN"]
+  },
+  {
+    "lab": "API",
+    "products": ["FIXECAL", "VIT E API", "ACIDE FOLIQUE", "MP"]
+  },
+  {
+    "lab": "APIPHARM",
+    "products": ["APITUSIK", "APIPOL"]
+  },
+  {
+    "lab": "APMP",
+    "products": ["CALCIUM"]
+  },
+  {
+    "lab": "APOTHEKE",
+    "products": [
+      "ACTIMER ISOTONIQUE",
+      "POLYFER",
+      "ACTIMER HYPERTONIQ",
+      "ACTIMER MANGANESE",
+      "ACTIMER CUIVRE",
+      "ACTIMER SOUFRE",
+      "PHYSIOSEL PEDIATRI"
+    ]
+  },
+  {
+    "lab": "APU",
+    "products": ["PENICILLINE V"]
+  },
+  {
+    "lab": "ARABPHARM",
+    "products": [
+      "PYROMAG",
+      "GEMATE",
+      "SULMATIL",
+      "GEMAL",
+      "GEFEN",
+      "GEFRANE",
+      "GESPASFON",
+      "GETADINE",
+      "GETRAT",
+      "GEPROFENE",
+      "LAMOXYL",
+      "EOSINE AQUEUSE",
+      "PHLOGOREN",
+      "GETOL"
+    ]
+  },
+  {
+    "lab": "ARAFARMA",
+    "products": ["CARTICURE"]
+  },
+  {
+    "lab": "ARAGEN",
+    "products": [
+      "TEST GROSS.PRECOCE",
+      "TEST OVULAT.ARAGEN",
+      "ARAGEN GLUCOMETRE",
+      "TEST GROSSE.ARAGEN",
+      "BAND URINE ARAGEN"
+    ]
+  },
+  {
+    "lab": "ARKOPHARMA",
+    "products": [
+      "RHODIOLE STRE/PASS",
+      "ARKOFLUIDE PROGRAM",
+      "ARKO ANANAS",
+      "ARKO LEVURE DE RIZ",
+      "ARKOVIT PUR ENE/MU",
+      "ARKOVITAL PUR ENER",
+      "ARKO CAFE VERT",
+      "ARKOROYAL",
+      "ARKO MEMOBOOST",
+      "ARKO TRIBULUS",
+      "FORCAPIL",
+      "ARKORELAX SOMMEIL",
+      "ARKOROY. GEL RO/CO",
+      "ARKO SPIRULINE"
+    ]
+  },
+  {
+    "lab": "ASCENSIA DIAB.CARE",
+    "products": ["CONTOUR TS", "CONTOUR PLUS"]
+  },
+  {
+    "lab": "ASEPTA",
+    "products": ["AKILENJUR ENGLURES", "AKILEINESPR RELAX"]
+  },
+  {
+    "lab": "ASIA PHARMACEUTICA",
+    "products": ["LOPRESS", "FLAGISOL", "CLOMIDINE", "ALDOMETHYL"]
+  },
+  {
+    "lab": "ASIX",
+    "products": ["AKERASIX", "VEINODERM"]
+  },
+  {
+    "lab": "ASPEN PHARMA",
+    "products": [
+      "ECINQ",
+      "ZYLORIC",
+      "IMUREL",
+      "FRAXIPARINE",
+      "XYLOCAINE",
+      "DECA-DURABOLIN"
+    ]
+  },
+  {
+    "lab": "ASTELLAS PHARMA",
+    "products": [
+      "LOCOID",
+      "JOSACINE",
+      "UN-ALFA",
+      "VESICARE",
+      "ORBENINE",
+      "ELIGARD"
+    ]
+  },
+  {
+    "lab": "ASTRACARE",
+    "products": ["RHUME UP", "FLECTOGYL KINE", "APEOL"]
+  },
+  {
+    "lab": "ASTRAZENECA",
+    "products": [
+      "ARIMIDEX",
+      "TENORDATE",
+      "BRILIQUE",
+      "ZOLADEX",
+      "HYTACAND",
+      "AVLOCARDYL",
+      "BRICANYL",
+      "INEXIUM",
+      "NOLVADEX",
+      "PULMICORT",
+      "SYMBICORT",
+      "ATACAND",
+      "OXEOL",
+      "CASODEX",
+      "CRESTOR"
+    ]
+  },
+  {
+    "lab": "AT PHARMA",
+    "products": ["HELIX", "DIPICARD"]
+  },
+  {
+    "lab": "ATABAY",
+    "products": ["TRIMEBUTINE"]
+  },
+  {
+    "lab": "AUDISTIMPHARMA",
+    "products": ["AUDISTIM EQUILIBRE", "AUDISTIM JOUR/NUIT"]
+  },
+  {
+    "lab": "AUROBINDO PHARMA L",
+    "products": ["AURACENO"]
+  },
+  {
+    "lab": "AVALON PHARMA",
+    "products": ["DEXA"]
+  },
+  {
+    "lab": "AVENE",
+    "products": ["AVENE GELE GOM.VIS"]
+  },
+  {
+    "lab": "AVICENA FARMACIA",
+    "products": ["AVIMER", "EPIDAFINE"]
+  },
+  {
+    "lab": "AVIZOR",
+    "products": ["AQUA SOFT", "LACRIFRESH MOISTUR"]
+  },
+  {
+    "lab": "AXONLAB",
+    "products": ["BANDLETTE GLUCOCAR"]
+  },
+  {
+    "lab": "AYLED",
+    "products": ["AYLED EOSINE"]
+  },
+  {
+    "lab": "BARBARA PHARM",
+    "products": ["CICATOP"]
+  },
+  {
+    "lab": "BAUSCH & LOMB",
+    "products": [
+      "CARTEOL LP",
+      "THERA PEARL",
+      "CARTEOL",
+      "FRAKIDEX",
+      "DESOMEDINE",
+      "PRESERVISIO LUTEIN",
+      "BIOLUTEINA TOTAL",
+      "PRESERVISION 3",
+      "CERULYSE",
+      "INDOCOLLYRE",
+      "ARTELAC",
+      "DERMOCUIVRE",
+      "CEBEMYXINE",
+      "CEBISINE",
+      "GENTAMICINE CHAUVI",
+      "LIPOSIC",
+      "BESIVANCE",
+      "LEVOPHTA",
+      "AQUALARM INTENS UD",
+      "AQUALARM U.P. INTE"
+    ]
+  },
+  {
+    "lab": "BAYER CLASSICS",
+    "products": ["MICROLET"]
+  },
+  {
+    "lab": "BAYER HEALTH.PHARM",
+    "products": [
+      "ANDROCUR",
+      "DIANE 35",
+      "MAGNEVIST",
+      "MIRENA",
+      "BETAFERON",
+      "VISANNE",
+      "ULTRAVIST 370",
+      "ULTRAVIST 300",
+      "LOGYNON",
+      "GLUCOBAY",
+      "XARELTO",
+      "BEPANTHEN SENSICAL",
+      "PROGYNOVA",
+      "CLIMENE",
+      "MICROGYNON 30",
+      "PROGESTERONE PHARL",
+      "JASMINE",
+      "PROVIRON",
+      "MELIANE"
+    ]
+  },
+  {
+    "lab": "BAYER SANTE FAMIL.",
+    "products": [
+      "MADECASSOL",
+      "BEPANTHENE",
+      "HYDRALIN APAISANT",
+      "RENNIE DEFLATINE",
+      "HYDRALIN GYN",
+      "CLARITYNE",
+      "ELEVIT GROSSESSE",
+      "RENNIE",
+      "SUPRADYNE",
+      "DERMHYDRALIN",
+      "SUPRADYN ENERGY",
+      "SUPRADYN BOOST",
+      "SUPRADYNE MAGNESIE",
+      "ASPRO ACCEL",
+      "GADOVIST"
+    ]
+  },
+  {
+    "lab": "BBMY PHARMA",
+    "products": ["AVITYS MULTIVIT", "AVITYS VITAMINE C"]
+  },
+  {
+    "lab": "BECTON DICKINSON",
+    "products": ["BD MICRO-FINE PLUS"]
+  },
+  {
+    "lab": "BEIT JALA PHARMA",
+    "products": [
+      "ZYDEX",
+      "DENACINE",
+      "POVIDEX",
+      "MYCOTEN",
+      "MYCOTEN III",
+      "TINASIL",
+      "HARRAR",
+      "DANDREX",
+      "CORTEN",
+      "BARRAD",
+      "HEALER",
+      "HUDU",
+      "OPHTALGON"
+    ]
+  },
+  {
+    "lab": "BEKER",
+    "products": [
+      "B2R LACTATION",
+      "APIXABEK",
+      "COLESTOR LP",
+      "CO-BEKERDIS",
+      "IRBEK",
+      "GLIMEPIRIDE BEKER",
+      "B2R BOOST",
+      "FREEGAS",
+      "GLYBEK",
+      "BISOPROLOL BEKER",
+      "SOCOB",
+      "PREDNISOLONE BEKER",
+      "B2R HEMORROIDES",
+      "ATABEK",
+      "IBUPROFENE BEKER",
+      "AMLODIPINE BEKER",
+      "ESCITALOPRAM BEKER",
+      "TERBINAFINE BEKER",
+      "CO IRBEK",
+      "B2R MENOPAUSE",
+      "MONTELUKAST BEKER",
+      "COLESTOR",
+      "PINATEL",
+      "TAMSULOSINE BEKER",
+      "B2R SOMMEIL",
+      "REPAGLINIDE BEKER",
+      "B2R CONFORT INTIME",
+      "B2R PEAU",
+      "B2R MINCEURS",
+      "KANABEK",
+      "DARTIX",
+      "LERCANIDIPINE BEKE",
+      "LESURIC",
+      "PAROXETINE BEKER",
+      "CO VALASTAN",
+      "SITAGLIPTINE BEKER",
+      "MIGREX",
+      "NAFTILENE",
+      "COBEKTAL",
+      "TROMBIX",
+      "MYCOZAN",
+      "LAX-SENA",
+      "ASPEC",
+      "DOMPERIDONE BEKER",
+      "PERINDOPRIL BEKER",
+      "INDAPAMIDE BEKER",
+      "XETREME",
+      "AMISULPRIDE",
+      "B2R MEMOIRE",
+      "OLANZA ORO",
+      "OSPORIX",
+      "OSTONEL",
+      "VIABEK",
+      "PRO-EVEIL",
+      "DONEPEZIL BEKER",
+      "ARIPIPRZOL BKR ORO",
+      "CIPROFLOXACINE BEK",
+      "SETREME",
+      "APAP TRAMADOL BEKE",
+      "B2R VISION",
+      "B2R JAMBES LOURDES",
+      "CO-ATABEK",
+      "ARIPIPRAZOLE BEKER",
+      "BEKTAL",
+      "RISPERIDONE BEKER",
+      "PREGABALINE BEKER",
+      "MOLSIDOMINE BEKER",
+      "MOXONIDINE",
+      "MUSCLAX",
+      "TRAMADOL BEKER",
+      "APAP CAFEINE BEKER",
+      "BEKERDIS",
+      "PLAXELOR",
+      "FEXOFENADINE BEKER",
+      "B2R CHEVEUX ET ONG",
+      "B2R RHUME ET GRIPP",
+      "MEBEVERINE BEKER",
+      "MEMANTINE BEKER",
+      "TADALIS",
+      "METRONIDAZOLE BEKE",
+      "B2R ARTICULATION",
+      "LAMOTRIGINE BEKER",
+      "B2R RESPICURE",
+      "QUETIAPIN BEKER LP",
+      "ATORIN",
+      "LEVETIRACETAM BEK.",
+      "RESPIPACK",
+      "OLANZA",
+      "AZITHROMYCINE BEKE",
+      "CELECOXIB BEKER",
+      "ASPIRINE BEKER",
+      "LORATADINE BEKER",
+      "VALASTAN",
+      "HYDROXYCHLOR BEKER",
+      "DOXAZOSINE BEKER",
+      "NEXECOR"
+    ]
+  },
+  {
+    "lab": "BELLAVIE SYNBIOCEU",
+    "products": [
+      "SYNBIOTIQUE STRESS",
+      "SYNBIOTIQUE IMMUNO",
+      "SYNBIOTIQUE GYN",
+      "SYNBIOTIQUE PEDIA"
+    ]
+  },
+  {
+    "lab": "BELMAC",
+    "products": ["LOPERAMIDE"]
+  },
+  {
+    "lab": "BENJECT PHARMA",
+    "products": [
+      "STIMER NEZ BOUCHE",
+      "STIMER ALOE VERA",
+      "STIMER ALLERGIE",
+      "STIMER ISO ENF&NRS"
+    ]
+  },
+  {
+    "lab": "BERLIN-CHEMIE AG",
+    "products": ["TEMERIT"]
+  },
+  {
+    "lab": "BESINS HEALTHCARE",
+    "products": ["ISITOL"]
+  },
+  {
+    "lab": "BESINS ISCOVESCO",
+    "products": ["UTROGESTAN", "OESTROGEL", "PROGESTOGEL"]
+  },
+  {
+    "lab": "BIAFINE",
+    "products": ["CICABIAFINE CR A/I"]
+  },
+  {
+    "lab": "BIAL",
+    "products": ["VICOMBIL FERRUM", "VICOMBIL 100%"]
+  },
+  {
+    "lab": "BIO AROMA",
+    "products": ["BIO KINE"]
+  },
+  {
+    "lab": "BIO BRAO",
+    "products": [
+      "PHYSIOBRAO",
+      "BIO BRAO CRM PIEDS",
+      "SOMIBRAO",
+      "VIT C+ZIN BIO BRAO",
+      "EKZEBRAO",
+      "BRAOLAX"
+    ]
+  },
+  {
+    "lab": "BIO LIFE SANTE",
+    "products": ["BRULUTADINE"]
+  },
+  {
+    "lab": "BIO PHYTPHARMA",
+    "products": ["STOP HERPES"]
+  },
+  {
+    "lab": "BIOCARE",
+    "products": [
+      "BIOVEX AD",
+      "PHLOROXIM",
+      "DIACARE",
+      "FOSACARE",
+      "FLOVENAC",
+      "NICARDIPINE BIOCAR",
+      "PENI G BIOCARE",
+      "BIOLAM",
+      "TRIMEBUTINE BIOCAR",
+      "TRIMETAZIDINE BIOC",
+      "STRICARE",
+      "RANICARE",
+      "ANTAG",
+      "GLIMICARE",
+      "BI-OROGYL",
+      "AMASTAN",
+      "TROIS B",
+      "TELMISA",
+      "EXTENCINE",
+      "XYCARE",
+      "CIPROFLOXACINE BIO",
+      "FORMENTIN",
+      "FUCARE",
+      "BIOMID BR",
+      "METYCARE",
+      "ZINCARE",
+      "MYORELAX",
+      "ANTIUM",
+      "BIOFORGE",
+      "OROGYL",
+      "FENACARE",
+      "DIFLUCARE",
+      "GLIFLOCARE",
+      "MONKAST",
+      "FLOVENAC L P",
+      "CIPROTEK",
+      "CABERNEX",
+      "URICARE",
+      "BIOTENS",
+      "BIOCLAV",
+      "BUTAFEN",
+      "BIOCETAM",
+      "PARACETAMOL BIOCAR",
+      "BIORAVA",
+      "SPIRACARE",
+      "INHIXA",
+      "DORMINE",
+      "ARBOSE",
+      "DIAGLINIDE",
+      "AMPINAX",
+      "BIOPAMOX",
+      "FLUCONAZOLE BIOCAR",
+      "BIOVEX",
+      "UDINE",
+      "CALVITACARE",
+      "BIOMID"
+    ]
+  },
+  {
+    "lab": "BIOCARE BIOTECH SP",
+    "products": ["BIORAPID", "BIOMYXE", "GLARUS", "NORMOTROPE"]
+  },
+  {
+    "lab": "BIOCHEMIE",
+    "products": ["ORALGIC"]
+  },
+  {
+    "lab": "BIOCODEX",
+    "products": ["OTIPAX", "STIMOL", "STRESAM", "ACUPAN", "ULTRA-LEVURE"]
+  },
+  {
+    "lab": "BIOFAR",
+    "products": [
+      "VITAMINE C NATUREL",
+      "MAGNESIUM POTASIUM",
+      "ACE SELENIUM-ZINC",
+      "12 VITAMINES",
+      "MAGNES&VIT.B1&B6",
+      "CALCIUM+MAGNESIUM",
+      "CALCIUM-VITAMIN D3",
+      "KIDS MULTI VITAMIN"
+    ]
+  },
+  {
+    "lab": "BIOFER",
+    "products": [
+      "SOMMEIL BIO",
+      "TONIVEINE",
+      "HEPADETOX",
+      "VITAM C+ZINC GOLD",
+      "PROSTABIO",
+      "ZINC GOLD",
+      "FENUGREC",
+      "MAGNESIUM",
+      "ARTHOCALM",
+      "SLIMING BIO MINCEU",
+      "CAPIHEAR",
+      "VITAMINE C GOLD",
+      "DESIREX",
+      "MENOFLORE"
+    ]
+  },
+  {
+    "lab": "BIOGALENIC",
+    "products": [
+      "DOMPERIDONE BGL",
+      "RIMETAZE",
+      "CAREFER",
+      "DERMASONE",
+      "EXPANDOL",
+      "MACA NUTRA",
+      "PHENOXAL",
+      "OLIGOZINC",
+      "TRIMEBUTINE",
+      "DOXALAX",
+      "ANEFOL",
+      "PAROXETIL BGL",
+      "VEFLAT",
+      "CARBIMOL",
+      "RHITENE",
+      "OSSECAL",
+      "RITADOLE",
+      "VIT B1-B6 BGL",
+      "VITAMINE E",
+      "TRIMETAZIDINE BIO-",
+      "ZOLOVER",
+      "HALOPERIDOL BGL",
+      "CLARITHRO",
+      "BETABIO",
+      "MASTIBIOTIC",
+      "VERTEN",
+      "PHLOROGLUCINOL BGL",
+      "VALPROATE NA BGL",
+      "CARDINOL BGL",
+      "TERAPRED",
+      "MEQUITAZ",
+      "PROLAX",
+      "GLUPOTAS",
+      "OMAG B6",
+      "NASABEC",
+      "LEVOCARB",
+      "SITANORM BGL",
+      "UROXYB",
+      "FLORABIOTIC",
+      "ZINC +VIT C",
+      "GYNOVAL",
+      "BIOTAKAN",
+      "OMAG",
+      "ZODID",
+      "EXPANDOL PLUS",
+      "XAVEL",
+      "OLTROVA",
+      "PRADOL",
+      "ASPICARD",
+      "OKAGE",
+      "OXYDOUCE",
+      "RANITIDINE BGL",
+      "MOXONORM",
+      "SPIROZIDE",
+      "NOXENE",
+      "LOMZOLE BGL",
+      "MOMENEX",
+      "EL-CHIH NUTRA",
+      "LEVONON BGL",
+      "ACETYLCYSTEINE BGL",
+      "OXYDOUCE PLUS",
+      "OSSE D3",
+      "FLUCASONE",
+      "ECONAZ",
+      "METAFOLIC",
+      "MEDOGYL",
+      "CARDAXEL PLUS",
+      "OMEPRAZOLE BIOREM",
+      "CHARBON VEG ACTIV",
+      "DESPAVINE",
+      "PREZIVA",
+      "BISOSEL",
+      "BIOSPAN KIDS",
+      "DONICORT",
+      "RISPERIDONE BGL",
+      "ZITHROMYCINE BGL",
+      "VITAMINE B1 B6",
+      "BIOFEN",
+      "DIABAMINE",
+      "SCIPRAL",
+      "BROMAZEPAM",
+      "PARKIDYL",
+      "SPIRONOLONE",
+      "FLUCASONE MINI",
+      "NEUPREN",
+      "DESDOLE BGL",
+      "DIACARBOSE",
+      "VITAMINE D3",
+      "RESPINHAL",
+      "CLOXTON",
+      "VITAMINE C",
+      "PERMANGANATE DE K",
+      "RHYNEX",
+      "CLONAPRIME",
+      "PIEDRANCA",
+      "GLINIDIA",
+      "DIOVEINE",
+      "BUCCOGYL",
+      "GLICLAZIDE BGL",
+      "DOCATRIL",
+      "PROLATINEX BGL",
+      "G-SULPIRIDE",
+      "NASACET",
+      "DICLOFLEX",
+      "CEKAGE",
+      "BIOCARB",
+      "DEPRISOLE",
+      "BEMINE VIT B",
+      "OMEGA 3 BGL",
+      "CICONA BGL",
+      "NAFRONYL",
+      "COEXPANDOL",
+      "XEFURYL",
+      "CARDAXEL BGL",
+      "MENODIS",
+      "PAROXETINE BGL",
+      "PRAMYCINE"
+    ]
+  },
+  {
+    "lab": "BIOGARAN",
+    "products": [
+      "TRIMEBUTINE BG",
+      "FUROSEMIDE BG",
+      "BROMAZEPAM BG",
+      "RANITIDINE BG",
+      "MEBEVERINE BG",
+      "AMOXICILLINE BG"
+    ]
+  },
+  {
+    "lab": "BIOGEN IDEC",
+    "products": ["AVONEX"]
+  },
+  {
+    "lab": "BIOGENAL PHARMA",
+    "products": ["TROPIRUS"]
+  },
+  {
+    "lab": "BIOHDER GROUP",
+    "products": ["OZOL"]
+  },
+  {
+    "lab": "BIOHORMA BELGIUM",
+    "products": ["MULTIGYN LIQUIGEL"]
+  },
+  {
+    "lab": "BIOLOGICI",
+    "products": ["VITAMINE C"]
+  },
+  {
+    "lab": "BIOLUXE HEALTH",
+    "products": ["ACTIKIDS TOUX", "ACTIKIDS"]
+  },
+  {
+    "lab": "BIOLYNE",
+    "products": [
+      "VITAMINE D",
+      "GASTRICON",
+      "VITAMINE E",
+      "VITAMINE C",
+      "BIOLYNE GRIP ET RH",
+      "KERATINE ACTIVE",
+      "MULTIVITAMINES. AD",
+      "BIOLYNE VITAMINE C",
+      "MULTIVITAMINES ENF",
+      "LITHOSIUM"
+    ]
+  },
+  {
+    "lab": "BIOLYSE",
+    "products": ["GLUCOSE", "CHLORURE SODIUM"]
+  },
+  {
+    "lab": "BIOMAX",
+    "products": [
+      "BIOMAX CHARBON VEG",
+      "BIOMAX B-FERON",
+      "APPETIT MAX",
+      "BIOMAX BIO DIGEST",
+      "BIOMAX TESTO MAX",
+      "BIOMAX GAR CAMBOGI",
+      "OMEGA KIDS",
+      "BIOMAX SELENIUM",
+      "BIOMAX GINSENG",
+      "BIOMAX ANTI CHUTE",
+      "BIOMAX NAT. VIT.E",
+      "BIOMAX ARTRO BLOCK",
+      "BIOMAX MELATONINE",
+      "BIOMAX BIO-FERTYL",
+      "BIOMAX MEMOI+OME 3",
+      "BIOMAX ZINC",
+      "RESPI-MAX",
+      "BIOMAX GLUCO MARIN",
+      "VIT.C+ZINC BIOVIE",
+      "BIOMAX BIOVIT",
+      "BIOMAX COLLAGENE",
+      "BIOMAX LEV DE BIER",
+      "BIOVIE VITAMINE C",
+      "BIOMAX BIOVEINE",
+      "BIOMAX VITAMINE E",
+      "BIOMAX VIT.C +ZINC",
+      "FLEXAGENE",
+      "BIOMAX SUPRABIOTIQ",
+      "MAGMAX",
+      "BIOMAX VITAMINE D3",
+      "BIOMAX MEMOIRE+",
+      "BIOMAX BIO-SLIM",
+      "BIOMAX APPETIT MAX",
+      "BIOMAX FRUCTOSE",
+      "BIOMAX OME.3 6 7 9",
+      "BIOMAX PEDIA APETI",
+      "BIOMAX ALOE DIGEST",
+      "BIOMAX MAG B1 B2B6",
+      "BIOMAX BIOSITOL",
+      "BIOMAX 3 6 9",
+      "BIOMAX CURCUMA",
+      "BIOMAX COLICBLOCK",
+      "BIOMAX ENERGY PLUS",
+      "BIOMAX PROFOLIS",
+      "BIOMAX MAGN.+V B6",
+      "BIOMAX MLTIVITAMIN",
+      "BIOMAX OMEGA 3",
+      "BIOMAX COMPLEX C +",
+      "BIOMAX OMEGA",
+      "BIOMAX Q10",
+      "VOMI BLOCK",
+      "BIOMAX GYNEFORM"
+    ]
+  },
+  {
+    "lab": "BIOMED",
+    "products": ["SERGEFORT", "SERGEFORT VIT C"]
+  },
+  {
+    "lab": "BIOMIL",
+    "products": [
+      "BIOMIL SOYA",
+      "BIOMIL PLUS",
+      "BIOMIL PRE",
+      "BIOMIL",
+      "BIOMIL LF",
+      "BIOMIL CEREAL",
+      "BIOMIL AR",
+      "BIOMIL GASTRO-FIX"
+    ]
+  },
+  {
+    "lab": "BIONIME",
+    "products": ["BIONIME GM550"]
+  },
+  {
+    "lab": "BIONUS",
+    "products": ["DORMINE", "SORBEO", "TINY", "CALVITACARE", "DORMINE PRO"]
+  },
+  {
+    "lab": "BIONUTREX HEALTH C",
+    "products": [
+      "APPETIT PRO",
+      "BIONUTREX B-COMPLE",
+      "VITABOOST MULTIVIT",
+      "BIONUTREX VIT. B12",
+      "BIONUTREX VIT. E",
+      "BION LEV DE BI+SEL",
+      "BIONUTREX SELENIUM",
+      "BIONUTREX CHARBON",
+      "BIONUTREX MAGN+ZIN",
+      "BIONUTREX VIT. C",
+      "AQUAMER",
+      "LACTABOOST",
+      "BIONUTREX ZINC",
+      "NAUSECALM",
+      "BIONUTREX GROSSESS",
+      "ANTACID",
+      "SUPRABOOST"
+    ]
+  },
+  {
+    "lab": "BIOPEER",
+    "products": [
+      "GYPANEX",
+      "KYTOL",
+      "TITANOREX",
+      "OXY ZINC PLUS",
+      "NEZOMER",
+      "XADOZINC",
+      "HYXERYL"
+    ]
+  },
+  {
+    "lab": "BIOPHARM",
+    "products": [
+      "LENAZAX",
+      "NASALAST",
+      "NOZINAN",
+      "BIOMLA",
+      "SPIRADENT",
+      "RISPAL",
+      "PEITEL",
+      "CO-IRBEVEL",
+      "VILBAR",
+      "LOMAC",
+      "TERBINAN",
+      "XAMADOL",
+      "APAISA BEBE",
+      "PAROL",
+      "LACTUGEL",
+      "RYNZA MAL DE GORGE",
+      "RIVASTI",
+      "NUTRIBIO SOMMEIL",
+      "RYNZA",
+      "XIRA-LIERRE",
+      "MEXAM",
+      "NUTRIBIO SOUPLESSE",
+      "GYNODERMOFIX",
+      "NUTRIBIO ENERGIE",
+      "APAISA PIQ",
+      "SYNOSIA",
+      "SPIRA",
+      "NUTRIBIO B.ETRE FO",
+      "RYNZA FUMIGATION",
+      "KINADYN",
+      "NUTRIBIO MINCEUR",
+      "NUTRIBIO NAUSEES",
+      "ODESTA",
+      "CORDIPINE",
+      "EMADIS",
+      "BIOPEXA",
+      "FLAGYL",
+      "KINADYN OS VIT D3",
+      "LARGACTIL BIOPHARM",
+      "MOXOTENS",
+      "BIONORM",
+      "NUTRIBIO CONF/ARTI",
+      "BIODAZOLE",
+      "PAROL FORT",
+      "ECOGYNAN",
+      "CORECT",
+      "GLATIX",
+      "BIOFENAC",
+      "NUTRIBIO CNF DIGES",
+      "DAPOXYL",
+      "VENOLITE HYDROGEL",
+      "APAISA PIQ PLUS",
+      "LORESTA",
+      "MELAZA",
+      "VERSEC",
+      "LARGACTIL",
+      "POLYVAX",
+      "BIOFENAC FAST",
+      "PRECIGO",
+      "NUTRIBIO MEMO ET C",
+      "APAISA CICA-MEBO",
+      "ZECUF",
+      "NUTRIBIO CONF INT",
+      "BIOLECT",
+      "IRBEVEL",
+      "METAZID",
+      "KINADYN CALCIUM",
+      "TRIMEBUTINE BIOPH.",
+      "FENOXAM",
+      "ANATREX",
+      "CIRBESA",
+      "NUTRIBIO JAMB/LEGE",
+      "NUTRIBIO DEF NATUR",
+      "NEURICA",
+      "RYNZA TOUX",
+      "ZOLIFY",
+      "CLOTASOL",
+      "ASPIRINE CARDIO",
+      "HEXOR",
+      "DROMAX",
+      "SURMONTIL BIOPHARM",
+      "CYSTI-STOP",
+      "NUTRIBIO LIBIDO",
+      "TYRIZAL",
+      "NUTRIBIO ANTIOXYDA",
+      "DISMENO",
+      "DOZAX",
+      "VENFAX",
+      "ALOE VERA BIOPHARM",
+      "THIOPHENICOL BIOPH",
+      "XALGIC",
+      "EPLERON",
+      "OZE PHOTOPROTECTN",
+      "OZE COLD",
+      "NUTRIBIO TN ET VIT",
+      "PAINOXAM",
+      "ZORTAN",
+      "SCLERYL",
+      "CELETASONE",
+      "NEUROCETAM",
+      "HYDRAKIN",
+      "KINADYN FER",
+      "KINADYN MAGNESIUM",
+      "VITAMINE B12 BIOPH",
+      "OLANZOMAX",
+      "QUETIAX LP",
+      "ULCEGO",
+      "BISPIRADENT",
+      "NOBAC",
+      "AZYRTINE",
+      "VOMLESS",
+      "MOUSTISTOP",
+      "NEUPAX",
+      "ESOMAC",
+      "ALGITECH  PATC.HYD",
+      "TIOPAM",
+      "DISMECT",
+      "VITOP",
+      "KILPOUX"
+    ]
+  },
+  {
+    "lab": "BIOPHARMHADOK",
+    "products": ["NUTRIDOOK D3", "DEXACALM"]
+  },
+  {
+    "lab": "BIOPHYTOTONUTRIAL",
+    "products": [
+      "AUBEPINE",
+      "BIOTINE",
+      "BPN BERBERINE",
+      "BPN HARPAGOPHYTUM",
+      "BPN QUATERFOLIC",
+      "RHUMEX",
+      "VITA D3",
+      "ARNICA BPN",
+      "BPN HLE FOIE MORUE",
+      "BPN LEVURE DE BIER",
+      "BPN L-GLUTAMINE",
+      "BPN BOSWELLIA",
+      "BPN CEREBROMAG",
+      "POTASSIUM CITRATE",
+      "BPN ASHWAGANDHA",
+      "BPN VITAMINE E",
+      "BPN L-GLYCINE",
+      "CHARBON VEGETAL AC",
+      "BPN VITAMINE C",
+      "BPN CHARDON MARIE",
+      "ANGINEX",
+      "LUGOL",
+      "ACIDE ALPHA LIPOIQ",
+      "KERATINE BIO",
+      "BPN FORTINIGELLE",
+      "BPN CARDISTRESS",
+      "BPN CHLORELLA",
+      "BPN NATIPUR COLLAG",
+      "BPN VITAMINE B COM",
+      "L-TYROSINE",
+      "BPN VITAMINE B3",
+      "BPN NAC",
+      "BPN COLLAGE+VIT C",
+      "BPN TAURINE",
+      "BPN BEPANTENE",
+      "BPN SKINCARE",
+      "BPN TRIBULUS",
+      "BPN MACA",
+      "BPN MAGNESIUM",
+      "BPN COSTUS",
+      "L-ARGININE",
+      "BPN ZINC BISGLYCIN",
+      "BPN ACIDE HYAL+COL",
+      "BPN MELATONINE",
+      "BPN CURCUMISSIME",
+      "BPN OLIVIER",
+      "BPN CITRATE DE MAG",
+      "BPN L TRYPTOPHANE",
+      "BPN DHEA",
+      "BPN L-GLUTATHION",
+      "BPN MARRON DINDE",
+      "BPN PRODIGEST",
+      "MAG 3 PLUS DUO",
+      "VITAMINE D3 NATURL",
+      "BPN GRIFFONIA",
+      "BPN MAG3 + D3",
+      "BPN VITAMINE D3",
+      "BPN VITAMINE D3 K2",
+      "BPN VITAMINE B2",
+      "PROBIOTIQUE INTIM",
+      "BPN CHROMIUM",
+      "BPN GINKGO BILOBA",
+      "BPN OMEGA",
+      "BPN SELENIUM",
+      "BPN VITAMINE B12",
+      "MELATONINE BPN",
+      "BPN FER BISGLYCINA",
+      "KONJAC",
+      "BPN IMMUNO BOOST",
+      "BPN SHILAJIT",
+      "VITAMIN B17 BPN"
+    ]
+  },
+  {
+    "lab": "BIOREM",
+    "products": [
+      "SPEEDYLAX",
+      "BIOZINAN",
+      "OXYPTANE",
+      "CHARBOREM 3+",
+      "MAGNESIUM",
+      "SERTAFIX",
+      "DHEA BR",
+      "SPIRULINE",
+      "VITAMINE D3 BR",
+      "DAIVOREM",
+      "ACETAZOLAMIDE BR",
+      "NAXIBIOL",
+      "GINKGO BR",
+      "GARLIX BR",
+      "CETOREM",
+      "ALPHA AMYLASE BR",
+      "GLYCOMMANDE",
+      "VITAMINE C BR",
+      "VITAMINE C +  ZINC",
+      "VITAMINE E",
+      "BIOFERYL",
+      "BIOPAINE BR",
+      "Q10",
+      "DAIVOREM PLUS",
+      "LANZOREM",
+      "ECONAZOLE BR",
+      "COLUSTRUM",
+      "CABERGOLINE BR",
+      "CITRATE DE BETAINE",
+      "BETAMETHASONE BR",
+      "VIT C+ ZINC BIOREM",
+      "BIOTINE BR",
+      "OMEGA 3 BR"
+    ]
+  },
+  {
+    "lab": "BIORGA",
+    "products": ["CYSTIPHANE"]
+  },
+  {
+    "lab": "BIORIM LAB",
+    "products": [
+      "DEFLAV FORT",
+      "ERECTO PERFORM MEN",
+      "SEDAPUR SEVRAGE",
+      "SEDAPUR SOMMEIL"
+    ]
+  },
+  {
+    "lab": "BIOSE",
+    "products": ["GYNOPHILUS"]
+  },
+  {
+    "lab": "BIOSYNERGIE",
+    "products": ["HUILE DE RICIN"]
+  },
+  {
+    "lab": "BIOTECH",
+    "products": ["KITO-KIT"]
+  },
+  {
+    "lab": "BIOTHERA",
+    "products": [
+      "GLATHERA",
+      "TRAVOST",
+      "DEXTHERA",
+      "THERAFRESH",
+      "OPATEK",
+      "RANICARE",
+      "OBRAX",
+      "COBAVIT",
+      "BIOCABASTINE",
+      "DICLOTHERA",
+      "DEXADROP",
+      "GENTHERAXINE",
+      "DEXATEK",
+      "ZOTHERA",
+      "BIOPROSTENE",
+      "LUMERA",
+      "D-THREE D3",
+      "TIMOLAMID",
+      "BIOPROFEN",
+      "BIOLESTENE CHRONOD",
+      "BIOLATAN",
+      "LATADUO",
+      "OFLODEXA",
+      "THERACORT",
+      "VIVFER",
+      "OFLOTEK",
+      "CIPROTEK",
+      "THERANOX"
+    ]
+  },
+  {
+    "lab": "BIOVENE",
+    "products": ["HEMO STOP +"]
+  },
+  {
+    "lab": "BIOVERAL",
+    "products": ["MEBIOL PLUS", "OXYCALMINE", "HEMOPAUSE +"]
+  },
+  {
+    "lab": "BIOVITAL",
+    "products": [
+      "EREXYL",
+      "URICYST",
+      "LOMIFEN",
+      "VITALOFER",
+      "MIZART PLUS",
+      "TIALYZ",
+      "SALFLUZON",
+      "TIOTUM",
+      "COLPOVITAL",
+      "DOLISED",
+      "MIZART",
+      "BIOSPASMYL"
+    ]
+  },
+  {
+    "lab": "BIOVIVA",
+    "products": ["VIVA C + ZINC", "BIOVIVA VVM IMMUNT", "VIVA C", "HIVERMEX"]
+  },
+  {
+    "lab": "BIOXYGEN PLUS",
+    "products": ["HEMOROFIX", "ACNEFIX", "ESCAROFIX"]
+  },
+  {
+    "lab": "BISSANE LAB",
+    "products": ["PANTHENOX", "ROSAGYN"]
+  },
+  {
+    "lab": "BLD",
+    "products": [
+      "NEUROSCIATIC",
+      "FLEX BARED",
+      "SCARDERM",
+      "FLEX VICKS",
+      "TITANORONE",
+      "BEPROTECT",
+      "VERRUNEX",
+      "HEMOFORT",
+      "FLEX HAR"
+    ]
+  },
+  {
+    "lab": "BLEDINA",
+    "products": [
+      "NURSIE",
+      "NURSIE PREMIUM",
+      "NURSIE CONFORT",
+      "NURSIE EXPERTISE",
+      "PRE NURSIE",
+      "BLEDINA FARINE",
+      "NURSIE A-D",
+      "NURSIE A.R."
+    ]
+  },
+  {
+    "lab": "BLSC",
+    "products": ["BEFREE"]
+  },
+  {
+    "lab": "BMS",
+    "products": [
+      "FUNGIZONE",
+      "KENACORT",
+      "VITAMINE C UPSA",
+      "TOTAPEN",
+      "NIFLUGEL",
+      "NIFLURIL",
+      "FERVEX",
+      "CARBOPHOS"
+    ]
+  },
+  {
+    "lab": "BOEHRINGER I.",
+    "products": [
+      "FRUBIOSE CALCIQ VI",
+      "JOSIR LP",
+      "BISOLVON",
+      "SPIRIVA",
+      "MICARDIS PLUS",
+      "MICARDIS",
+      "PRADAXA",
+      "JARDIANCE",
+      "PHOSPHALUGEL"
+    ]
+  },
+  {
+    "lab": "BOIRON",
+    "products": ["ARNICAR", "ARNICREME"]
+  },
+  {
+    "lab": "BOTTU S.A",
+    "products": ["NABYOL"]
+  },
+  {
+    "lab": "BOUCHARA-RECORDATI",
+    "products": [
+      "HEXALYSE",
+      "BASDENE",
+      "AMODEX",
+      "ZANIDIP",
+      "LECTIL",
+      "POLYDEXA",
+      "OTOFA",
+      "ABUFENE",
+      "HEXASPRAY",
+      "ZEEFRA",
+      "CALPEROS",
+      "GYNOPLIX",
+      "NEO CODION",
+      "TERGYNAN",
+      "VITAMINE D3 BON"
+    ]
+  },
+  {
+    "lab": "BREVARTIS HEALTHCA",
+    "products": [
+      "BREVARTIS OMEGA 3",
+      "BREVARTIS MAGNESM",
+      "BREVARTIS VIT. D3",
+      "BREVARTIS VIT. C"
+    ]
+  },
+  {
+    "lab": "BROTHIER",
+    "products": ["COALGAN"]
+  },
+  {
+    "lab": "CEDEM",
+    "products": [
+      "CEFER IRON",
+      "VITACED A-Z",
+      "CEMEGA JUNIOR",
+      "MAMICED",
+      "CEMEGA FISH OIL",
+      "CEBONE",
+      "CEFER SOLUTION",
+      "VITACED MULTIVITAM",
+      "CEVITAMIN",
+      "VITACED MAGNESIUM",
+      "CEMEGE 3-6-9-VIT E",
+      "CEDEM CEZINC",
+      "CECOUGH",
+      "CEJOINT PLUS",
+      "CEFERRO",
+      "CEFORTE",
+      "VITACED CA+D3",
+      "VITACED VITAMINE C",
+      "CEFORTE PLUS"
+    ]
+  },
+  {
+    "lab": "CELIA",
+    "products": [
+      "CELIA DEVELOP A.R",
+      "CELIA DEVELOP H-A",
+      "CELIA DIGEST",
+      "CELIA EXPERT",
+      "CELIA DEVELOP"
+    ]
+  },
+  {
+    "lab": "CELS LAB",
+    "products": ["FRUBIOSE BOOST", "MAG B6"]
+  },
+  {
+    "lab": "CEPHALON",
+    "products": ["SPASFON"]
+  },
+  {
+    "lab": "CEVIDRA PHARM",
+    "products": [
+      "FUNGICURE",
+      "HEXALLYRE",
+      "CEVIMER ISOTONIQUE",
+      "BIAFCURE",
+      "CEVIMEX PLUS",
+      "HEMORIDE",
+      "CEVIMER HYPERTONIQ",
+      "BRONCHOCURE"
+    ]
+  },
+  {
+    "lab": "CHIESI",
+    "products": [
+      "CETORNAN",
+      "FOSTER",
+      "RINO CLENIL",
+      "RINOCLENIL",
+      "BECLOJET",
+      "CLENIL FORT",
+      "CYCLADOL"
+    ]
+  },
+  {
+    "lab": "CINFA",
+    "products": [
+      "RESPIBIEN",
+      "ANASTROZOLE",
+      "LETROZOLE CINFA",
+      "BICALUTAMIDE CINFA"
+    ]
+  },
+  {
+    "lab": "CIPLA",
+    "products": [
+      "CYTOTREX",
+      "BUDECORT",
+      "FLOMIST",
+      "ZEROSTAT VT",
+      "ABLE SPACER",
+      "ASTHALIN",
+      "FORACORT",
+      "FLOHALE HFA"
+    ]
+  },
+  {
+    "lab": "CLAIRE EDELWEISS",
+    "products": ["LAXOIL", "SAFOGYNE"]
+  },
+  {
+    "lab": "CLINICA LAB",
+    "products": ["SUDOZINC"]
+  },
+  {
+    "lab": "CLS",
+    "products": ["LEUCODININE"]
+  },
+  {
+    "lab": "CONTINENTAL PHARMA",
+    "products": [
+      "LETRODEX",
+      "CLAVODEX",
+      "AMODEX-G",
+      "ANASTRODEX",
+      "CLAVODEX DUO"
+    ]
+  },
+  {
+    "lab": "COOPER MAROC",
+    "products": ["SERUM PHYSIO COOP."]
+  },
+  {
+    "lab": "COPERDIS",
+    "products": ["COPERSENS BANDELET", "COPERSENS LECTEUR", "CARESENS AIR"]
+  },
+  {
+    "lab": "COSMYRIAM",
+    "products": ["SINOMER"]
+  },
+  {
+    "lab": "CPCM",
+    "products": [
+      "OMED",
+      "PSYDAL ODT",
+      "AVISINE",
+      "MONCITRA",
+      "DIGOXINE CPCM",
+      "WYSERIN",
+      "DIFLU GE",
+      "ADDNOK",
+      "XARIA",
+      "OLSERAZ",
+      "NUTRA SPIRULLINA",
+      "RELAXBIOTIC",
+      "PSYCHOLANZ ODT",
+      "PCOSSITOL"
+    ]
+  },
+  {
+    "lab": "CPM",
+    "products": ["SAFE AQ PLUS"]
+  },
+  {
+    "lab": "CPMC",
+    "products": ["SOLUGE"]
+  },
+  {
+    "lab": "CREAPHARM",
+    "products": ["COLLUDOUX MA DE GO"]
+  },
+  {
+    "lab": "CROVIS PHILCOM",
+    "products": [
+      "CROVAZINE",
+      "CROVIFENE",
+      "ECONAZOLE CRP",
+      "CROXIZINE",
+      "LEVOMEPROMAZIN CRP",
+      "AMITRYPTILINE",
+      "CRONIL",
+      "CRONOLONE-NEO-NYST",
+      "BETASAL",
+      "BACRO",
+      "CRONOLONE-NEO",
+      "COTRIMOXAZOLE",
+      "PERMANGANATE K",
+      "FUROSAN",
+      "CALCITONINE",
+      "METOCROVIS",
+      "DESACROVIS",
+      "OTOCROVIS",
+      "CROVIMAZOL",
+      "SALBUTAMOL-CRP",
+      "CHLORPROMAZINE",
+      "CRONOLONE"
+    ]
+  },
+  {
+    "lab": "CS DERMATO FRANCE",
+    "products": ["OXYPLASTINE"]
+  },
+  {
+    "lab": "CSL BEHRING AG",
+    "products": ["RHOPHYLAC"]
+  },
+  {
+    "lab": "CURELAB",
+    "products": ["CURE APHTE", "CALMADENT", "CURELAB NEZ DEGAGE", "CURE VERRUE"]
+  },
+  {
+    "lab": "CYTOLAB",
+    "products": ["VITAMINE C"]
+  },
+  {
+    "lab": "DAIICHI SANKYO",
+    "products": ["LOPRESSOR"]
+  },
+  {
+    "lab": "DAMASCUS",
+    "products": ["MAXYREL"]
+  },
+  {
+    "lab": "DAR AL DAWA",
+    "products": [
+      "APHRODIL",
+      "CARBATOL",
+      "CLOMIFERT",
+      "DICLOGESIC",
+      "LIBLAB",
+      "GIZLAN PLUS",
+      "TYRA",
+      "VITADAD C+ZINC",
+      "OPRIM",
+      "DAROXIME",
+      "DADCROME",
+      "ANGIOSAR",
+      "CLORACEF",
+      "LIPODAR",
+      "LORATAN",
+      "ROXAMED",
+      "OMEDAR",
+      "DICLOFAST",
+      "GIZLAN",
+      "MATADOR",
+      "MIRALE",
+      "DOMPERIDE",
+      "CAPOCARD PLUS",
+      "CIPRODAR",
+      "GAMCET",
+      "CLARIDAR",
+      "LIBLAB THYM",
+      "PROMIVOL",
+      "CAPOCARD",
+      "CLORACEF FORTE",
+      "TAMOLIN",
+      "AZIMAC",
+      "CEPHADAR",
+      "PANTODAR",
+      "GIZLAN DUO",
+      "CLAVODAR",
+      "VITADAD D3",
+      "ROZITTA"
+    ]
+  },
+  {
+    "lab": "DAR EL BACHRA",
+    "products": ["CAL MOL"]
+  },
+  {
+    "lab": "DAVID JONES PHARMA",
+    "products": ["INSUPEN"]
+  },
+  {
+    "lab": "DBF LABORATOIRES",
+    "products": [
+      "TERBIDERME",
+      "DICLOFENAC DBF",
+      "ELEMVIT ZINC",
+      "DERMOXYD",
+      "PARACETAMOL DBF",
+      "ELEMVIT VITAMINE C"
+    ]
+  },
+  {
+    "lab": "DCMG",
+    "products": ["FERTIMAX 2", "OVOCYPLUS"]
+  },
+  {
+    "lab": "DELASS NAT PRODUCS",
+    "products": ["HEDERAL", "LACTAMOUSS", "SOOTHEX"]
+  },
+  {
+    "lab": "DELMAS",
+    "products": ["VITAMINE D3"]
+  },
+  {
+    "lab": "DEMOCEDES PHARMA",
+    "products": ["ANASTROZOLE DEMOCE", "MAMOZOL"]
+  },
+  {
+    "lab": "DENSMORE",
+    "products": [
+      "GAMETIX F",
+      "NAUSEFLASH",
+      "SUVEAL DUO",
+      "GAMETIX M",
+      "EASYNIGHT MELATONI",
+      "MAGNEFER"
+    ]
+  },
+  {
+    "lab": "DENTAL CARE PRODUC",
+    "products": ["BONY PLUS"]
+  },
+  {
+    "lab": "DEOS PHARMA",
+    "products": ["HERMORROIDE PLUS"]
+  },
+  {
+    "lab": "DERMAEOS",
+    "products": ["XERADEOS", "CICARAM B5", "DEXERAM"]
+  },
+  {
+    "lab": "DERMANOVA LABORATO",
+    "products": [
+      "ARNICADERM",
+      "AQUA MARIS",
+      "DERMANOVA ARNICA",
+      "H.E.C DERMANOVA",
+      "BIAFINOVA",
+      "INTIMEX"
+    ]
+  },
+  {
+    "lab": "DERMAVEX",
+    "products": ["COREVEX", "BEBEPENTHENE"]
+  },
+  {
+    "lab": "DERMAVIE",
+    "products": [
+      "DERMAGYN IRRITATIO",
+      "DERMAPOUX",
+      "DERMAGYN JUNIOR",
+      "ARTHROGINE CAPSICU",
+      "DERMAGYN QUOTIDIEN"
+    ]
+  },
+  {
+    "lab": "DERMILYNE",
+    "products": [
+      "MEBIOLYNE",
+      "RHUMER HYPERTONIQU",
+      "BETAZINC",
+      "LENTISCIA BRU & CI",
+      "GYNODERMIX",
+      "MELASKARE",
+      "MAMOCALM",
+      "VARINOREX",
+      "RHINO BIO",
+      "RHUMER ISOTONIQUE",
+      "TITANOREILYNE"
+    ]
+  },
+  {
+    "lab": "DERMO STYLE",
+    "products": [
+      "DERMO BARAD",
+      "DERMOSTYLE VIT. C",
+      "DOUCELLE",
+      "OMEGA-THREE JUNIOR",
+      "MAG PRO",
+      "DERMO H.E.C",
+      "COLISYLANE",
+      "PHYTOGIZONE",
+      "VEINO",
+      "PROMAG",
+      "DERMOCALME",
+      "OXYDERMYLE",
+      "VOMICUR",
+      "DERMO SPRAY",
+      "DERMO K"
+    ]
+  },
+  {
+    "lab": "DERMOSENS",
+    "products": [
+      "NASOSENS",
+      "ARTICULAT.&MUSCLE",
+      "SENS INTIME",
+      "BIOGEL GINGIVAL",
+      "NASOSENS PLUS",
+      "OXYBABY",
+      "OXYBIO",
+      "PHYSIOSENS",
+      "VAPOSENS",
+      "HEMO +",
+      "HYDRA PIED",
+      "BIOPOUX SHAMPOING",
+      "LENTISCIA",
+      "BIOROMARIN",
+      "RHINOSENS PLUS",
+      "BIOPOUX LOTION",
+      "PSORIASENS"
+    ]
+  },
+  {
+    "lab": "DERMOSTYLE",
+    "products": ["AQUACLEAR", "ZECUFAL", "ATOPICREAM"]
+  },
+  {
+    "lab": "DESMA PHARMA",
+    "products": ["DEDROGYL"]
+  },
+  {
+    "lab": "DEVELOPHARMA",
+    "products": [
+      "DEVLOR GESTADEV",
+      "MAGNESI 400+POTASS",
+      "DEVLOR MEGNESIUM",
+      "DEVLOR SUPRAFER B9",
+      "DEVLOR ALOPELIOS",
+      "DEVLOR V. E T. 400",
+      "DEVLOR VITAMINE D3",
+      "DEVLOR VISIO-FORCE",
+      "DEVLOR MULTIVITAMI",
+      "DEVLOR MENOPAUSE",
+      "DEVLOR SELENIUM",
+      "DEVLOR OMEGA 3",
+      "DEVLOR ENDORMEL",
+      "DEVLOR COLLAGENE"
+    ]
+  },
+  {
+    "lab": "DEVLOR",
+    "products": ["DEVLOR NIACIDE", "VITAMINE E TWISTOF"]
+  },
+  {
+    "lab": "DGS PHARM",
+    "products": ["SEPTYVISION"]
+  },
+  {
+    "lab": "DIAGNOSTICS CARE",
+    "products": ["ASSES AG", "ASSESS AG"]
+  },
+  {
+    "lab": "DIAMOND PHARM",
+    "products": ["LATANEKS"]
+  },
+  {
+    "lab": "DOLPINA",
+    "products": ["ZINC +VITAMINE C"]
+  },
+  {
+    "lab": "DOMINA PHARMACEUT.",
+    "products": ["ANTADINE"]
+  },
+  {
+    "lab": "DONYA PHARMA",
+    "products": ["MIRACLE FULL", "NOSECALM", "FULL MULTIVM B1 B6"]
+  },
+  {
+    "lab": "DOPPEL HAND",
+    "products": [
+      "DOPPEL HA LHOM ACT",
+      "DOPPEL HAND VIT.K1",
+      "NATURUMEX JR NUIT",
+      "DOPPEL HAND MULTIV",
+      "VITALITE MATERNITE",
+      "DOPPEL HAND MAGNE",
+      "DOPPEL HAN SOM 3N1",
+      "DOPPEL HAND OMEG 3",
+      "DOPPEL HAND ALL-B",
+      "OMEGA 3 MLTVITAMIN",
+      "DOPPEL HAND VIT. E"
+    ]
+  },
+  {
+    "lab": "DOPPELHERZ",
+    "products": [
+      "AKTIV MAGNE.+CA+D3",
+      "DH OMEGA 3 FOL.ACI",
+      "AKTIV MEN",
+      "OMEGA-3 DH",
+      "DH COENZYME Q10",
+      "DOUCE NUIT",
+      "AKTIV VITAMINE B12",
+      "PROSTACALM",
+      "AKTIV ARTRO",
+      "ANTI CHUTE",
+      "DH AKTIV D3",
+      "AKTIV OMEGA 3",
+      "VISIO+",
+      "CALCIUM D3",
+      "VITAL TONIC",
+      "DH BELLE PEAU/CH/O",
+      "DH NO-STRESS",
+      "AKTIV MAGN.+POTASS",
+      "ANTI CHUTE HOMME",
+      "UROCALM",
+      "COMPLEXE B 8 VITAM",
+      "URICALM",
+      "D.HERZ MAGNES NUIT",
+      "DOPPELHERZ RICILAX",
+      "AKTIV MENO",
+      "AKTIV VITA-MATERNE",
+      "AKTIV A/CHUTE FEMM",
+      "AKTIV RIBOTOU",
+      "DH MEMORY OMEGA",
+      "DH ANTI CELLULITE",
+      "IMMUN MULT VIT JUN",
+      "AKTIV OMEGA 3 VISI",
+      "AKTIV A-Z MULTIVIT",
+      "AKTIV ZINC+HIS+V.C",
+      "SELENIUM",
+      "AKTIV VIT.C + ZINC",
+      "AKTIV HEIBE CRANBE",
+      "DH AKTIV MAGNESIUM",
+      "DIABITIKER",
+      "AKTIV MEMORY",
+      "OMEGA-3 JUNIOR",
+      "AKTIV MINER.ET VIT"
+    ]
+  },
+  {
+    "lab": "DUCRAY",
+    "products": [
+      "DUCRAY KELUAL DS",
+      "DUCRAY DEXYNE MED",
+      "DUCRAY CREASTIM",
+      "MELASCREEN",
+      "KERACNYL PP",
+      "NEOPTIDE"
+    ]
+  },
+  {
+    "lab": "EDOL",
+    "products": ["FLOXEDOL", "GENTOCIL"]
+  },
+  {
+    "lab": "EFFIK",
+    "products": ["PROGEVA"]
+  },
+  {
+    "lab": "EGENS",
+    "products": ["TEST DE GROSS. HCG"]
+  },
+  {
+    "lab": "EIPICO",
+    "products": ["BETADERME", "SALBUTAMOL", "EPIGENT"]
+  },
+  {
+    "lab": "EISAI",
+    "products": ["LOXAPAC", "PARKINANE"]
+  },
+  {
+    "lab": "EL FARABI PROD",
+    "products": [
+      "KELTINERF FORT",
+      "GLUCOZINC",
+      "SULFAZINC",
+      "PROLIB KIDS",
+      "GLUCOZINC+VIT.C",
+      "LACTEASY",
+      "PROLIB",
+      "NUICALM",
+      "GINAKAN",
+      "FLAVDON",
+      "MENOFENE"
+    ]
+  },
+  {
+    "lab": "EL KENDI",
+    "products": [
+      "CO SARCAND",
+      "NEBCAR",
+      "LOTENSE",
+      "LOCAZONE",
+      "RESTILON",
+      "CALEVIT",
+      "SARTEG",
+      "PINAQUINE",
+      "LOSAPIL",
+      "FLUMIDE",
+      "AIRDITINE",
+      "CLOBECORT",
+      "ARTIZ",
+      "SARCAND",
+      "CRESOVAST",
+      "FLUTERAX",
+      "BESITEROL",
+      "ONDAPHREN",
+      "EXIRB",
+      "RAMITRIM PLUS",
+      "PERINDOSYL",
+      "PROF",
+      "CO SARTEG",
+      "MONTELAIR",
+      "TAMSIR",
+      "ELERAX",
+      "ACNAL",
+      "LOXAMOX",
+      "CLAMUDEX",
+      "BALTAXINE",
+      "RUPAFIN",
+      "HEDIMEN",
+      "ORTHOCAM",
+      "STOPMYCOSE",
+      "RIPERAL",
+      "ACNESTOP",
+      "ETOFAN",
+      "PROSTAX",
+      "KEPAM",
+      "NUTRIBIOTICS B.DRP",
+      "DEPADIUM",
+      "RALZYO",
+      "ABILIZOLE ORO",
+      "KEPNIROL",
+      "CO APROSART",
+      "PLAGREL",
+      "CARAFENE",
+      "ZOMIPTAN",
+      "TABETA",
+      "ALZHANTINE",
+      "ZETA-PLUS",
+      "OVUZOLE",
+      "LANZAPREX",
+      "ROPAD",
+      "KYNCEPT",
+      "LETRAGEN",
+      "ZODURA",
+      "MANTIXA",
+      "SOPVAL",
+      "METFOR LP",
+      "ARICLARE",
+      "RUMAVA",
+      "EXVAL",
+      "KENZOPRAZOL",
+      "SUPRIMIDE",
+      "TENSOTEL",
+      "NUTRIBIOTICS FIBER",
+      "EZILAX",
+      "TOPICLOMAX",
+      "PIRAMYL",
+      "TABIFLEX",
+      "PSORANEX",
+      "TALOPREX",
+      "DEPRETINE",
+      "ECHIVIT",
+      "FENATHYL",
+      "LOMAZEL",
+      "XYRIZINE",
+      "EXTEL",
+      "CO TENSOTEL",
+      "NUTRIBIOTICS M&C",
+      "ERIXIUM",
+      "CANTAPONE",
+      "XIBAN",
+      "BIPROTENS",
+      "AROVAN",
+      "FLUVACOL",
+      "ZETA-CORT",
+      "FOLENAT",
+      "PRASIVAST",
+      "ZETRON",
+      "ZETA",
+      "RUMABREX",
+      "DOPREXOL",
+      "APROSART",
+      "DILACARD",
+      "QUINOX",
+      "RAPIDUS",
+      "VENACINE",
+      "CILAGRA",
+      "DAKTAZOL",
+      "FEXODINE",
+      "MINEVIT",
+      "VASTA",
+      "TAZOTAX",
+      "STRATAN",
+      "VAVO",
+      "PINAQUINE LP",
+      "RAMITRIM",
+      "ABILIZOLE",
+      "FLAZOL",
+      "NUTRIBIOTICS STOP",
+      "MENTEX",
+      "INFECTOBAN",
+      "PSORASONE",
+      "LYRIZIN",
+      "SOMACOLINE",
+      "AMITRAL"
+    ]
+  },
+  {
+    "lab": "ELAIAPHARM",
+    "products": ["BRONCHOCALM"]
+  },
+  {
+    "lab": "ELI LILLY",
+    "products": [
+      "ZYPREXA",
+      "ABASAGLAR",
+      "HUMALOG MIX 25",
+      "HUMALOG MIX 50",
+      "CYMBALTA",
+      "HUMALOG",
+      "STRATTERA",
+      "BACTIZOL",
+      "KEFORAL"
+    ]
+  },
+  {
+    "lab": "EMCURE PHARMACEUTI",
+    "products": ["LOMOH", "MATERNA"]
+  },
+  {
+    "lab": "ENERGIA",
+    "products": [
+      "ENERGIA VIT D3",
+      "ENERGIA GROSSESSE",
+      "ENERGIA VIT E",
+      "ENERGIA OMEGA 3",
+      "ENERGIA MAGNESIUM"
+    ]
+  },
+  {
+    "lab": "EPDIS",
+    "products": ["NEUROAID II"]
+  },
+  {
+    "lab": "EPICO",
+    "products": ["EPIZOLONE DEPOT"]
+  },
+  {
+    "lab": "ERIC FAVRE",
+    "products": [
+      "SPECIAL KID OMEG 3",
+      "NAT MED OME3+VIT E",
+      "NAT MED SP KD SOML",
+      "SPECIAL KID NUTRI+",
+      "GELEE ROYAL"
+    ]
+  },
+  {
+    "lab": "ERKEXIN",
+    "products": ["ERKEXIN"]
+  },
+  {
+    "lab": "ETICOS C.E.I.S.A",
+    "products": ["BUDEK PLUS"]
+  },
+  {
+    "lab": "ETS NATURALIN",
+    "products": ["NAZOMAR"]
+  },
+  {
+    "lab": "EURAPHARMA",
+    "products": ["GYNOSITOL", "4FLEX SPORT"]
+  },
+  {
+    "lab": "EURL AS BEAUTE",
+    "products": ["SANAETHOL"]
+  },
+  {
+    "lab": "EURL COFVET LAB",
+    "products": [
+      "NERVACOF",
+      "ZINCOF",
+      "MEBO-COF",
+      "PHYLACT",
+      "FENUVITA+",
+      "SUPERMAG"
+    ]
+  },
+  {
+    "lab": "EVEREST PHARMA",
+    "products": ["GIVREX"]
+  },
+  {
+    "lab": "EVEXIA PHARMA",
+    "products": [
+      "EVEXIA MARRONR D I",
+      "EVEXIA OMEGA 3",
+      "DORBIEN PLUS",
+      "STOP ACIDE EVEXIA",
+      "NEPHRO CLE EVEXIA",
+      "ALLERG OEIL",
+      "PRENATE",
+      "EVEXIA MORINGA",
+      "EVEXIA BETAINE HCL",
+      "MOUSTICAVEX",
+      "FENUGREC EVEXIA",
+      "STOP GAZ BEBE EVEX",
+      "HYDRASOIN",
+      "ZINXIA",
+      "DORBIEN",
+      "EVEXIA MICROBIOT",
+      "B COMPLEX",
+      "HERBAL VIAGRA",
+      "CHARBON VEGETAL",
+      "EVEXIA CALCIUM",
+      "BRONCHOCLEAN",
+      "ARTICHAUT CURE",
+      "URICOCIDE",
+      "EVEXIA COENZYM Q10",
+      "ZINXIVIT-C",
+      "BONNE MEMOIRE",
+      "GINKGO BILOBA",
+      "EVEXIA FENEGREC",
+      "DECONGEX",
+      "EVEXIA SANTE PROST",
+      "ORAVEX EVEXIA",
+      "FERVEXIA",
+      "DIGEZYME",
+      "FERTIPLEX FEMME",
+      "PROBIOTIC",
+      "VITAMINE D3 EVEXIA",
+      "EVEXIA BRUL GRAISS",
+      "GARLIC",
+      "EVEXIA EVECAL",
+      "JUVEXIA",
+      "CICAVEX",
+      "APAISE TOUX",
+      "EVEXIA GINSENG BIO",
+      "OMEGA 3 JUNIOR",
+      "EVEXIA LACTOSE INT",
+      "MAGNEVEX",
+      "LIBIDOVEX",
+      "EVEXIA L-ARGININE",
+      "FERTIPLEX HOMME",
+      "EVEXIA HUILE FDM",
+      "EVEXIA DIABELYSE",
+      "EVEXIA MULTIVIAMIN",
+      "EVEXIA VITAMINE D3",
+      "BIEN ETRE DU FOIE",
+      "EVEXIA DIARILEX",
+      "EVEXIA STOP MIGRAI",
+      "CYCOBAL",
+      "EVEXIA STOPACIDE",
+      "EVEXIA MENOPAUSE",
+      "EVEXIA COLLAGENE",
+      "EVEXIA ANTI ACNE",
+      "STOP MIGRAINE",
+      "VITAMINE C",
+      "EVEXIA A/O SPIRULI",
+      "LADY VIAGRA",
+      "PROSTAR",
+      "EVEXIA FATIGA VEX",
+      "ASHWAGANDHA EVEXIA",
+      "DRAINAVEINE",
+      "CYCLE DOUX EVEXIA",
+      "EVEXIA DHEA",
+      "VISIOCLEAR",
+      "MAGNESIUM BISGL EV",
+      "EVEXIA MINCEUR PLS",
+      "EVEXIA JOINT FLEX",
+      "EVEXIA FENOUIL",
+      "EVEXIA ECLAT DENTA",
+      "EVEXIA HIBISCUS",
+      "BIOTINE EVEXIA",
+      "UROVEX",
+      "APPETITVITE",
+      "EVEXIA SOLUT AR",
+      "DERM ALLERGIE",
+      "CARTIL DE REQ EVEX",
+      "EVEXIA VITAMINE E",
+      "PREGNAFORTE",
+      "EVEXIA VERMIFUGE",
+      "VOMEXIA"
+    ]
+  },
+  {
+    "lab": "EVOLAB",
+    "products": [
+      "KERACAP FORCE",
+      "EVOFENID",
+      "EVLOSINE LP",
+      "PREMIUM JEUNESSE",
+      "EVOMISIL",
+      "EVOXYZINE",
+      "EVOCARBIZOLE",
+      "LANSOPROTECT",
+      "EVOPERAMIDE",
+      "ESOPROTECT",
+      "DEPREX",
+      "EVOGLUCINOL",
+      "OMEPROTECT",
+      "EVOPRANOL",
+      "EVOLAB MINCEUR XL",
+      "BOOST MEMOIRE",
+      "MINCEUR XL",
+      "EVONAZOLE",
+      "VITAMINE C",
+      "MAGNEVITB FORT",
+      "EVOZINC",
+      "MELARELAX",
+      "EVOZOLPIDEM",
+      "XYLINE",
+      "GABATINE",
+      "CHARBACTIVE"
+    ]
+  },
+  {
+    "lab": "EXELTIS",
+    "products": ["DIVA", "DESIRETT"]
+  },
+  {
+    "lab": "EXPANSCIENCE",
+    "products": ["PIASCLEDINE"]
+  },
+  {
+    "lab": "EXPENSIMED",
+    "products": ["AIGUILLE A INSULIN"]
+  },
+  {
+    "lab": "EXTREFARMA",
+    "products": ["COLIPREV"]
+  },
+  {
+    "lab": "FAES",
+    "products": ["VENOSMIL"]
+  },
+  {
+    "lab": "FARMALFA",
+    "products": ["GESTANE GROSSESSE"]
+  },
+  {
+    "lab": "FARMALIDER",
+    "products": ["HERBIO HEMORROIDES", "APHTES NRS ENF AD"]
+  },
+  {
+    "lab": "FARMEX",
+    "products": ["NEO MER"]
+  },
+  {
+    "lab": "FAST PHARMA",
+    "products": ["PROCTO MAX"]
+  },
+  {
+    "lab": "FERABEN",
+    "products": [
+      "SYNOVIALIC H A",
+      "VARICALM",
+      "DIZZINESS",
+      "FIBROKEY",
+      "MARGOSA",
+      "IODE",
+      "METAMORPHOSE",
+      "FAST IRON",
+      "FERABEN NEUROPATHI"
+    ]
+  },
+  {
+    "lab": "FERRER",
+    "products": [
+      "NADIXA",
+      "BIOSTAR PR/V.C/Z/M",
+      "SOMAZINA",
+      "GESTAGYN PLUS",
+      "BIO-STAR",
+      "BIOSTAR  PR/MI/GIN",
+      "BIOSTAR  PR/EU/GIN",
+      "BIOSTAR  GINS/SAUG",
+      "DERMOFIX",
+      "BIOSTAR  G/R+GINS.",
+      "NUBIT"
+    ]
+  },
+  {
+    "lab": "FERRING",
+    "products": ["PICOPREP", "MENOPUR", "MINIRIN MELT", "PENTASA"]
+  },
+  {
+    "lab": "FERROSAN",
+    "products": ["DANILASE"]
+  },
+  {
+    "lab": "FIDIA",
+    "products": [
+      "HYALO 4 START",
+      "TRIUM FREE",
+      "HYMOVIS",
+      "IRIDIUM A FREE",
+      "HYALFID",
+      "HYALONE"
+    ]
+  },
+  {
+    "lab": "FINOSA LABORATOIRE",
+    "products": ["TROLAFINE"]
+  },
+  {
+    "lab": "FLAVELAB",
+    "products": ["AMPICILLINE-FLV"]
+  },
+  {
+    "lab": "FORMAX",
+    "products": [
+      "GELAFORM MAG",
+      "GELAFORM GELSENG",
+      "GELAFORM BIOACTIVE",
+      "GELAFORM FER+",
+      "GELA FORM MAG+"
+    ]
+  },
+  {
+    "lab": "FORTI PHARMA",
+    "products": ["FORTI BIOTIC ADULT", "FORTI BIOTIC ENFAN", "FORTI BOOST MAN"]
+  },
+  {
+    "lab": "FRATER RAZES",
+    "products": [
+      "RAZIMAG",
+      "SAPRAMOL",
+      "ZOLESTA",
+      "VITAMINE B12 RAZES",
+      "GELPHORE PRO PLUS",
+      "RAZOLIX",
+      "KETARAZ",
+      "GENTAXYN",
+      "GELPHORE FER",
+      "METRONIDAZOLE",
+      "GENTAMICIN",
+      "GELPHORE CURCUMA",
+      "KETONEED",
+      "RAZIFOLINE",
+      "SPASMODYL",
+      "DICLAMID",
+      "ANTAPAM",
+      "GELPHORE GINGEMBRE",
+      "GELPHORE MAG",
+      "NORADRENALINE RAZE",
+      "TOUSPAN",
+      "VARENOX",
+      "ADANT",
+      "FRADENE",
+      "LIDOCAINE",
+      "GELPHORE SR Q10",
+      "OROLAX",
+      "SALBUTAMOL RAZES",
+      "GELPHORE BOOST",
+      "FLUMIKOZ",
+      "LEVOFLOXACINE RAZE",
+      "MODENUM",
+      "NEOSTIGMINE RAZES",
+      "CIPROFLOXACINE",
+      "VENLAXOR LP",
+      "SERLOFT",
+      "SUPRAMADOL",
+      "GELPHORE PRO",
+      "PROSTA CHECK TEST",
+      "DEXAMETYD",
+      "LANZOPOMP",
+      "DIARFAN",
+      "ZOLIDRO",
+      "VITAMINE D3",
+      "ACARLYSE",
+      "BUPIVACAINE RAZES",
+      "NICARDEX",
+      "ETAMCYNONE",
+      "CHLORURE CALCIUM",
+      "TEMGINAL"
+    ]
+  },
+  {
+    "lab": "FRATER RAZES F.SEC",
+    "products": [
+      "GABARONTIN",
+      "DIARFIL",
+      "SAPRAMOL",
+      "RICABALINE",
+      "GELPHORE GINSENPHO",
+      "RATIDEX",
+      "TELMIDIS",
+      "ZINC-VITAMINE C FR",
+      "GELPHORE KIDS",
+      "FRAXAL",
+      "GELPHORE CARNITINE",
+      "SPASMODYL",
+      "LIPOFIBRATE",
+      "PENTAZINE",
+      "CHARBONEL",
+      "VITAMINE C FRATER",
+      "FRADENE",
+      "COXIBREX",
+      "ETORIXIA",
+      "GELPHORE TRANSILAX",
+      "POROSIMAX",
+      "DIABESTEROL",
+      "ZINC FRATER",
+      "SAPBUFENE",
+      "FENYDRA",
+      "DUSPAVERINE",
+      "ARIPRAZ",
+      "RAZIFER",
+      "XONITENS",
+      "ARTICOSAMINE",
+      "TRIAMPEX",
+      "METOPRESSOR",
+      "METOPRESS",
+      "PAROLYX",
+      "SECNIDOLEX",
+      "CYMOXETINE",
+      "RIVALTO",
+      "ROSUVASTOR",
+      "SUPRAMADOL",
+      "GELPHORE PROPOSPRY",
+      "CHARBONEL PLUS",
+      "SUPRADOLEX",
+      "GELPHORE MACA",
+      "GELPHORE VERA",
+      "LANSOPOMP",
+      "PROSTASIR",
+      "NUTRI VIT",
+      "DOXALAR",
+      "GELPHOR",
+      "TENSODIPINE",
+      "POROSIMAX PLUS"
+    ]
+  },
+  {
+    "lab": "FREELAB",
+    "products": ["KOTI DENT SANS ALC"]
+  },
+  {
+    "lab": "FRUCHT-MAN",
+    "products": ["SELENIUM+"]
+  },
+  {
+    "lab": "FUMOUZE",
+    "products": [
+      "STERIMAR HYPERT.CU",
+      "STERIMAR SOUFRE",
+      "STERIMAR",
+      "STERIMAR HYP.NEZ.B",
+      "STERIMAR MANGANESE"
+    ]
+  },
+  {
+    "lab": "FYTO PLUS",
+    "products": [
+      "CONCEPT MAX WOMEN",
+      "FYTO FIBRE",
+      "FYTO LIBIDOMAX",
+      "FYTOMAX MEN",
+      "LACTOFIBRE",
+      "CONCEPT MAX MEN",
+      "LIBIDOMAX",
+      "ZINC",
+      "FYTO+ APPETIT 4",
+      "BRONCHOBEE",
+      "BRONCHOKID"
+    ]
+  },
+  {
+    "lab": "GALDERMA",
+    "products": [
+      "ROZEX",
+      "TETRALYSAL",
+      "ERYACNE",
+      "CUTACNYL",
+      "LOCERYL",
+      "EFFICORT",
+      "DIFFERINE",
+      "CETAPHIL"
+    ]
+  },
+  {
+    "lab": "GALENICA",
+    "products": ["VITAMINE C"]
+  },
+  {
+    "lab": "GE HEALTHCARE",
+    "products": ["OMNIPAQUE", "OMNISCAN", "CLARISCAN"]
+  },
+  {
+    "lab": "GEBERHEALTH",
+    "products": [
+      "SUPLEMENTO CAMOMIL",
+      "SUPLEMENTO BIO DEF",
+      "SUPLEMENTO MAGNESI",
+      "SUPLEMENTO MORINGA",
+      "SUPLEMENTO VIT D3",
+      "SUPLEMENTO VITM E",
+      "OMEPRAZOLE GEBER",
+      "SUPLEMENTO NIGELLE",
+      "SUPLEMENTO K-SEL",
+      "SALBUTAMOL GEBER",
+      "VENLAFAXINE GEBER",
+      "SUPLEMEN VIT B1 B6",
+      "VITAMINE C SUPLEME",
+      "SUPLEMENTO VIT C",
+      "SUPLEMENTO BIO Z-C",
+      "SUPLEMENTO BIO 5",
+      "BIODEFENSE POT",
+      "ATORVASTATINE",
+      "SUPLEMENTO VIT B12",
+      "SUPLEMENTO BIO ART",
+      "SUPLEMENTO VIT B9",
+      "BIOZINC VIT C",
+      "SUPLEMENTO APPETIT",
+      "SUPLEMENTO PSYLLIU",
+      "SUPLEMENTO SELENM",
+      "ZINC SUPLEMENTO"
+    ]
+  },
+  {
+    "lab": "GEGAM",
+    "products": ["LOPERAMIDE"]
+  },
+  {
+    "lab": "GENCOPHARM",
+    "products": ["BETSOL", "XINAC"]
+  },
+  {
+    "lab": "GENERIC LAB.",
+    "products": [
+      "CITICOLINE GL",
+      "AMLOPINE",
+      "LEOCART LP",
+      "XALAPROST",
+      "COZOLAMIDE",
+      "RINONIDE",
+      "NEOBIOTIK",
+      "ORZEPAM",
+      "REPAGLINIDE GL",
+      "CHIBROGEN",
+      "PROSTAMIXON",
+      "NAGOXIN",
+      "ATRYLINE",
+      "BETACROVIS",
+      "NEURO DOLPINA",
+      "GASEC",
+      "XINAC",
+      "ACICLOVIR",
+      "GATIFLOXACINE GL",
+      "SOLIFENACINE GL",
+      "XINECOR",
+      "DOLPINA URO-COOL",
+      "SPASCOL",
+      "GINKGO BILOBA",
+      "DUDREX",
+      "CETIRIZINE",
+      "INFANTIS",
+      "CITIGEN",
+      "NASALIX",
+      "GABAPENTINE GL",
+      "ZOLAMIDE PLUS",
+      "ZOLIDRATE",
+      "MAXILODRE",
+      "PINAVERIUM GL",
+      "DORMAZINE",
+      "ZOLAMID FREE",
+      "TAUBRIGENE",
+      "PULSAGEN",
+      "PERIDIUM",
+      "VIBAC",
+      "INTIMINI DOLPINA",
+      "XALAPROST FREE",
+      "TRAVADROP",
+      "OPADEX",
+      "DOLPINA INTIMINI",
+      "FRESHALL",
+      "OPTICIS",
+      "TROPITICUM",
+      "VITAMINE A GL",
+      "NOVAROL",
+      "DOLPINA BEBE COLI",
+      "ALGIFEN",
+      "CORONOL",
+      "HARMONELLE DOLPINA",
+      "CROPINE",
+      "SEROLIFE",
+      "FUCIDANE",
+      "FYTO+ LACTO-FIBRE",
+      "DEXAMETHASONE GL",
+      "HYDROXIZINE GEN",
+      "ATHYROZOL",
+      "ZOLAMIDE",
+      "HALOPERIDOL GEN"
+    ]
+  },
+  {
+    "lab": "GENERIKKA",
+    "products": [
+      "BABYLLO BABY LIFE",
+      "MULTIVITAMIN",
+      "SPERMA-VIT",
+      "VITAGEN PLUS",
+      "BABYLLO BABY COOL",
+      "FER-FOLIC-Z",
+      "OVA-VIT"
+    ]
+  },
+  {
+    "lab": "GENESIS",
+    "products": ["GENIPLASTINE", "EROSMAS"]
+  },
+  {
+    "lab": "GENETECH INDUSTRY",
+    "products": ["HYDRA-PROBIO"]
+  },
+  {
+    "lab": "GENIPHARM",
+    "products": ["SYNAPSE"]
+  },
+  {
+    "lab": "GENIS EURL",
+    "products": [
+      "GENISTRIL",
+      "FERROCURE",
+      "PROTOUX",
+      "SERGININE",
+      "SINTOGEL",
+      "ZINC + VIT C",
+      "GESPASPON",
+      "GENICET",
+      "VENALIGHT",
+      "GETADINE",
+      "FORSAGEL MAG",
+      "MAGNE 2",
+      "CLAMOCLAV",
+      "FORSAGEL",
+      "GENISTENE",
+      "CLAMOCLAV AD"
+    ]
+  },
+  {
+    "lab": "GEOPHARM",
+    "products": [
+      "HISTADINE",
+      "COFSPAN",
+      "GEMAG",
+      "GEOFER",
+      "THIAZARTAN",
+      "TENASIL",
+      "DOLIBON",
+      "HISTARIZINE",
+      "ADVITAM GELEE ROYA",
+      "CELOXIB",
+      "MYTRICINE",
+      "ADVITAM IMMUNITE",
+      "ADVITAM",
+      "SOLUMED",
+      "TOLPECALM",
+      "RESTINE",
+      "VITAMINE B12 GEO",
+      "FORCE MEN",
+      "AMAPIRIDE",
+      "GEOFENAC",
+      "MONTELUKAST GEO",
+      "ADVITAM OMEGA 3",
+      "CLARITHROMYCIN GEO",
+      "KETOFLEX",
+      "FLUBIFENE",
+      "LOZARTAN",
+      "HYCOSONE",
+      "ADVITAM D3",
+      "GENTAMYCINE-GEO",
+      "FLUBENE"
+    ]
+  },
+  {
+    "lab": "GERDA",
+    "products": ["GERDOL", "VITAMINE B12 GERDA"]
+  },
+  {
+    "lab": "GEYMONAT",
+    "products": ["ECOMI"]
+  },
+  {
+    "lab": "GIFRER ET BARBEZAT",
+    "products": ["POLIODINE", "HUILE DE PARAFFINE", "PHYSIOLOGICA"]
+  },
+  {
+    "lab": "GILBERT",
+    "products": [
+      "DOLOGEL",
+      "MARIMER",
+      "DOLOSEPTYL",
+      "PHYSIODOSE",
+      "ARNICA",
+      "OPTISERUM"
+    ]
+  },
+  {
+    "lab": "GLAXOSMITHKLINE",
+    "products": [
+      "BECONASE",
+      "PIROXICAM",
+      "SOLUGEL",
+      "VENTOLINE",
+      "FERRO SANOL",
+      "KEPPRA",
+      "BACTROBAN",
+      "DEROXAT",
+      "ZYRTEC",
+      "NIFUROXAZIDE LPA",
+      "LAMICTAL",
+      "MUXOL",
+      "MAGNO SANOL",
+      "SERETIDE",
+      "AUGMENTIN",
+      "FLIXOTIDE",
+      "AVAMYS",
+      "PIMAG",
+      "FLIXONASE",
+      "CLAMOXYL",
+      "SALBUTAMOL LPA",
+      "ATARAX"
+    ]
+  },
+  {
+    "lab": "GMH SOLUTION",
+    "products": [
+      "ACTIVIT OMEGA 3",
+      "VITAMAT GROSSESSE",
+      "COLIZYM",
+      "FAMIVIT MULTIVITAM",
+      "BEBEZYM"
+    ]
+  },
+  {
+    "lab": "GOEMAR",
+    "products": ["PHYSIOMER"]
+  },
+  {
+    "lab": "GPA",
+    "products": ["DICLOFENAC", "SPORIPSIM", "EMLANE", "ANESTOCIL", "BERTOCIL"]
+  },
+  {
+    "lab": "GPE",
+    "products": ["MULTI GYN ACTIGEL"]
+  },
+  {
+    "lab": "GRANIONS",
+    "products": [
+      "CHONDROSTEO",
+      "CONCEPTIO HOMME",
+      "CONCEPTIO FEMME",
+      "CALCIBRONAT"
+    ]
+  },
+  {
+    "lab": "GREEN HEALTH NUTRI",
+    "products": [
+      "GLUCOMASTER",
+      "GLUTA C",
+      "SPIRUFIT",
+      "VISIOLYNX",
+      "SOMNUM",
+      "GREEN COFFEE",
+      "ULTRA COLLAGEN C",
+      "CYSTINOR",
+      "YOHIMBINE",
+      "GRAVIOLA",
+      "CHROME PICOLINATE",
+      "URICONFORT",
+      "ULTRA HYALURONIC",
+      "NEURA ALPHA",
+      "SELENIUM ZINC",
+      "VITAMINE D3",
+      "CUIVRE",
+      "VITA ZINC",
+      "COQ10 COMPLEX",
+      "ACE SELENIUM ZINC",
+      "BIOSTEROL"
+    ]
+  },
+  {
+    "lab": "GREEN PLUS",
+    "products": [
+      "BIO AIL",
+      "GP CAFEINE",
+      "L-CARNITINE",
+      "ZERO CHOLESTEROL",
+      "ANTI ACIDE",
+      "DELAY MEN",
+      "GP-ZINC",
+      "GP-VITAMIN C",
+      "GP-VITAMINE K2"
+    ]
+  },
+  {
+    "lab": "GREENOVAR",
+    "products": [
+      "OMEGA 3 GREENOVAR",
+      "ACIVIT",
+      "PROPOLIS",
+      "VIT C + ZINC",
+      "VIT C + SPIRULINE",
+      "GREENLACT",
+      "VITAMINE C",
+      "CHARBOVAR",
+      "TRANSIL",
+      "FORSLIM",
+      "ACAIBERRY",
+      "SPIRULINE",
+      "PROAPPETIT"
+    ]
+  },
+  {
+    "lab": "GROUPE SANTE",
+    "products": [
+      "VITAM PLUS",
+      "ESTONYL",
+      "VITAM",
+      "VITAM KIDS MEMOIRE",
+      "VITAM MAGNESIUM B6",
+      "MITRIL",
+      "VITAM ONE",
+      "VITAM C",
+      "FOLIDEN",
+      "NERVAL",
+      "COTRIM",
+      "BUFEN",
+      "CLONA",
+      "SUMO",
+      "HISTONE",
+      "HEET",
+      "PRAZEPAM GS",
+      "PANOP",
+      "SYNED",
+      "TRIAMCI/NEOMYC G-S",
+      "VITAM GEL ROYALE+C",
+      "PULMOFOR",
+      "HOLIT FORT",
+      "VITAM E",
+      "PROMAZ",
+      "VITAM PLUS ZINC",
+      "SOWEL",
+      "FLUOXAC",
+      "DEBRITINE",
+      "DEXSTOP",
+      "TULOS",
+      "VIAFIL",
+      "CARBIMAZOLE",
+      "VITAM BABY",
+      "VITAM FER",
+      "ORIN",
+      "MEFDOL",
+      "ACIFIX",
+      "LEVOZAN",
+      "OMIND",
+      "MAGNE",
+      "METZOL",
+      "TYLENOL ANTI TOUX",
+      "CANDIFLU",
+      "KOXMA",
+      "DEXOREN",
+      "LAPETI",
+      "ANXYPAM",
+      "MAPEZ",
+      "FEDICARD",
+      "BROXOL",
+      "VITAM C + ZINC",
+      "DURRAX",
+      "DIAFEX",
+      "OXYDAZOLE",
+      "LYNOX",
+      "DOPRIN",
+      "TIMOZINE",
+      "CATIONORM",
+      "KETOF",
+      "DOMSTAL",
+      "ORALDINE"
+    ]
+  },
+  {
+    "lab": "GSK CONSUMER",
+    "products": [
+      "CALCIUM SANDOZ",
+      "PANADOL",
+      "SINECOD",
+      "PANADOL RHUME+GRIP",
+      "VOLTARENE EMULGEL",
+      "EURAX",
+      "SYNTHOL"
+    ]
+  },
+  {
+    "lab": "GUERBET",
+    "products": [
+      "XENETIX",
+      "HEXABRIX 320",
+      "TELEBRIX HYSTERO",
+      "TELEBRIX 30 MEGLU.",
+      "TELEBRIX 35",
+      "DOTAREM"
+    ]
+  },
+  {
+    "lab": "GUIDOTTI SPA",
+    "products": ["GLURENOR"]
+  },
+  {
+    "lab": "GULLER",
+    "products": [
+      "GULLER CYCLO CALM",
+      "GULLER GINGKO PLUS",
+      "GULLER MULTIVIT PL",
+      "GULLER MAG VIT. B6",
+      "GULLER PSYLIUM PLU",
+      "GULLER VITAMINE C",
+      "GULLER NAUSETEB PL",
+      "GULLER CALMO COLIC",
+      "GULLER GROCY PLUS",
+      "GULLER FLEX SPEED",
+      "GULLER SHILAJIT",
+      "GULLER APITY VYTE",
+      "GULLER GROCY PL AD",
+      "GULLER UMINO PLUS"
+    ]
+  },
+  {
+    "lab": "GYNEA",
+    "products": ["MELASEPT", "GESTAMEN", "MELAGYN"]
+  },
+  {
+    "lab": "GYNOV",
+    "products": ["GYNOSEA"]
+  },
+  {
+    "lab": "H&D PHARMA",
+    "products": ["DOLISTOP"]
+  },
+  {
+    "lab": "H.YAT",
+    "products": ["3NET", "3H TROUBLE HEMORRO"]
+  },
+  {
+    "lab": "HAMAZON",
+    "products": ["HALAZON FRESH"]
+  },
+  {
+    "lab": "HARMONIUM PHARMA",
+    "products": ["COLIPEX EMOL ADOUC", "INSULCHECK", "DOLBETIX", "SKINBETIX"]
+  },
+  {
+    "lab": "HARTMANN",
+    "products": ["GRASSOLIND"]
+  },
+  {
+    "lab": "HAYAT",
+    "products": ["PROSTACARE"]
+  },
+  {
+    "lab": "HB LIFE",
+    "products": ["APPETIT GOOD", "VITAMINE C + ZINC", "FULL-B"]
+  },
+  {
+    "lab": "HC CLOVER/APPLICAP",
+    "products": ["FERTILAE"]
+  },
+  {
+    "lab": "HEALING PHARMA",
+    "products": ["LILA ZEN"]
+  },
+  {
+    "lab": "HEALTH AID",
+    "products": ["ZINCOVIT-C"]
+  },
+  {
+    "lab": "HEALTH HERBAL",
+    "products": ["GYNTIMA"]
+  },
+  {
+    "lab": "HEMOFARM",
+    "products": ["METHYLERGOBREVIN", "VITAMINE B1", "LEMOD", "GENTAMICIN"]
+  },
+  {
+    "lab": "HERAKLES HEALTHCAR",
+    "products": ["GYNOPHLORE", "FORTIMAX", "GYNOGROSSESSE", "PROTIMAX"]
+  },
+  {
+    "lab": "HERBA BIO",
+    "products": [
+      "HERBA BIO MAGNESIU",
+      "VITAMINE D3",
+      "HERBA BIO ZINC",
+      "HERBA BIO VIT.C+ZI",
+      "VITAMINE B12",
+      "VITAMINE D3+K2"
+    ]
+  },
+  {
+    "lab": "HERBIO LAB",
+    "products": [
+      "ANTI COLIC",
+      "HERBOSPAN",
+      "OXYBIOLASTINE",
+      "EOXIDINE",
+      "PROMER ISOTONIQUE"
+    ]
+  },
+  {
+    "lab": "HIKMA PHARMA",
+    "products": [
+      "SCHIZOPIN",
+      "FLUCAND",
+      "RIABAL",
+      "SOLOTIK",
+      "ACIDE ZOLEDR.HIKMA",
+      "FEBOREX",
+      "NOPAIN",
+      "NOSTROGEN",
+      "PROSPAN",
+      "ZOPRA",
+      "LIFUNOR",
+      "GABATREX",
+      "TORVAST",
+      "VETRAM",
+      "GLINIX",
+      "GLIBIL",
+      "FENDOL",
+      "OPRACIDE",
+      "APIXAR",
+      "NIDAZOLE",
+      "CEDROX",
+      "DEXILANT",
+      "AMOCLAN",
+      "PRAMINSON LP",
+      "CIPTADINE",
+      "VALENS",
+      "RESTAMINE",
+      "IMINOPRIL",
+      "TOTINAL",
+      "LAMOGINE",
+      "PREDO",
+      "RESPIROX",
+      "VOTREX",
+      "BILAXTEN",
+      "CARDIPINE",
+      "EXBITAN",
+      "NEO-HEALAR",
+      "PRATIMA AM",
+      "SCLERA",
+      "DICEF",
+      "SUPERSTAT",
+      "VOTREX RAPID",
+      "SULPRIM",
+      "DURJOY",
+      "ZOMAX",
+      "ARINIA",
+      "OMNICEF",
+      "PENAMOX",
+      "BUFOMIX EASYHALER",
+      "RANIMAX",
+      "U-CEF",
+      "LEXIN",
+      "CEFAZOLINE HIKMA",
+      "CIPROLON",
+      "BONACOR",
+      "BLOPRESS PLUS",
+      "VETRAM LP",
+      "VIPDOMET",
+      "TETRACNE",
+      "FERINJECT",
+      "FLECALUR",
+      "MYDOSED",
+      "MUCOTEC",
+      "UNISIA",
+      "EFFERVIT PEDIATRIQ",
+      "MYDOCALM HIKMA",
+      "DOLOMOL",
+      "BLOPRESS",
+      "VIPIDIA",
+      "RIABAL COMPOUND",
+      "XERACTAN",
+      "AMOCLAN ES",
+      "TREPADIO"
+    ]
+  },
+  {
+    "lab": "HISPAL PHARMA",
+    "products": ["NORFLOX"]
+  },
+  {
+    "lab": "HORUS PHARMA",
+    "products": ["ODM 5", "NEOVIS TOTAL"]
+  },
+  {
+    "lab": "HTM SUKHTIAN",
+    "products": ["DAFFAQ", "HERBO HEEL JADDAD"]
+  },
+  {
+    "lab": "HUMAN PLANET",
+    "products": [
+      "HP APHTES PLUS",
+      "BRONCHOUVERT KIDS",
+      "ZINC HP",
+      "CHARBON",
+      "VIT C KIDS",
+      "HP ANTI MOUSTIQUE",
+      "VIT C",
+      "HEXASPEED",
+      "ACEROLA",
+      "BRONCHOUVERT"
+    ]
+  },
+  {
+    "lab": "HUP PHARMA",
+    "products": [
+      "HUCLAR",
+      "FUROSEMIDE HUP",
+      "HUPPOMEDROL",
+      "VIT D3",
+      "CEFALIZOL HUP",
+      "SPAFON HUP",
+      "OTOFLOX",
+      "VESILAX",
+      "XAPROST",
+      "OXACIL HUP",
+      "FENOFIBRATE HUP",
+      "BISOPROLOL HUP",
+      "ZYRTIRIZINE",
+      "EMIDIUM HUP",
+      "HUPROVEL",
+      "HUPPACORT",
+      "GENTACINE",
+      "PHLOROGLUCINOL HUP",
+      "ROXITHROMYCINE HUP",
+      "LAROXYLINE",
+      "DEBRITINE HUP",
+      "DROXIFAL",
+      "SPIDOGYL",
+      "FUCIDAC",
+      "BISPIDOGYL",
+      "ATASARTAN",
+      "FLUTINASE",
+      "CEFIKEN",
+      "HUPPROSTENE",
+      "TRI-B-VIT HUP",
+      "CARDEX",
+      "HUMLOR",
+      "ZYRAL",
+      "FLUCONAZOLE HUP",
+      "CIFLOXACINE",
+      "VIT B12",
+      "TRIMEBUTINE HUP",
+      "CARDIPINE",
+      "HELESTENE CHRONODO",
+      "AMIODARONE HUP",
+      "TORVASTATINE HUP",
+      "PRELDENE",
+      "ZINC",
+      "RHINONEX",
+      "CLORESAL",
+      "PROHEFEN",
+      "AZITHROM HUP",
+      "METRONIDAZOL HUP",
+      "VOLTAFEN",
+      "RESPICORT",
+      "HUBIFEN",
+      "TRUSAMID",
+      "STEOMAX",
+      "AMAPIRIDE HUP",
+      "CELECOBREX HUP",
+      "PENTORENTAL LP",
+      "GLUCOFORMINE",
+      "NOROFLOX",
+      "OFLOXINE",
+      "NASALONE",
+      "ACIDE FOLIQUE HUPP",
+      "SMECTYL",
+      "COSOTIMOL",
+      "TEMERIVOL",
+      "SOLOPRED HUP",
+      "HUPFOLIQ",
+      "PRIMPERENE",
+      "LAMITRIGINE",
+      "ARIDONE",
+      "NHUPAIN HUP",
+      "HUPTADYS",
+      "AMOXICILLINE EG",
+      "LEVOQUIN",
+      "HUREG",
+      "ROVAMYNE",
+      "BIROVIT",
+      "KEFALEX",
+      "VITAMINE C + ZINC",
+      "DOXYNUP",
+      "HUPOMEDROL",
+      "TIOTRIL",
+      "VIAGNAFIL"
+    ]
+  },
+  {
+    "lab": "HYGIA PHARMA",
+    "products": [
+      "DENSICAL PROMEMOIR",
+      "DENSICAL ANTISTRES",
+      "DENSICAL PROSOMMEI"
+    ]
+  },
+  {
+    "lab": "HYSA",
+    "products": [
+      "ESTROGEL",
+      "AL VITAL WOMEN",
+      "AL-VITAL",
+      "HYSALOX",
+      "HYSACOR",
+      "CALCIUM HYSA",
+      "HYSACRYL LAURILE",
+      "PHOSPHALUMINE",
+      "HYSADRIL",
+      "VITAMINE C HYSA",
+      "LAXEL"
+    ]
+  },
+  {
+    "lab": "I.M.C.",
+    "products": ["CHLORURE SODIUM IM", "GLUCOSE"]
+  },
+  {
+    "lab": "IBERAL",
+    "products": ["AZITHROMYCINE", "CIPROFLOXACINE IBE"]
+  },
+  {
+    "lab": "ICN PHARMA",
+    "products": ["LIBRAX"]
+  },
+  {
+    "lab": "IMAR PHARM",
+    "products": ["MULTIVITAMINES IMA"]
+  },
+  {
+    "lab": "IMGSA",
+    "products": ["MIRAZOLIN"]
+  },
+  {
+    "lab": "INALPHARM",
+    "products": ["MELADORM", "GYNORELLE", "DIGESTISSIMOH"]
+  },
+  {
+    "lab": "INDU MED-CHI (IMC)",
+    "products": ["KALIPACK"]
+  },
+  {
+    "lab": "INELDEA",
+    "products": [
+      "PEDIAKID IMMUNI-FO",
+      "PEDIAKID TRANSIT D",
+      "PEDIAKID SOMMEIL",
+      "PEDIAKID NERVOSITE",
+      "PEDIAKID VIT D3",
+      "PEDIAKID 22VIT",
+      "PEDIAKID OMEGA3",
+      "PEDIAKID COLICI BB",
+      "OSTEOL PLUS",
+      "PEDIAKID BEBE GAZ",
+      "PEDIAKID FER&B",
+      "PEDIAKID NEZ-GORGE",
+      "PEDIAKID NV MD TRN",
+      "PEDIAKID APPET/TON"
+    ]
+  },
+  {
+    "lab": "INNATE",
+    "products": ["HYALGINOV"]
+  },
+  {
+    "lab": "INNOTHERA",
+    "products": [
+      "PHARMATEX",
+      "DERMOBACTER",
+      "HELMINTOX",
+      "IDEOS",
+      "POLYGYNAX",
+      "DIVINA",
+      "TOT HEMA",
+      "INOCLIM",
+      "DIOVENOR"
+    ]
+  },
+  {
+    "lab": "INNOVIS",
+    "products": [
+      "ACTIVE VIT K1",
+      "ZODREX BRONCHOSEPT",
+      "ACTIVE VITAMIN B12",
+      "ZODREX FUMIGATION",
+      "ACTIVE VIT. D3 K2",
+      "ACTIVE OMEGA 3",
+      "ACTIVE VITAMINE D3",
+      "ACTIVE VIT. A",
+      "ACTIVE MAGNESIUM"
+    ]
+  },
+  {
+    "lab": "INPHA-MEDIS",
+    "products": [
+      "FLIXODIS",
+      "OROPRED",
+      "GENTA 80",
+      "RESPYFOR",
+      "IXOL",
+      "OROFER PLUS",
+      "TUSSIDEX",
+      "CELOPRAM",
+      "IFFUROXAZIDE",
+      "VAINCOR",
+      "TOBRADIS",
+      "FLUKAS",
+      "LEVOFLOX",
+      "NACL INPHA MEDIS",
+      "METAGYL",
+      "INPHALAC",
+      "CALMOFEN",
+      "TRI B",
+      "IRYS",
+      "FLUDIS",
+      "NORMOPTIC",
+      "DOPEZIL",
+      "INPHADIUM",
+      "OTIDIS",
+      "GLAUSOPT",
+      "RESDONE",
+      "DEXAMETHASONE INPH",
+      "TRAVADIS",
+      "VIADIS",
+      "NORTA",
+      "OSTEOS",
+      "BRONCHOPAN",
+      "SERVAL",
+      "OROFER",
+      "CICOLINA",
+      "CO-NORTA",
+      "RHINODIS",
+      "SUNADIL",
+      "TEGRIDIS",
+      "TENSIONORM",
+      "VITAZYME",
+      "CO-RETA",
+      "ESORAL",
+      "VITALIS",
+      "DESLOR",
+      "ADEX LP",
+      "PIDOGREL",
+      "BETAMETHASONE INPH",
+      "NASODIS",
+      "CLARDINE",
+      "PIROXEN",
+      "CRESTADIS",
+      "MYOSOPT",
+      "RETA",
+      "TOBRAMIDEX",
+      "FLUMOX",
+      "MEDONEX",
+      "MEDILIUM",
+      "ATOR",
+      "NAPROLGIC",
+      "ONDANSETRON",
+      "CIPRO",
+      "IPAKINE",
+      "ROSAL",
+      "TRAMADIS",
+      "GLYCENORM",
+      "COLCHIMED"
+    ]
+  },
+  {
+    "lab": "IPRAD",
+    "products": [
+      "RAP PHYTO",
+      "GESTARELLE",
+      "METEOXANE",
+      "SAFORELLE",
+      "GESTARELLE G",
+      "SECNOL"
+    ]
+  },
+  {
+    "lab": "IPSEN",
+    "products": [
+      "TANAKAN",
+      "FORTRANS",
+      "GINKOR",
+      "FORLAX",
+      "SMEBIOCTA",
+      "SMECTA",
+      "BEDELIX",
+      "SOMATULINE LP",
+      "DECAPEPTYL"
+    ]
+  },
+  {
+    "lab": "IPSIM",
+    "products": ["MADEXIM"]
+  },
+  {
+    "lab": "IREX",
+    "products": ["BACLOFENE"]
+  },
+  {
+    "lab": "ISISPHARMA",
+    "products": ["ISIS TEEN DERM HYD", "URELIA", "NEOTONE"]
+  },
+  {
+    "lab": "ISOPHARM",
+    "products": [
+      "BETASTENE",
+      "CYPROHEPTADINE",
+      "SPIRAMYCINE-ISO",
+      "ISOCTINE",
+      "ISOMOL",
+      "KETOTIFENE",
+      "ISOLVON",
+      "ISOPTYL",
+      "ISOFFINE",
+      "RABWALYSE",
+      "ISOTANAK",
+      "ISOMAG",
+      "ISOLEP",
+      "ISOMEDINE",
+      "MUCOREX",
+      "ISOPERIDOL",
+      "OXOMEMAZINE",
+      "CLARADINE",
+      "ISOTAMINE",
+      "ISOBUTALINE",
+      "MUCOLYSE",
+      "ISOSPALGINE",
+      "ISOLACT",
+      "CITICOLINE ISO",
+      "HASSALYSE",
+      "ZITRINE"
+    ]
+  },
+  {
+    "lab": "ISOSTERE SARL",
+    "products": ["MELATONINE ISOSTER", "FIEVRE UP", "PWRUP TONGKT ALI"]
+  },
+  {
+    "lab": "IVAL PHARMA",
+    "products": [
+      "SOLMUCOL",
+      "BROMAZEPAM IVAL",
+      "BIOCALYPTOL PHOLCO",
+      "FENOFIBRATE IVAL",
+      "ATORVASTATINE IVAL",
+      "TRIMEBUTINE IVAL",
+      "CHARBON ACTIVE IVA",
+      "FEXOFENADINE IVAL",
+      "CO APRIVAL",
+      "NIFUROXAZIDE IVAL",
+      "GLIMEPIRIDE IVAL",
+      "HYDROCORTISONE",
+      "MOLSIDOMINE IVAL",
+      "LANSOPRAZOLE IVAL"
+    ]
+  },
+  {
+    "lab": "J.P.M.",
+    "products": ["TALIN"]
+  },
+  {
+    "lab": "JAMJOOM PHARMA",
+    "products": [
+      "DEXAFLOX",
+      "TIRLOR",
+      "AMLIBON",
+      "DOTUR",
+      "CORSALIC",
+      "XOLAMOL",
+      "OPTIF JAM",
+      "PROCLO JAM",
+      "TYMER",
+      "OPTIPRED",
+      "OPTIDEX T",
+      "BINOZYT",
+      "OPTIFLOX",
+      "HYFRESH",
+      "TRAMADOL SANDOZ",
+      "FLUCONAZOLE SANDOZ",
+      "XOLA JAM",
+      "OZAFLOX",
+      "CORTISAF",
+      "OPTIF PLUS"
+    ]
+  },
+  {
+    "lab": "JANISMED",
+    "products": [
+      "PROLIERRE",
+      "TOP OMEGA 3.6.9",
+      "MEMORY FORT",
+      "VOMISTOP",
+      "FERMAX",
+      "BABY DORT",
+      "GINLOBA",
+      "JANIS PCO",
+      "FERT-IL",
+      "MULTIVIT AD-ENF",
+      "NUIT DOR",
+      "FORTIPLUS",
+      "FERT-ELLE",
+      "CALMO GAZ",
+      "APPETIT FORT",
+      "FOLIAK",
+      "MAGVITAM"
+    ]
+  },
+  {
+    "lab": "JANSSEN-CILAG",
+    "products": [
+      "PEVARYL",
+      "GYNO PEVARYL",
+      "KETODERM",
+      "RISPERDAL",
+      "DAKTARIN",
+      "MOTILIUM",
+      "FLUVERMAL",
+      "TYLENOL",
+      "HALDOL",
+      "RHINOCORT"
+    ]
+  },
+  {
+    "lab": "JERUSALEM PHARMA",
+    "products": ["CEFROZINE", "NODILOF"]
+  },
+  {
+    "lab": "JF LAROSE",
+    "products": [
+      "VENOTRIT",
+      "CALMOTRIN",
+      "INALAXION",
+      "OLYOGYN",
+      "STERIBANDE",
+      "PELAGROW",
+      "AMPUKU",
+      "EXOCAPIL",
+      "PROSTAXION"
+    ]
+  },
+  {
+    "lab": "JOHNSON & JOHNSON",
+    "products": ["LISTERINE"]
+  },
+  {
+    "lab": "JP MARTIN",
+    "products": ["TITANOREINE"]
+  },
+  {
+    "lab": "JULPHAR",
+    "products": ["MEBO", "MEBO SCAR"]
+  },
+  {
+    "lab": "JUVAMINE",
+    "products": [
+      "JUVAMINE CAL/VIT D",
+      "JUVAMINE CYSTEINE",
+      "JUVAMINE MENOPAUSE",
+      "JUVAMINE FIZZ",
+      "JUVAF.TRANSIT",
+      "JUVAMINE TAUR/GINS",
+      "JUVAMINE MAG&VB6B2",
+      "JUVAM MEMOIRE CONC",
+      "JUVAMINE CIRCULATI",
+      "JUVAMINE FOR CAPIL",
+      "JUVAMINE OMEGA3",
+      "JUVAMINE SOMMEIL",
+      "JUVAMINE MAGNES+B6",
+      "JUVAMINE FER+B9",
+      "JUVAMINE PERFORMAN",
+      "JUVAM MENO TRI ACT",
+      "JUVAMINE PHYTO TD",
+      "JUVAMINE MAG+",
+      "JUVAMINE M G DE SI",
+      "MAGNESIUM + B6",
+      "JUVAMINE C",
+      "JUVAMINE PEAU CH/O",
+      "JUVAMINE TV GUARA",
+      "JUVAMINE ANTI-STRE",
+      "JUVAMI.ANTI STRESS",
+      "JUVAMINE CHON ARTI",
+      "JUVAMINE CHUT CHEV",
+      "JUVAF.LEVURE BIERE",
+      "JUVAMINE ANTI AGE"
+    ]
+  },
+  {
+    "lab": "JUVISE PHARMACEUTI",
+    "products": ["SINTROM"]
+  },
+  {
+    "lab": "K.R.G PHARMA PROD",
+    "products": ["VITAMINE C"]
+  },
+  {
+    "lab": "KADERPHARM",
+    "products": ["EOSINE AQUEUSE"]
+  },
+  {
+    "lab": "KALOS",
+    "products": [
+      "KALOS SCARMED GRS",
+      "ALPHAMALE",
+      "ZEAL KID",
+      "AROUSSA",
+      "DELICE",
+      "DOLO FAST",
+      "GORGI",
+      "HYALOSIL",
+      "TGC PLUS",
+      "DEXATHENOL PLUS",
+      "PANAVIT + ZINC",
+      "CORINTIMA CO ET VE",
+      "SCARLESS",
+      "ZEAL",
+      "DEXATHENOL",
+      "CASPA",
+      "CORNEX"
+    ]
+  },
+  {
+    "lab": "KARE BIO",
+    "products": ["NEBO", "C-FRESH"]
+  },
+  {
+    "lab": "KELA PHARMA",
+    "products": ["HYALO 4 PLUS", "HYALO 4 SKIN"]
+  },
+  {
+    "lab": "KENA ROOTS",
+    "products": ["EMUHEAL", "EMUFLEX"]
+  },
+  {
+    "lab": "KESSAB PHARM",
+    "products": [
+      "KESSAB DOULR MENST",
+      "KESSAB OMEGA 3",
+      "KESSAB PH DIARRHET",
+      "KESSAB PH VOMISSIN",
+      "KESSAB PH COLIQ NR"
+    ]
+  },
+  {
+    "lab": "KINANE",
+    "products": ["NOVACHECK VOICE"]
+  },
+  {
+    "lab": "KPMA",
+    "products": [
+      "OMEPRAMEX",
+      "PIROMEX",
+      "FONGYMEX",
+      "BRICAMEX",
+      "SAPOMEX",
+      "GLUCOMEX",
+      "KETOMEX",
+      "CLOTERMEX",
+      "HALDOMEX",
+      "NIFLUMEX",
+      "PENICILLINE CIMEX",
+      "TERBINAMEX",
+      "TIMONEX",
+      "MYCOMEX",
+      "SALBUMEX",
+      "AUGMENTIMEX",
+      "TRAMEX",
+      "AMITRIPTYLINE KPMA",
+      "PREDNAMEX",
+      "SPIRAMEX",
+      "VOLTAMEX",
+      "TRIBEMEX",
+      "AMPIMEX",
+      "SPASFOMEX",
+      "SULPIMEX",
+      "AMOXIMEX",
+      "DOMPERIMEX",
+      "RANIMEX",
+      "PERIAMEX",
+      "DOLICRANE",
+      "BROMHEXINE KPMA",
+      "CELECOMEX",
+      "CARBOMEX",
+      "COLCHIMEX",
+      "DOLYMEX"
+    ]
+  },
+  {
+    "lab": "KPMA BIOTIC",
+    "products": ["FERROMEX"]
+  },
+  {
+    "lab": "KRAYS",
+    "products": ["IBS OFF", "PILORAL", "SINUSET"]
+  },
+  {
+    "lab": "KSMC SPRL",
+    "products": [
+      "FYTO+RELAX",
+      "FYTO+ZINC",
+      "FYTOSEL + ZINC",
+      "FYTO NBFIT",
+      "FYTOFLEX+CURCUMA",
+      "FYTOSEL ORS"
+    ]
+  },
+  {
+    "lab": "LA ROCHE-POSAY",
+    "products": ["EFFACLAR DUO", "LIPIKAR"]
+  },
+  {
+    "lab": "LAB COSMETICA",
+    "products": ["COSMEPLASTINE"]
+  },
+  {
+    "lab": "LAB HERBA LIFE SAN",
+    "products": ["APPENTI FEN"]
+  },
+  {
+    "lab": "LAB INDETERMINE",
+    "products": [
+      "DEXAMETHASONE",
+      "SPIRAMYCINE",
+      "CHLORURE SODIUM",
+      "VITA C",
+      "VITAMINE B1 B6",
+      "PRIMAZOL",
+      "AMOXYPEN",
+      "LEVOMEPROMAZINE",
+      "RANITIDINE",
+      "ATROPINE",
+      "AMITRIPTOL",
+      "AMOXILL.AC.CLAV.",
+      "CYPROHEPTADINE",
+      "NAPROXENE",
+      "SALBUTAMOL",
+      "MINOXIDIL",
+      "VITAFORM",
+      "AMBROXOL"
+    ]
+  },
+  {
+    "lab": "LABIOCO",
+    "products": ["MERCUROCHROME LABI", "ALCOOL IODEE"]
+  },
+  {
+    "lab": "LABOPHYTO",
+    "products": ["SUPRAMEN"]
+  },
+  {
+    "lab": "LABORATOIRE ALGERI",
+    "products": ["RHUMOLAM", "LAMISOLONE"]
+  },
+  {
+    "lab": "LABORATOIRE CEVRAI",
+    "products": ["CICLE III"]
+  },
+  {
+    "lab": "LABORATOIRES HN",
+    "products": ["CHARBOFIT"]
+  },
+  {
+    "lab": "LABORATOIRES KERAV",
+    "products": ["LAXAFORT"]
+  },
+  {
+    "lab": "LAD PHARMA",
+    "products": [
+      "RESIVEN",
+      "ALOPECYL",
+      "HEPTAFORT",
+      "RHINAFED",
+      "NEOCALGICENOL",
+      "TONI + C",
+      "CIBETAINE",
+      "SORHINEL",
+      "CALCIFOR",
+      "TONI C1000",
+      "NIFRAMYCINE HYDROC",
+      "ARGINOR",
+      "VIRAVIR",
+      "MIGRAMOL",
+      "FER 3+",
+      "CHOLESOL",
+      "CROMOSOL",
+      "KETODEL",
+      "SEVENAL",
+      "SORBILAD",
+      "ARGINOR VIT.C",
+      "MEDAZOL",
+      "LADOSCORBINE",
+      "TOUXOL",
+      "LYSOPAY",
+      "NEOCALCIGENOL",
+      "NIFRAMYCINE",
+      "VITAMAG",
+      "BRONCHOTUS",
+      "POLYLAD IODEE",
+      "CARBOFLUID",
+      "SULFAZINE",
+      "HEBERMIN",
+      "TUSSICOD",
+      "METOCAI"
+    ]
+  },
+  {
+    "lab": "LADY GUARD",
+    "products": ["LADY GUARD"]
+  },
+  {
+    "lab": "LAM",
+    "products": [
+      "LAMOVEN",
+      "B-NEUFER",
+      "METOCLAM",
+      "MOTIDONE",
+      "HOCINOR",
+      "MEVERC",
+      "LAMYLASE",
+      "ACTIMAG",
+      "ZYTREX",
+      "LOPEREX",
+      "PARAC-CO",
+      "FLUXOL",
+      "ZINC+VITAMINE C",
+      "RHUMOFEBRAL",
+      "HEPTAL",
+      "SPASLAM",
+      "TIMADLINE",
+      "FLUPEX",
+      "TOTILAM",
+      "SUPRIL",
+      "HYDROXIL",
+      "FARMIDOX",
+      "CALCIAL",
+      "LAMIFENE ENF ET NO",
+      "CORTILAM",
+      "MEVAKINE",
+      "PEDIAMOL",
+      "SALBULAM",
+      "FEROLAM",
+      "CIFLODINE"
+    ]
+  },
+  {
+    "lab": "LAPROPHAN",
+    "products": ["CHLORURE SODIUM LA"]
+  },
+  {
+    "lab": "LAUDAVIE",
+    "products": ["CALMOSINE SOMEIL", "CALMOSINE DIGESTIO"]
+  },
+  {
+    "lab": "LBO PHARMA",
+    "products": ["POMMADE CADIQUE"]
+  },
+  {
+    "lab": "LDM",
+    "products": [
+      "VOMIDOL",
+      "CEBREX",
+      "LEVETIRACETAM LDM",
+      "PHYTOUX",
+      "BIOKINE MAUD DE TE",
+      "VITAMINE C MEDBIO+",
+      "ZINC MEDIKIDS",
+      "LACETAM",
+      "MAGNESIUM",
+      "GELFEN",
+      "MEDIKIDS APPETIT +",
+      "AMLODIPINE LDM",
+      "FORCEFER",
+      "MEDIKIDS NAUS VOM",
+      "BIOKINE JAMBES LRD",
+      "MEDIKIDS OMEGA 3",
+      "FLUVASTATINE LDM",
+      "MEDIKIDS BEBE DODO",
+      "VALSARTAN/HCTZ LDM",
+      "OSTIMAX",
+      "SUPREMASE",
+      "PREGABALIN LDM",
+      "MIBRAVAL",
+      "ECONAZOLE LDM",
+      "GELEE BOOST",
+      "SENTIMAR HYPERTONI",
+      "VALSARTAN L.D.M",
+      "IRBEZART",
+      "GLIMEPIRIDE LDM",
+      "IBUPROFENE LDM",
+      "PROMISPRAY",
+      "ZINC MEDIBIO+",
+      "SIMVASTATINE LDM",
+      "CO-IRBEZART",
+      "CLOPIDOGREL LDM",
+      "BEBEDOL",
+      "LAXATIUM",
+      "ROSUSTINE",
+      "COLIKSTOP",
+      "BEBETHEN",
+      "AMISULPRIDE LDM",
+      "SPACINOL",
+      "CICAGEL",
+      "GLUCO ZINC",
+      "OXYZINC",
+      "MIBRAL",
+      "HEMOCURE",
+      "BEBEDODO",
+      "KOPROFEN",
+      "ZINC + VIT.C MDBIO",
+      "PHYTOUX JUNIOR",
+      "LOSARTAN LDM",
+      "ONYCAL",
+      "XIRECT",
+      "CARVEDILOL LDM",
+      "MELANUIT",
+      "ARIFLY",
+      "BIOKINE",
+      "MORISYL",
+      "ARIPIPRAZOLE LDM",
+      "MONTEKAST",
+      "LEVOXINE",
+      "FLUCONAZOLE LDM",
+      "MEDIKIDS CNSTIPATN",
+      "AMLODIP+VALSAR.LDM",
+      "ORAPHYT",
+      "BIFIANE",
+      "PROLANEX",
+      "TERBINAFINE LDM",
+      "APPETIT +",
+      "CELECOXIB LDM",
+      "SENTIMAR ISOTONIQU",
+      "KETOPROFENE",
+      "HYDRA DIAB",
+      "ATORVASTATINE LDM"
+    ]
+  },
+  {
+    "lab": "LDP TORLAN",
+    "products": ["SPASMEX"]
+  },
+  {
+    "lab": "LDPSA",
+    "products": ["CERUCLEAR"]
+  },
+  {
+    "lab": "LEADER",
+    "products": [
+      "FEETODERM",
+      "LEADERMAX APHTES",
+      "LAEDERMAX",
+      "BIOXERYL",
+      "LEADERMAX CICATRIS"
+    ]
+  },
+  {
+    "lab": "LEASENS LABORATOIR",
+    "products": ["BEXERYL"]
+  },
+  {
+    "lab": "LEK",
+    "products": ["VITAL K", "DEXAMETHASON"]
+  },
+  {
+    "lab": "LEKAM",
+    "products": ["BIOTYK COMPLEX"]
+  },
+  {
+    "lab": "LEO",
+    "products": ["FUCIDINE", "DAIVOBET", "INNOHEP", "DAIVONEX"]
+  },
+  {
+    "lab": "LEUCOSIA",
+    "products": ["CICADERM PLUS"]
+  },
+  {
+    "lab": "LEURQUIN MEDIOLANU",
+    "products": ["MEGAMYLASE", "SPIROCTAZINE"]
+  },
+  {
+    "lab": "LGPA",
+    "products": [
+      "CICLOPLEGICEDOL",
+      "ANTIGALE",
+      "APHTIVEX",
+      "BRON FEUILL DE LIE",
+      "CHARBO STIM",
+      "IODACRYL",
+      "KETOFENID",
+      "REGULAX",
+      "VEROFLUD",
+      "BRONCHO-LACTOL",
+      "GENTOCIL LGPA",
+      "STOP POUX",
+      "K-PROFEN",
+      "BETADERM",
+      "GASTRIUM",
+      "NOZEUM",
+      "GLYCERINE GPA",
+      "RUMIFEN",
+      "DERMAFINE",
+      "BRUFEN"
+    ]
+  },
+  {
+    "lab": "LIFE PHARMA",
+    "products": ["DISTENSOL", "URICLAR", "FLEXEN"]
+  },
+  {
+    "lab": "LIFESCAN",
+    "products": ["ONE TOUCH ULTRA", "ONE TOUCH VERIO", "ONE TOUCH DELICA"]
+  },
+  {
+    "lab": "LILFAT",
+    "products": ["ASTHMOLIL"]
+  },
+  {
+    "lab": "LISAPHARMA",
+    "products": [
+      "LISAMETHYLE",
+      "LISATRIAM",
+      "LISAMETACE",
+      "ARFEN",
+      "CALCO",
+      "BETAMETHASONE"
+    ]
+  },
+  {
+    "lab": "LLORENS",
+    "products": ["DICLOFENAC"]
+  },
+  {
+    "lab": "LLORENTE",
+    "products": ["AMPICILLINE LLOREN"]
+  },
+  {
+    "lab": "LOGOGEN",
+    "products": ["MEQUITAZINE LOGOGE"]
+  },
+  {
+    "lab": "LOZATY",
+    "products": ["LOZATY"]
+  },
+  {
+    "lab": "LPCK",
+    "products": ["ASPARTAM LPCK"]
+  },
+  {
+    "lab": "LPDA",
+    "products": [
+      "PROSLY",
+      "SERUMER FAMILLE",
+      "APPETIT LPDA",
+      "FLUVERTOX",
+      "OMEGA 3 LPDA",
+      "SERUMER KIDS",
+      "MAG PLUS",
+      "GROSSI FAST",
+      "ORSALT",
+      "VITAMINE E",
+      "THYMOL",
+      "VITAMINE C LPDA",
+      "ARTICOFLEX 1000",
+      "X-TRIL",
+      "VIT. C + ZINC LPDA",
+      "SERUMER BEBE",
+      "CARBONET",
+      "DEFENTEK",
+      "MAG LPDA"
+    ]
+  },
+  {
+    "lab": "LTLABO",
+    "products": ["CYSTINELLE"]
+  },
+  {
+    "lab": "LYNAPHARM",
+    "products": ["ANAFRANIL"]
+  },
+  {
+    "lab": "MACHEREY NAGEL",
+    "products": ["MEDI-TEST COM10SGL"]
+  },
+  {
+    "lab": "MADDOX PHARMA",
+    "products": [
+      "OMEGADDOX-3",
+      "MENVIT",
+      "IRODDOX",
+      "CALDDOX",
+      "OMEGADDOX",
+      "MADDOVIT JUNIOR",
+      "MADDOZINC",
+      "MAMACARE"
+    ]
+  },
+  {
+    "lab": "MAGPHARM",
+    "products": [
+      "PEA",
+      "HYALUFLEX",
+      "APPETIT KID",
+      "WAZY ANTI ACIDE",
+      "CARTIFLEX CARTI DR",
+      "SOLYNE VITAMINE D3",
+      "LCA LAIT HYDRATANT",
+      "SOLYNE C TONUS",
+      "SOLYNE GROSSESE",
+      "CHONDROFLEX",
+      "GOFLEX FORT",
+      "PHYTO PHYLAIT",
+      "SANTE VIE MINCEUR",
+      "SOLYNE MIEL C KIDS",
+      "VOMI KID",
+      "DOLOPATCH ANTI DOU",
+      "VOMITEB",
+      "KELO COTE",
+      "DOLOPATCH HYDROGEL",
+      "DOLOPATCH CAPSICUM",
+      "MOLUTREX",
+      "CALMIDERM",
+      "HYALUFLEX ONE",
+      "PHYNGY",
+      "LCA CREME DEPIGMEN",
+      "SOLYNE  C ENERGIE",
+      "PHYRIANE",
+      "LCA GEL LAVANT SG",
+      "GENI KID",
+      "HEMORROL",
+      "PSYLLAX",
+      "SOLYNE MIEL C",
+      "SANTE VIE VEN PLAT",
+      "NAZEX",
+      "SOLYNE VITAMIN B12",
+      "PHY STRESS",
+      "EFFADIANE",
+      "ACTICARBINE",
+      "PHYBABY",
+      "SOLYNE VITAMINE C",
+      "LCA GEL CONTR YEUX",
+      "ACIFRI",
+      "BRONCHONET",
+      "PHYTONUS",
+      "SOLYNE ENERGY Z+VC",
+      "THYMOSEPTINE",
+      "AKNORM EMULS HY",
+      "BABY GAZ",
+      "SOLYNE DEFENSE",
+      "PHYVEINE",
+      "SOLYNE MAGNESIUM",
+      "SOLYNE MELATONINE",
+      "BIAREL",
+      "BABYDO",
+      "GLUCOFLEX",
+      "SANTE V GAZ COLON",
+      "SANTE VIE",
+      "LCA MASQUE",
+      "ACTIPUR CLAIRE",
+      "TOUX KIDS",
+      "SOLYNE CRAMPE MUSC",
+      "KELOCOTE",
+      "SOLYNE ENERGY",
+      "SANTE VIE SOMMEIL",
+      "SOLYNE MAGNE BOOST",
+      "FLUISEDAL S/PROMET",
+      "DOLOROL",
+      "SOLYNE BOOST",
+      "SOLYNE VT.C + ZINC",
+      "SOLYNE ZEN JOUR/NU",
+      "LCA CREME REPAIR",
+      "FLEXOFYTOL",
+      "SOLVITYL"
+    ]
+  },
+  {
+    "lab": "MALISS",
+    "products": ["MALISS N.HYPERTNQE"]
+  },
+  {
+    "lab": "MAR FARMA MILANO",
+    "products": [
+      "CLIVON CIST",
+      "MARVIT SUPER MAG",
+      "NATUR-LAX",
+      "INFLU ZINC NAT LAX",
+      "MARVIT MULTI PLUS",
+      "CLIVON",
+      "SUPER SLEEP",
+      "LACTO-CLIVON",
+      "CLIVON HYGIENE INT",
+      "MARVIT MINCEUR",
+      "DONNA FERT",
+      "UROSEL",
+      "NATUR-LAX PROBIO",
+      "MARVIT ENERGY",
+      "MARVIT C VIT PLUS",
+      "INFLU-ZINC",
+      "MARVIT DONNA",
+      "AXOL PRECTO",
+      "ARGIN-UP",
+      "MARVIT SUPER SLEEP",
+      "IMMUVIS-P",
+      "PAPIL OFF"
+    ]
+  },
+  {
+    "lab": "MARIE ROSE",
+    "products": ["MARIEROSE"]
+  },
+  {
+    "lab": "MARTIN",
+    "products": ["DACRYOSERUM"]
+  },
+  {
+    "lab": "MARTNEZ",
+    "products": [
+      "VITAMINE D",
+      "VITAMINE E",
+      "VITAMINE K2+D3",
+      "VITAMINE A",
+      "VITAMINE B6"
+    ]
+  },
+  {
+    "lab": "MASENZ DANYA GROUP",
+    "products": ["VITAM OMEGA-3"]
+  },
+  {
+    "lab": "MASENZ PHARMA INT.",
+    "products": ["MASLYTE"]
+  },
+  {
+    "lab": "MASOALA LABORATOIR",
+    "products": ["BIOFINE"]
+  },
+  {
+    "lab": "MATHERAPY",
+    "products": ["SOLUZINC MATHERAPY", "ZINC MATHERAPY", "VC ET ZN MATHERAPY"]
+  },
+  {
+    "lab": "MAYOLY CHC",
+    "products": [
+      "PROBIOLOG DIA",
+      "EUPHONEO DEFENSE",
+      "MEGAMAG D3 ENF NRS",
+      "PEPSANEL",
+      "MEGAMAG D3 ADULTE",
+      "PEPSANYL",
+      "MEGAMAG VC ENF NRS",
+      "METEOPHYTO"
+    ]
+  },
+  {
+    "lab": "MAYOLY SPINDLER",
+    "products": [
+      "BABYSPASMYL APPETI",
+      "BABYSPASMYL TOLERA",
+      "EUPHON",
+      "BABYSPASMYL LACTOS",
+      "PROBIOLOG IBS",
+      "BABYSPASMYL PH.GAZ",
+      "METEOSPASMYL",
+      "PROBIOLOG",
+      "BABYSPASMYL IMMUNI",
+      "COLOKIT",
+      "ATEPADENE",
+      "BABYSPASMYL SOMMEI",
+      "HELIKIT",
+      "MEGAMAG ONE"
+    ]
+  },
+  {
+    "lab": "MED LABO",
+    "products": ["BIOLEVURE", "LACTOBIOTIQUE", "SALYTE"]
+  },
+  {
+    "lab": "MEDA PHARMA",
+    "products": ["BETADINE", "MESTINON", "SARGENOR", "FLECAINE"]
+  },
+  {
+    "lab": "MEDEC",
+    "products": ["VITAMINE E", "SUPEROS D3"]
+  },
+  {
+    "lab": "MEDI BIO+",
+    "products": ["EVISCON", "CREVASTOP", "MEDIXERYL"]
+  },
+  {
+    "lab": "MEDICUBA",
+    "products": ["KETOCONAZOLE"]
+  },
+  {
+    "lab": "MEDIKA LABORATOIRE",
+    "products": ["SIMEXOL"]
+  },
+  {
+    "lab": "MEDILIFE",
+    "products": ["HCG CASSETTE"]
+  },
+  {
+    "lab": "MEDINFAR",
+    "products": ["NIACIDE"]
+  },
+  {
+    "lab": "MEDIPIC",
+    "products": ["STERIFINE"]
+  },
+  {
+    "lab": "MEDIPRO PHARMA",
+    "products": ["CURARTI"]
+  },
+  {
+    "lab": "MEDITEST",
+    "products": ["GLYCEMIE C DEXTRO"]
+  },
+  {
+    "lab": "MEDIX",
+    "products": ["BIAFINE"]
+  },
+  {
+    "lab": "MEDOCHEMIE",
+    "products": ["APONIL", "ZEPILEN", "MELOX", "LEVOMED", "MEDOCRIPTINE"]
+  },
+  {
+    "lab": "MEIJI PHARMA SPAIN",
+    "products": ["DICLOFENAC"]
+  },
+  {
+    "lab": "MELAHAIR",
+    "products": ["MELAHAIR"]
+  },
+  {
+    "lab": "MENARINI",
+    "products": [
+      "ENANTYUM",
+      "PROSTAMOL",
+      "KETUM",
+      "METFORAL",
+      "POSTUITRIN FORT",
+      "DIFFUMAX",
+      "GLURENOR",
+      "BERLTHYROX"
+    ]
+  },
+  {
+    "lab": "MENTHOLATUM",
+    "products": ["DEEP HEAT"]
+  },
+  {
+    "lab": "MERCK SERONO",
+    "products": [
+      "SRILANE",
+      "LEVOTHYROX",
+      "GONAL F",
+      "PNEUMOVAX",
+      "SAIZEN",
+      "GLUCOPHAGE",
+      "STAGID",
+      "PRAXILENE",
+      "DETENSIEL",
+      "FEMIBION 1 GROSSES",
+      "CETROTIDE",
+      "REBIF",
+      "PERGOVERIS",
+      "OVITRELLE"
+    ]
+  },
+  {
+    "lab": "MERCKA LAB",
+    "products": ["MAGNESIUM"]
+  },
+  {
+    "lab": "MERINAL",
+    "products": [
+      "SULPIRIDE MER",
+      "EURITM",
+      "MIOCED",
+      "VASKOL",
+      "FERTIGEN HOMME",
+      "TELMED",
+      "ZIMOR",
+      "FLUOXETINE MERINAL",
+      "XYDOL GYN",
+      "PAXETINE",
+      "CO VALEX",
+      "OLANZEX",
+      "EBASTA",
+      "INICOX",
+      "METHYLDOPA MERINAL",
+      "DI-DOLYC",
+      "DICLORENE LP",
+      "DYAREX",
+      "RANITIDINE MABO",
+      "XYDOL RHUME",
+      "GENESIA",
+      "ZYLORIC",
+      "DYSENTIL",
+      "KAMIL",
+      "CO-DOLYC",
+      "FLOCINE",
+      "FAMOTIDINE MABO",
+      "SPACYL",
+      "SOMNUIT",
+      "CELOFON NOURRISSON",
+      "FERTIGEN FEMME",
+      "RONIDAZ",
+      "ROSUVIA",
+      "XYDOL",
+      "KOLESTINE",
+      "TENSOPREL",
+      "CELOFON ENFANT",
+      "FERRO SANOL GYN",
+      "DOLYC",
+      "CO-ARADEX",
+      "BYZOLEX",
+      "SMEDYL",
+      "AKARYD",
+      "KIETYL",
+      "CALCIDOSE",
+      "SEBUTOL",
+      "ALDOMET",
+      "MAGNOL STRESS",
+      "ARADEX",
+      "COLLOS",
+      "PROGYNELLE",
+      "VOMICED",
+      "VALEX",
+      "XYDOL ENF ET NOURR",
+      "RIFEX",
+      "VAZOTEK",
+      "RIPCYL",
+      "AMIKOZ",
+      "CALCIDOSE VIT D",
+      "OTOCINE",
+      "DOLEX",
+      "DI-DOLEX",
+      "PYCNOVEN",
+      "CO-TENSOPREL",
+      "MYO XYDOL"
+    ]
+  },
+  {
+    "lab": "MEZ-BROS",
+    "products": ["HEMOBRAO"]
+  },
+  {
+    "lab": "MIDDLE EAST PHARMA",
+    "products": ["CEFUCARE"]
+  },
+  {
+    "lab": "MIDERMA",
+    "products": ["ETRIXYL"]
+  },
+  {
+    "lab": "MILUPA",
+    "products": ["APTAMIL", "APTAMIL PREM.+PROS", "APTAMIL A/R"]
+  },
+  {
+    "lab": "MIRAZ",
+    "products": ["ANTIBIOCEL", "SYNBIOTIQUE INFANT"]
+  },
+  {
+    "lab": "MM",
+    "products": [
+      "CURE GRAVIOLA",
+      "CURE TRANSIT",
+      "ODONGYL",
+      "FLECAR",
+      "COVESTAG MM",
+      "CURE FER",
+      "IMUNZINC + VIT C",
+      "CURE Q10",
+      "LOXIDIPINE",
+      "AMLODIPINE MM",
+      "CURE NAUSEA",
+      "FENOFIBRATE MM",
+      "VESTAG",
+      "VITASCORBINE",
+      "ZIBRAT",
+      "CURE LEVELYX",
+      "CURE DODO BEBE",
+      "CURE INOSITOL",
+      "CYALEX",
+      "BI-ODONGYL",
+      "CETADOL EXTRA",
+      "CURE BIOTINE",
+      "CURE REFLUGEST",
+      "CURE BIOCALYX",
+      "CURE COLLAGENE PLU",
+      "CURE GAZ BEBE",
+      "ADFEN",
+      "NATRAZINC",
+      "PROFEK",
+      "CURE TRANSIT EX-FO",
+      "PREDNISOLEN.MM ORO",
+      "EXTRAMADOL",
+      "ATORVASTATINE MM",
+      "THYMOLYX",
+      "VIRILOME",
+      "CURE CALCI-D",
+      "NEXOPAIN",
+      "CO-ZIBRAT",
+      "BISOPROLOL MM",
+      "FONITRA",
+      "CURE NIGHT FLASH",
+      "CURE MAG",
+      "NATRASCAR",
+      "CURE CHARBO PLUS",
+      "OMEPRAZOLE MM",
+      "METRONIDAZOLE MM",
+      "VITAMINE D3",
+      "CURE VITAMINE E",
+      "PHLOROGLUCINOL MM",
+      "DIACTOSE",
+      "TAMSULOSINE MM",
+      "VESTAMOL",
+      "OLANZAPINE MM",
+      "CURE LAXAFIBRE",
+      "SPIRALEX"
+    ]
+  },
+  {
+    "lab": "MOBEN LABOATOIRE",
+    "products": [
+      "DOLIDOL FLASH",
+      "EQUIBREX",
+      "DOLIDOL FLASH V. C",
+      "VIDAROC MAGNESIUM",
+      "PROSTAZIME",
+      "VIT.C+ZINC MOBEN",
+      "FERTIZIME WOMEN",
+      "FERTIZIME",
+      "ZENDORM",
+      "MAGNESIUM MOBEN",
+      "LANVASA",
+      "DIO",
+      "HEPATOZIME",
+      "PREGNAZIME",
+      "VERTEC",
+      "OSSEANS D3",
+      "ZAPRAL",
+      "ZINC DEFENSE",
+      "RAPIDIGEST",
+      "QUIETILINE",
+      "LAXAZIME",
+      "VIDAROC MULTIVITAM",
+      "VITAMINE C",
+      "VIDAROC ENERGY BOS",
+      "VIDAROC ANTIOXYDAN"
+    ]
+  },
+  {
+    "lab": "MPI",
+    "products": ["MODESTAMINE"]
+  },
+  {
+    "lab": "MSD",
+    "products": ["GRACIAL", "JANUVIA", "OVESTIN"]
+  },
+  {
+    "lab": "MULTI-MAM",
+    "products": ["MULTI-MAM BABYDENT"]
+  },
+  {
+    "lab": "MUNDI",
+    "products": ["POLARAMINE", "COSOPT", "TRUSOPT"]
+  },
+  {
+    "lab": "MUSTAFA NEVZAT",
+    "products": ["SEFAZOL", "PREDNOL"]
+  },
+  {
+    "lab": "MYRAL",
+    "products": ["MAGNESIUM MYRAL", "DIGEVAL", "PRODENTIL"]
+  },
+  {
+    "lab": "MYRALE NUTRACEUTIC",
+    "products": ["DIGEVITE", "BESLIM PLUS MINCEU", "VITA C"]
+  },
+  {
+    "lab": "NACTALIA",
+    "products": ["NACTALIA CONFORT", "NACTALIA  NUT LIFE"]
+  },
+  {
+    "lab": "NADPHARMADIC",
+    "products": [
+      "CELESTINAD",
+      "CATAFENAC",
+      "PLANADIX ADVANCE",
+      "EGORIE",
+      "KENACORTYL RETARD",
+      "PLANADIX",
+      "LEVOSPASME",
+      "LACTUNAD",
+      "ZINC + VITAMINE C",
+      "CO LIPIRINAD",
+      "GLUCONAD",
+      "OLANZAPINE NAD",
+      "PLANADIX LIQUIZ",
+      "UBACTIVE",
+      "NADEC",
+      "PAROXINAD",
+      "CO-HYSARTAN",
+      "PREDNICORT",
+      "PLANADIX EXTRA",
+      "MYCINAD",
+      "PROSPONAD",
+      "HYSARTAN",
+      "APPETIT VIT ENF",
+      "PLANADIX RHUME",
+      "PLANADIX CONFORT",
+      "FLURBINADE",
+      "ZAPINAD",
+      "NADCORTYL",
+      "NADLORIC",
+      "METHYL-PREDNIS.NAD",
+      "PEPSULENE",
+      "GATIMOX",
+      "RISPERNAD",
+      "DIPRONAD"
+    ]
+  },
+  {
+    "lab": "NATALOE",
+    "products": [
+      "NATALOE SOL A/AG",
+      "NATALOE",
+      "NATALOE SOINS PIED",
+      "NATALOE ARBUTIN",
+      "NATALOE A-CELLULIT",
+      "NATALOE COIFF BIOT",
+      "NATALOE ECLAIRCISS",
+      "NATALOE BAUM TIBET",
+      "NATALOE ARGAN",
+      "NATALOE ESCALIFT"
+    ]
+  },
+  {
+    "lab": "NATRALIS",
+    "products": ["NATRACOLD", "NATRAPANTHEN", "NATRAHEMO"]
+  },
+  {
+    "lab": "NATURA PRO",
+    "products": ["COLIDENT", "NEOCAPSICUM TGR-B"]
+  },
+  {
+    "lab": "NATURAL SOLUTION",
+    "products": [
+      "HYALUBABY",
+      "TUSSICALM JUNIOR",
+      "OXYNOLINE",
+      "HARRA",
+      "PITCHOULINE",
+      "TUSSICALM CONFORT"
+    ]
+  },
+  {
+    "lab": "NATURALIN",
+    "products": ["PROCTA"]
+  },
+  {
+    "lab": "NATURE NOVEA SANTE",
+    "products": ["IMUZOR"]
+  },
+  {
+    "lab": "NATUREA",
+    "products": ["LIVERNAT", "RHEUMAFLEX", "LEVO ALLERG", "HERLAX"]
+  },
+  {
+    "lab": "NEOCAPSICUM",
+    "products": ["NEOCAPSICUM MIGRN", "NEOCAPSICUM", "MIGRACALM"]
+  },
+  {
+    "lab": "NEOHEALTH PHARMA",
+    "products": [
+      "GAVIMAX",
+      "NHP LEV DE BIE SEL",
+      "NPH APPETIT",
+      "NHP VITAMINE C",
+      "MAGNESIUM NHP",
+      "NHP VIT. C + ZINC",
+      "VITAMINE C",
+      "FOR BOOST",
+      "BOOSTY 4",
+      "NHP VITAMINE E",
+      "NORUM",
+      "NHPSENE",
+      "NHP GASTINE",
+      "NHP MAGNESIUM",
+      "DEGIMAX"
+    ]
+  },
+  {
+    "lab": "NEOMEDIC",
+    "products": [
+      "LOPROX",
+      "MYCOZOL",
+      "DERMOX",
+      "DIAGNO-CHECK",
+      "NEOXETINE",
+      "NEOCALM",
+      "FOLACID",
+      "LEVOZEN",
+      "PACET EXTRA",
+      "ACORBAY",
+      "DIAGNOCHECK SMART",
+      "DINAZIP",
+      "CETADOL",
+      "BECANOS",
+      "KETOFEN",
+      "METEOLAX",
+      "CICATRIXE",
+      "NEOTADINE",
+      "FLUCONALE",
+      "NEOMLA",
+      "MYCOPROX",
+      "DIARYL",
+      "DEFLAMAC",
+      "MYDOCALM NEO",
+      "DLUFT",
+      "ORYACTINE",
+      "NEOFERON",
+      "ADAFERIN",
+      "BACLON",
+      "SINGLUFT",
+      "FLUCONAZOLE",
+      "NICARDIL",
+      "TRAMAL",
+      "GANTANIL",
+      "YRICAL",
+      "BRUFINE",
+      "NEOMAGNO",
+      "NAFTIRETARD",
+      "CELVEX",
+      "FLIXONE",
+      "NEOFEN",
+      "EXFORMEDIC",
+      "DEKTAGEL",
+      "NEOGASTRIC",
+      "NEOBIOL",
+      "ZINC EXTRA",
+      "TERBIL",
+      "PHYTOSPAN AD",
+      "PHYTOSPAN KIDS",
+      "FUCIDE",
+      "NEOCARDIL",
+      "ZINC",
+      "NOVACAFE",
+      "NEONORM",
+      "LECTEUR DIAGNOCHEC",
+      "SPALVERINE",
+      "NASAMEX"
+    ]
+  },
+  {
+    "lab": "NEPENTHES",
+    "products": ["NEP BEBE"]
+  },
+  {
+    "lab": "NERHADOU INTERNATI",
+    "products": [
+      "CALCITON",
+      "FERROTRON",
+      "CALCITRON",
+      "WIN CALCITON",
+      "OCTATRON",
+      "WIN OCTATRON"
+    ]
+  },
+  {
+    "lab": "NESTLE SOMIPA",
+    "products": [
+      "NAN 3",
+      "NAN 1",
+      "CERELAC FARINE",
+      "NAN OPTIPRO 2",
+      "NAN 2",
+      "GUIGOZ",
+      "NAN AR",
+      "GLORIA JUNIOR",
+      "NAN OPTIPRO 3",
+      "PRE NAN",
+      "NAN OPTIPRO 1",
+      "NAN AL"
+    ]
+  },
+  {
+    "lab": "NEW GALENICA",
+    "products": [
+      "NEWTRIL PLUS",
+      "EPHORE / GELPHORE",
+      "ARGEPHORE ADULTE",
+      "NEWBO",
+      "OSTE NEW",
+      "GINKOTAC",
+      "NEWPLASTINE",
+      "EPHORE JUNIOR",
+      "ZINC NGL",
+      "EMAG MAG",
+      "COLLU-NEWTRIL",
+      "SANEWTOL",
+      "NEWFINE",
+      "HEMORREINE",
+      "EPHORE MIEL",
+      "CAMIDENT",
+      "ARGEPHORE JUNIOR",
+      "EOS-D3",
+      "ECITAINE",
+      "COLLAGEN NG",
+      "ARNICA GEL NGL",
+      "EPHORE MIEL GR VC",
+      "FORT HEMA",
+      "ARGEPHORE VIT.C",
+      "NEWTRIL",
+      "PRO EPHORE",
+      "SIROLIERRE"
+    ]
+  },
+  {
+    "lab": "NEW PARADIS SARL",
+    "products": ["XETHOL"]
+  },
+  {
+    "lab": "NEW WAY FARMA",
+    "products": [
+      "FORCE PLUS",
+      "NEW VITAMIN E",
+      "NEW VITAM FER",
+      "NEW VITAMIN D3",
+      "NEW VIT B12",
+      "TANAKUR",
+      "NEW CHARBON",
+      "NEW VITAM VIT B12",
+      "NEW MAG 6 300+",
+      "NEW MAG",
+      "NEW VITAM OMEGA 3",
+      "NEW VITAMIN C",
+      "NEW VITAM MAG B6",
+      "NEW FER + VIT C",
+      "VITAMIN E"
+    ]
+  },
+  {
+    "lab": "NIETO S.A.",
+    "products": [
+      "GELPHORE FER+VIT.C",
+      "GELPHORE",
+      "GELPHORE NOBILETIN",
+      "PROPHORE"
+    ]
+  },
+  {
+    "lab": "NOREVA LED",
+    "products": ["CICADIANE"]
+  },
+  {
+    "lab": "NORGINE PHARMA",
+    "products": ["GIVALEX", "NORTUSSINE", "NORGALAX", "CONTRACIDE"]
+  },
+  {
+    "lab": "NORMON",
+    "products": ["GASTRIMUT"]
+  },
+  {
+    "lab": "NOUAR LAB",
+    "products": ["TENDON CALM"]
+  },
+  {
+    "lab": "NOVA ARGENTIA",
+    "products": [
+      "NAXOLIN",
+      "NOVASMIL",
+      "NATAZINE",
+      "ASIATICOSIDE",
+      "NOVAMSIL",
+      "NOVAZIN"
+    ]
+  },
+  {
+    "lab": "NOVAGENERIC",
+    "products": [
+      "ATP NOVAGENERICS",
+      "DERMOCONAZOL",
+      "CALCIPOTRIOL NOVAG",
+      "ADAPALENE NOVA",
+      "BETAHISTINE NOVAGE"
+    ]
+  },
+  {
+    "lab": "NOVALAC",
+    "products": [
+      "NOVALAC LAIT",
+      "NOVALAC AC1 CALINO",
+      "NOVALAC AR",
+      "NOVALAC TRANSIT+2",
+      "NOVALAC TRANSIT+1",
+      "NOVALAC ALLERNOVA",
+      "NOVALAC AC2 CALINO"
+    ]
+  },
+  {
+    "lab": "NOVAPHARM TRADING",
+    "products": [
+      "FLUVERBIEN",
+      "LOCACORT",
+      "VITANOVA D3",
+      "VITANOVA MAG BOOST",
+      "NOVACLOVIR",
+      "FLECACARD",
+      "NOVAZINC ULTRA",
+      "IBUTHOL",
+      "VITANOVA GOUT CITR",
+      "VITANOVA MA/VIT B6",
+      "KETOCONAZOLE NOVAG",
+      "ADENUMAX",
+      "PRERICA",
+      "ECZECORT",
+      "DERMOSAF",
+      "BETAMETHA.AC.SALIC",
+      "CLOBENAT",
+      "PINAVERIUM",
+      "TAMSULIX",
+      "VITAZINC ULTRA",
+      "CELECOXIB NOVAGENE",
+      "NOVASPRAY",
+      "OSTOMAX",
+      "NA3NA3 +",
+      "PIROXICAM NOVA GE",
+      "DOSTINOVA",
+      "NOVALIFE+SAW PALME",
+      "RHINODOZE",
+      "ATORVASTATINE NOVA",
+      "MICONAZOLE NOVAGEN",
+      "GLUCONOVA",
+      "KETOCREM",
+      "BETAMETHASONE NOVA",
+      "CALCIUM D3 NOVA",
+      "VITANOVA C",
+      "JUZERO FRUITS",
+      "JUZERO ICE TEA",
+      "EPILKINE CHRONO",
+      "ERECTA",
+      "ECONAZOLE NOVAGENE",
+      "NASADOZE",
+      "NOVAKAFE PRO",
+      "FLAVON",
+      "PROSTADOZ",
+      "SUCRONORME",
+      "SULFADIAZINE NOVAG",
+      "TERFINEX",
+      "NOVA ZINC",
+      "VITANOVA MAG",
+      "LERCA",
+      "FEXOFENADINE NOVA",
+      "VERTIGO",
+      "ATADOZE",
+      "CALCIUM NOVA",
+      "MYCODERM",
+      "BETAMETHASONE"
+    ]
+  },
+  {
+    "lab": "NOVARTIS",
+    "products": [
+      "COMTAN",
+      "EXFORGE",
+      "TRAVATAN",
+      "FEMARA",
+      "TEGRETOL",
+      "TAREG",
+      "SKIACOL",
+      "LESCOL XL",
+      "LIORESAL",
+      "AZOPT",
+      "TOBREX",
+      "COTAREG",
+      "CIBACALCINE",
+      "FLUCON",
+      "MAXIDROL",
+      "CILOXAN",
+      "OPATANOL",
+      "GALVUS",
+      "SYNTOCINON",
+      "LESCOL",
+      "CATAFLAM"
+    ]
+  },
+  {
+    "lab": "NOVEA SANTE",
+    "products": ["SOMYL", "PULMOCALYPTOL", "MAGNA+B1-B2-B6-12"]
+  },
+  {
+    "lab": "NOVO NORDISK",
+    "products": [
+      "VICTOZA",
+      "NOVOFINE AIGUILLE",
+      "NOVORAPID",
+      "GLUCAGEN HYPOKIT",
+      "NOVOMIX 30",
+      "INSULATARD HM",
+      "NORDITROP. NORDIFL",
+      "NOVOTWIST",
+      "LEVEMIR",
+      "ACTRAPID HM",
+      "NOVOFORMINE",
+      "MIXTARD 30 HM",
+      "NOVONORM",
+      "TRESIBA"
+    ]
+  },
+  {
+    "lab": "NOVOMEDIS",
+    "products": [
+      "MEGALIS",
+      "LITHOS PREVENT",
+      "NOVO FER PLUS",
+      "NOVASTERIDE",
+      "NOVOFER",
+      "PROFERTIL FEMALE",
+      "LITHOS DISSOLVE",
+      "PROFERTIL"
+    ]
+  },
+  {
+    "lab": "NOVUSPHARM",
+    "products": ["SPIRANTO"]
+  },
+  {
+    "lab": "NUTRA GREEN",
+    "products": [
+      "NEOFEMME",
+      "NUTRA GRN CAL VITD",
+      "CALMEEN",
+      "SUPERALG",
+      "NUTRA GRN A/STRESS",
+      "ARTIRELAX",
+      "FULLABEILLE",
+      "NUTRASLIM",
+      "NG MULTVT ET MIN",
+      "NUTRA GRN CONF DIG",
+      "NUTRA GRN GAZLESS",
+      "VITACOMPLEX"
+    ]
+  },
+  {
+    "lab": "NUTRA SWISS BIO AG",
+    "products": ["PREGNA+", "OMEGA-3", "BIOMAG"]
+  },
+  {
+    "lab": "NUTRALICA",
+    "products": ["N-ATAMAG"]
+  },
+  {
+    "lab": "NUTRAVIE",
+    "products": ["VITAMINE C"]
+  },
+  {
+    "lab": "NUTRAXIN",
+    "products": [
+      "NUTRAXIN ULTRAMEN",
+      "COMPLEXE VITAMIN B",
+      "MULTI-VIT. MINER",
+      "VIT. MAX C D ZINC",
+      "BIOTINE FORTE",
+      "VITAMINE D3 K2",
+      "NUTRAXIN VIT D3",
+      "NUTRAXIN VIT C",
+      "NUTRAXIN GIN BILOB",
+      "NUTRAXIN SELENIUM",
+      "NUTRAX PL A-OX FOR",
+      "ARTROFORT",
+      "COQ-10 CP",
+      "NUTRAXIN OMEGA-3",
+      "NUTRAXIN BIOTINE",
+      "NUTRAXIN PROPOLIS",
+      "COLLAGEN COMPL NUT",
+      "NUTRAXIN RAC DE CO",
+      "NUTRAXIN VIT B12",
+      "NUTRAXIN CRANBERRY",
+      "NUTRAXIN COMP MVIT",
+      "NUTRAXIN PREGNANCY",
+      "BROMELAINE FORTE",
+      "NUTRIXIN ACD FOLIQ",
+      "CHROMIUM PICOLINAT",
+      "ARTROFORT C II NUT",
+      "NUTRAXIN BIG ENERG",
+      "NUTRAXIN KERATIN F",
+      "COLLAGENE NUTRAXIN",
+      "COSTUS INDIEN",
+      "NUTRAXIN ZINC",
+      "NUTRAXIN MAGNESIUM",
+      "SAW PALMETTO"
+    ]
+  },
+  {
+    "lab": "NUTRI SENTIELS",
+    "products": ["MELATONINE BIO", "OMEGA 3"]
+  },
+  {
+    "lab": "NUTRICARE",
+    "products": [
+      "NUTRI D",
+      "COLLAGEN CARE",
+      "MAXICAL D3",
+      "RENNICAL",
+      "SEVRAX LP"
+    ]
+  },
+  {
+    "lab": "NUTRICIA",
+    "products": [
+      "PROTIFAR PLUS",
+      "PROTIFAR",
+      "GALACTOMINE",
+      "APTAMIL PEPTI JR",
+      "NEOCATE LCP",
+      "FORTIMEL",
+      "INFATRINI"
+    ]
+  },
+  {
+    "lab": "NUTRIFARMA",
+    "products": ["SERENOX SOMMEIL"]
+  },
+  {
+    "lab": "NUTRIGUM",
+    "products": ["GUMMIES VIT.C & ZI", "GUMMIES MULTI KIDS", "GUMMIES SOMMEIL"]
+  },
+  {
+    "lab": "NUTRILEYA",
+    "products": [
+      "NUTRIREGULAR D",
+      "NUTRIREGULAR NAUXN",
+      "NUTRIDEF GOLA&VOC",
+      "NUTRISPRINT MAGNES",
+      "NUTRIDEF FLU",
+      "NUTRIREGULAR RELAX"
+    ]
+  },
+  {
+    "lab": "NUTRIPOWER",
+    "products": ["PURE C", "PURE MAGNESIUM"]
+  },
+  {
+    "lab": "NUTRISANTE",
+    "products": [
+      "CYPRES VITAMINE D",
+      "GELEE ROYALE BIO",
+      "Q10 VIT.E",
+      "MANHAE CIRC ACTION",
+      "INTIMHAE",
+      "FORGE G",
+      "MANHAE + CURCUMA",
+      "MAGNESIUM STEVIA",
+      "CHARBON VEGETAL AC",
+      "FORCE G",
+      "ULTRABIOTIQUE",
+      "BIO VIGNE ROUGE",
+      "FORGE G POWER MAX",
+      "BIO HUILE DE FDM",
+      "BIO SPIRULINE",
+      "LECITONE GENIUS",
+      "MANHAE ARTICULATIO",
+      "MAGNES+VIT.B1B2B6",
+      "VITAMINE D",
+      "AXILIS",
+      "BIO ACEROLA",
+      "BIO HARPAGO PHYTUM",
+      "NUTRICAP ANTI-CHUT",
+      "MANHAE CYS MANNOSE",
+      "MANHAE INTIMHAE",
+      "BIO CURCUMA",
+      "FORCADION",
+      "BIO GINGO BILOBA",
+      "MULTIVIT FER+CALCI",
+      "BIO CRANBERRY",
+      "MANHAE GLUCO BALAN",
+      "EFFIDIGEST"
+    ]
+  },
+  {
+    "lab": "NUTRISENS",
+    "products": ["CEREALNUT"]
+  },
+  {
+    "lab": "NUTRIVA",
+    "products": [
+      "MAGNES B6 NUTRIVA",
+      "APPETIT NUTRIVA",
+      "CHARBON VEG NUTRIV",
+      "MINCIVITE NUTRIVA"
+    ]
+  },
+  {
+    "lab": "NUTRIVITA",
+    "products": ["VITAMINE C LIPOSOM"]
+  },
+  {
+    "lab": "OCTAVIUS PHARMA",
+    "products": ["BRONCHOLYPTOL", "STOP GRIPP"]
+  },
+  {
+    "lab": "OFELIA LABOS",
+    "products": ["PERMANGAN D POTAS"]
+  },
+  {
+    "lab": "OFFICINA INTERNAT.",
+    "products": ["FUROSEMIDE"]
+  },
+  {
+    "lab": "OK PHARMA",
+    "products": [
+      "NATURA C PLUS",
+      "OMEGA 3",
+      "BIO MAG",
+      "BIO VITA/Z",
+      "FERILEX FER+",
+      "CHONDROMAX 1000",
+      "PHYTOHAIR",
+      "CHARBON VEGETAL",
+      "VIT.C+ZINC +D3",
+      "ROYAL COLL+VIT.C",
+      "NUTRI D3"
+    ]
+  },
+  {
+    "lab": "OLEADINE",
+    "products": ["OLEATOL", "OLEA THYM", "ZEKAF", "OLEA THYM KIDS"]
+  },
+  {
+    "lab": "OLEASENS",
+    "products": [
+      "H.F.M OLEASENS",
+      "APPETIT KID",
+      "BRONCHOLE",
+      "OLEARYL",
+      "OLIMEX",
+      "ARNIBIO",
+      "OLEAPOUX",
+      "B-CALYPTOL KID",
+      "OXYAFINE",
+      "BIOLAFINE",
+      "HEC",
+      "OLEAHOT",
+      "OLEASENS BDB MENTH",
+      "TITANOROIDE",
+      "OLEASENS ST APPETI",
+      "APHTABIO",
+      "OLEAFLEX",
+      "OLEASENS EXT.WH.TE",
+      "BRONCHOLE KID",
+      "SANTE FIT FER+",
+      "HUILE DE FOIE MOR.",
+      "SANTE FIT FER",
+      "B-CALYPTOL",
+      "OLEACOLD",
+      "HERPSYVIT",
+      "ADU-LAX",
+      "HEMO CALM",
+      "OLEAROMARIN",
+      "FEETADERM",
+      "OLIMER HYPERTONIQU",
+      "AXIDINE",
+      "OLEASENS FRAICHEUR",
+      "APPETIT",
+      "OLEACADE",
+      "DIAROLEA KID",
+      "KIDOGEL",
+      "OLEAVICK",
+      "CREME PIED",
+      "OLEAMER RHUME",
+      "THYMUS PLUS",
+      "RHINOSENS"
+    ]
+  },
+  {
+    "lab": "OMEGA PHARMA",
+    "products": ["SINOMARIN"]
+  },
+  {
+    "lab": "ONYX PHARMACEUTIQU",
+    "products": [
+      "GEMME HUILE DE SIL",
+      "MYSOLAX",
+      "CORTYX",
+      "ARONYX",
+      "MICROBAN",
+      "PARAVEX ENF",
+      "POUCIDE",
+      "OXYFENAC",
+      "EASYZINC",
+      "DERMONYX",
+      "MOOV EXTRA",
+      "URONYX",
+      "DESONYX",
+      "PHALUGEL",
+      "PARAVEX AD",
+      "GALVINE",
+      "ACNYX",
+      "KETONYX",
+      "ITRACONYX"
+    ]
+  },
+  {
+    "lab": "OPHTALMIC",
+    "products": ["JAZZ SOLUTION"]
+  },
+  {
+    "lab": "OPOCALCIUM",
+    "products": ["COLCHICINE OPOC."]
+  },
+  {
+    "lab": "OPTIPHARM",
+    "products": [
+      "ACIDE FOLIQUE",
+      "OPTIKID PWRKD MLTV",
+      "OPTIMAG STRESS RES",
+      "OPTIFER",
+      "MAGNESIUM",
+      "OPTICYSTINE",
+      "OPTIDAT",
+      "OPTIKID OMEGA 3",
+      "OPTIZINC",
+      "GIGADYN ENERGY",
+      "OPTIKID ZINC KID",
+      "VITAMINE C+ZINC",
+      "OPTISELENIUM PLUS",
+      "OPTI C",
+      "OPTICHARBON",
+      "OPTISITOL SOPK",
+      "OPTIFOLATES",
+      "VITAMINE B12",
+      "OPTI-E",
+      "OPTI D3",
+      "OPTISYLAT"
+    ]
+  },
+  {
+    "lab": "ORCHIDIA PHARMACEU",
+    "products": ["ASCO ZINC"]
+  },
+  {
+    "lab": "ORDESA",
+    "products": ["MODILAC RIZ", "PRE-MODILAC"]
+  },
+  {
+    "lab": "ORGANON",
+    "products": [
+      "HYZAAR",
+      "PREGNYL",
+      "DIPROSONE",
+      "LIVIAL",
+      "NASONEX",
+      "FORTZAAR",
+      "MERCILON",
+      "CELESTENE",
+      "MARVELON",
+      "ORGALUTRAN",
+      "EZETROL",
+      "GONADO CHORIO ENDO",
+      "VISCERALGINE",
+      "TOLVON",
+      "SINGULAIR",
+      "IMPLANON NXT",
+      "ATHYMIL",
+      "ORGAMETRIL",
+      "DIPROSTENE",
+      "ANDRIOL",
+      "COZAAR",
+      "CERAZETTE",
+      "PUREGON"
+    ]
+  },
+  {
+    "lab": "OUBARI SYRIA",
+    "products": ["RANITIDINE", "OBARCORT"]
+  },
+  {
+    "lab": "OWEN MUMFORD",
+    "products": ["UNIFINE PENTIPS"]
+  },
+  {
+    "lab": "PANPHARMA",
+    "products": ["PAN-PENI G"]
+  },
+  {
+    "lab": "PEPTAN",
+    "products": ["COLLAGENE NATU PEP"]
+  },
+  {
+    "lab": "PETRAPHARM",
+    "products": ["FLUCOZOL"]
+  },
+  {
+    "lab": "PFIZER",
+    "products": [
+      "ACUITEL",
+      "ZITHROMAX",
+      "ADEPAL",
+      "TRINORDIOL",
+      "VIBRAMYCINE",
+      "DOSTINEX",
+      "AROMASINE",
+      "MINESSE",
+      "ADVIL",
+      "GELDENE",
+      "LYSANXIA",
+      "FELDENE",
+      "FRAGMINE",
+      "MICROVAL",
+      "ALDACTONE",
+      "SALAZOPYRINE",
+      "DEBRIDAT",
+      "MINIDRIL",
+      "PROCTOLOG",
+      "FLUCONAZOLE PFIZER",
+      "ACUILIX"
+    ]
+  },
+  {
+    "lab": "PHAMED LAB",
+    "products": [
+      "ANDEOL MEN",
+      "ADRAGYN",
+      "LIBIGYN",
+      "FREYAGYN GEL",
+      "CYSTOBERRY"
+    ]
+  },
+  {
+    "lab": "PHARCO",
+    "products": ["VITAMINE E"]
+  },
+  {
+    "lab": "PHARM AND PHYT",
+    "products": ["NOSYSTOP", "IRON PLUS", "MEMOTYNE  JUNIOR", "IRON KIDS"]
+  },
+  {
+    "lab": "PHARMA 5 LABORAT.",
+    "products": ["HALOPERIDOL GRY"]
+  },
+  {
+    "lab": "PHARMA MAKERS",
+    "products": ["LITHO MAX"]
+  },
+  {
+    "lab": "PHARMA SPHERE",
+    "products": ["KALCITAB", "GELBOOST", "VITADONE D3", "GLUCOTAC"]
+  },
+  {
+    "lab": "PHARMACARE",
+    "products": ["REGULAX"]
+  },
+  {
+    "lab": "PHARMACORP",
+    "products": [
+      "OMER HYPERTONIQUE",
+      "OLIMER HYPERTONIQU",
+      "OMER ISOTONIQUE",
+      "OLIMER ISOTONIQUE"
+    ]
+  },
+  {
+    "lab": "PHARMADERM",
+    "products": ["CAL-MOL"]
+  },
+  {
+    "lab": "PHARMADIET",
+    "products": ["GESTAPLUS"]
+  },
+  {
+    "lab": "PHARMAGEN",
+    "products": ["DOUCE PLUS"]
+  },
+  {
+    "lab": "PHARMAGHREB",
+    "products": [
+      "E-RAX",
+      "MINOXYLE",
+      "PERYDONE",
+      "NIFUROXAZIDE PGR",
+      "OXOPLEX",
+      "BETAPROSONE",
+      "PRIMAZINE",
+      "FLUVERZOL",
+      "COTRIMAZOLE",
+      "HEPTADYL",
+      "HALOPERIDOL PGR",
+      "SERTOFIX",
+      "GASTOMAX",
+      "SULPIDE",
+      "AMITRIPTYLLINE PGR",
+      "ECONAZYL",
+      "NORMALAX",
+      "SEPTHOL",
+      "DERMAZOLE",
+      "ACIDERM",
+      "DESLORINE",
+      "TOPLEX",
+      "PHARYNVIT",
+      "DORAMINE",
+      "MINOXYL",
+      "CLEAN ACNE",
+      "CORTIMAZOLE",
+      "TERCYD",
+      "SEPTIDINE",
+      "ALFUCINE",
+      "KETONAZOLE",
+      "VOLTENAC",
+      "MYCOCINE",
+      "KETOCONAZOLE"
+    ]
+  },
+  {
+    "lab": "PHARMAGREB",
+    "products": ["DAKTAZYL", "ADVIFEN"]
+  },
+  {
+    "lab": "PHARMALIFE",
+    "products": ["APPETITO BEBE", "DIGERSTIM", "FITOLAT"]
+  },
+  {
+    "lab": "PHARMALIG",
+    "products": ["FOROCEL"]
+  },
+  {
+    "lab": "PHARMALINK",
+    "products": [
+      "GELOMIER SUPER TON",
+      "GELOMIEL TONUS",
+      "GELOMIEL JUNIOR",
+      "GELOMIEL PERFORMAN"
+    ]
+  },
+  {
+    "lab": "PHARMALLIANCE",
+    "products": [
+      "CEFIMAX",
+      "PREGABA",
+      "DUOFEM",
+      "ROZEMIDE",
+      "VALACLOR PLUS",
+      "CYCLEDOU",
+      "VITAL C + ZINC",
+      "OROCEF",
+      "EUFOR",
+      "ANTALFEN",
+      "PRODOL",
+      "CANDERAX",
+      "GRIPEX ALLERGIE",
+      "ZOSTINE",
+      "ARNICA FREEZ",
+      "ZEXIL",
+      "TELMISARTE PLUS",
+      "TEMOST",
+      "PROFLOX",
+      "FENIRAMINE",
+      "MIGRAZEN",
+      "PROSAREX",
+      "ANTALFEN GYN",
+      "DOMPERONE",
+      "ALODIPINE",
+      "ANCEA",
+      "GRIPEX PLUS",
+      "TERBIFINE",
+      "VITAL B6/B9",
+      "SURALOSE",
+      "VITAL D3",
+      "FELCAM FAST",
+      "CRESTATINE",
+      "VITAL ZINC",
+      "FLAXYNE",
+      "ROXID",
+      "ATENOR",
+      "TANATRIL +",
+      "TAFIALYS",
+      "GRIPEX TOUX GRASSE",
+      "VITAL C",
+      "CANDERAX PLUS",
+      "LEVOTYNE",
+      "LISINOX",
+      "ECZEMOL",
+      "CYACETINE",
+      "CITOPLEX",
+      "TELFADINE",
+      "IRBISART",
+      "DOLMATOL",
+      "APAISEPIK",
+      "LORADESS",
+      "OLPREXA",
+      "VIRCET",
+      "FAMOXINE",
+      "USENIL",
+      "MELA-NUIT",
+      "FLIXASONE",
+      "PEPTIDAC",
+      "CICA PLUS",
+      "ARNI-CALM",
+      "FELCAM",
+      "ESOPROTON",
+      "SULOZIR",
+      "ANTAPROFENE",
+      "DOLPRIV",
+      "IRBISART +",
+      "TELMISARTE",
+      "TANATRIL",
+      "VELFAT",
+      "DORICEPT",
+      "CELECOX",
+      "RANITEX",
+      "VASTOR",
+      "RIPSYZEN",
+      "SULRID",
+      "TRIAXONE",
+      "TEOLAR",
+      "VITAL B12",
+      "RYVOL",
+      "ENDRONAX",
+      "VIANAFIL",
+      "CLOVIRAX",
+      "CARBO-CALM",
+      "IMUZOLE",
+      "PYLORIX",
+      "SOLUXOL",
+      "VALACLOR",
+      "ANCEFAL",
+      "DAZIL",
+      "TIFEN",
+      "APRODEX",
+      "LARIMEL",
+      "PROTON",
+      "LORADINE",
+      "ZYNAX",
+      "ADIPINE",
+      "VOLTUM",
+      "ZOTRIX",
+      "GRIPEX",
+      "MISULAR",
+      "PROSSOR",
+      "EPILEPTAM",
+      "PSORYXIA",
+      "DIMEPRA",
+      "REPANIDE",
+      "NORMALLIANCE",
+      "CETIRIPEX",
+      "EXSART",
+      "PROFEN",
+      "LAXA-FIBRE",
+      "VITAL MAG",
+      "VITAL NAUSEA"
+    ]
+  },
+  {
+    "lab": "PHARMALYS",
+    "products": ["SWISSLAC"]
+  },
+  {
+    "lab": "PHARMASPHERE",
+    "products": ["PROPIOLYSS"]
+  },
+  {
+    "lab": "PHARMED LAB",
+    "products": ["BIOIMMUNITY+ VIT.C", "VITAMINE C + ZINC"]
+  },
+  {
+    "lab": "PHARMEDEST",
+    "products": [
+      "SANTE FIT VIT C",
+      "SANTE FIT MELATONI",
+      "SANTE FIT MAGNESIU",
+      "ANTIDIA PROJECT",
+      "SANTE FIT ZINC"
+    ]
+  },
+  {
+    "lab": "PHARMIDAL",
+    "products": [
+      "NARUFENE",
+      "AZITHROMYCINE PHR",
+      "NEURALGIN",
+      "TRIMETAZIDINE PH",
+      "PIVALEX",
+      "DIPRIM",
+      "DESLORAL",
+      "NASOVIT",
+      "ORILYSE",
+      "ORICALM",
+      "CALCIOS",
+      "B-CORTOSONE",
+      "FLAGYNEX",
+      "ASCALOL",
+      "PRIMAL",
+      "ROVAGYL",
+      "VENOVIT",
+      "RIVASTIG",
+      "COLIZEN",
+      "PONCTUEL",
+      "CLARITHROMYCINE NS",
+      "TERBIDAL",
+      "XALDOL",
+      "FLUCAZOLE",
+      "LOPERAMIDE PHARMID",
+      "MYOLAXAN",
+      "MINOXIDIL NS",
+      "ZITRAL",
+      "CARBODAL",
+      "MAG 6",
+      "AMBRODAL EXP",
+      "FLUVERDAL",
+      "CAL-VIT D3",
+      "DOLI-BIEN",
+      "ACICLOVIR N.S",
+      "AMLODAL",
+      "ROVA NS",
+      "PAREXAT",
+      "NASOVIT KIDS",
+      "PRIMALL",
+      "CORTIDAL",
+      "DINALEXIN",
+      "FERODAL",
+      "MINOXIDIL",
+      "TIMOFEROL"
+    ]
+  },
+  {
+    "lab": "PHENEXIA PHARM",
+    "products": ["PHELYSE", "RHUMZA"]
+  },
+  {
+    "lab": "PHENIX",
+    "products": ["OSWEET"]
+  },
+  {
+    "lab": "PHENIXIA PHARM",
+    "products": ["PHEXASPRAY", "ISOMER ISOTONIQUE"]
+  },
+  {
+    "lab": "PHI INDUSTRIES",
+    "products": [
+      "PHI LIGHT",
+      "PHI GASTRIC",
+      "PHI ANX",
+      "PHI FER",
+      "PHI STOP ADDIC",
+      "PHIGINKGO",
+      "PHINOSITOL"
+    ]
+  },
+  {
+    "lab": "PHILADELPHIA PHARM",
+    "products": [
+      "PANTHOPHIL",
+      "VITILASE",
+      "BEMO",
+      "DCOL VIT D3",
+      "PELARGOS",
+      "MESONE",
+      "LYCEX"
+    ]
+  },
+  {
+    "lab": "PHYSIOPHARM",
+    "products": [
+      "ARDIL",
+      "ARTI CURE PLUS",
+      "LEXERYL",
+      "GLIMEPIRIDE PHYSIO",
+      "VITATINE",
+      "SITAMINE",
+      "FORSAVIT C + ZINC",
+      "BLEU DE METHYL PHY",
+      "CELECOXIB PHYSIO",
+      "SALBUTAMOL PHYSIOP",
+      "KIDO BABY GAZ",
+      "PROXAN",
+      "PHYSIOFOL",
+      "FORSAMINE FR ETON",
+      "FENOFIBRATE",
+      "SOMMEIL PROFONDS",
+      "FLUCONAZOL PHYSIO",
+      "PHYSIOLONE",
+      "TONUS",
+      "VEINORROIDE",
+      "PHYSIOPHORMINE",
+      "PHLOROGLUCINOL",
+      "VEINOCURE",
+      "PHYSIOGEL",
+      "FEROL",
+      "BROMAZEPAM PIM",
+      "VEMAG",
+      "FORSAMINE MAXI MAR",
+      "FORSAMINE BIO",
+      "FORSAMINE JR+ZN",
+      "AMBROXOL PHYSIOPHA",
+      "VEINO 3 FORT",
+      "STOP GAZ",
+      "PHYSIOCALYPTOL",
+      "FORSAMINE MAG",
+      "PROBIOTIC KIDS",
+      "BEST COLLAGENE",
+      "CALCIUM VIT D3",
+      "PULVICK",
+      "FAMISIL",
+      "NIFUROXAZIDE PHYSI",
+      "SUCREL",
+      "VITABIOL",
+      "PHYSIORELAX",
+      "LYSOPURE",
+      "VITAMINE D3 KIDS",
+      "DIGESTION",
+      "CELLULITE",
+      "COLOSTOP",
+      "FORSAMINE FOR MEN",
+      "NOLIB",
+      "GELEE ROYALE BIO",
+      "PARACETAMOL CODEIN",
+      "MAXTRIT",
+      "PROXAN KIDS",
+      "COLLU MAXTRIT",
+      "HERBO",
+      "PROXAN SINUS",
+      "DALVEX",
+      "MAXTRIT KIDS",
+      "ZINC+VITAMINE C",
+      "EOSINE ACQUESEPHYS",
+      "DERMO CURE PSORIAS",
+      "ARTICULAIRE",
+      "BETAMETHASONE PHYS",
+      "NAPROXENE PHYSIOPH",
+      "VITAMINE D3",
+      "VITAMEN",
+      "ARTI CURE",
+      "VITAMINE C",
+      "FORSAMINE PLUS",
+      "OMEPRAZOLE",
+      "URITENS",
+      "PHYVERZOL",
+      "DOMPERIDONE PHYSIO",
+      "WOMEN INTIM BIO",
+      "XELOPLASTINE",
+      "PHYSIOMAR PLUS",
+      "FORSAVIT C",
+      "PHYSIOMAG",
+      "PHYSIOMAR",
+      "DAPROSAL",
+      "PROSTAFIX",
+      "DULAX AD",
+      "CETIRIZINE PHYSIOP",
+      "FUCIDERM",
+      "VITAMINE C + ZINC",
+      "DELADINE",
+      "PROBIOTIC PHYSIOPH",
+      "REPAGLINIDE PHYSIO",
+      "SYMITHOL",
+      "INDIGEST BIO",
+      "PARACETAMOL PHYSIO",
+      "BUCCO DELADINE",
+      "FORSAMINE JUNIOR",
+      "CICATRICE",
+      "IBUPROFENE PHYSIOP",
+      "FORSAMINE",
+      "PHYSIOMAR BEBE",
+      "SYMITOL",
+      "VITATINE BABY",
+      "PRYMALEX"
+    ]
+  },
+  {
+    "lab": "PHYTEAL",
+    "products": ["PHYTEAL FLORELLA"]
+  },
+  {
+    "lab": "PHYTEANCE",
+    "products": ["ROYAL APPETITE+"]
+  },
+  {
+    "lab": "PHYTO LIFE PLUS",
+    "products": [
+      "PHYTO COLLAGN PLUS",
+      "PHYTO MAG MARIN PL",
+      "PHYTO COENZ Q10 PL"
+    ]
+  },
+  {
+    "lab": "PHYTOLEADER",
+    "products": ["MAGNESIUM+VIT.B6"]
+  },
+  {
+    "lab": "PHYTOLIFE",
+    "products": [
+      "B12 COMPLEXE PHYTO",
+      "VITAMINE D3 K2",
+      "GINKGO BILOBA PHYT",
+      "VITALIFE",
+      "PHYTO NIGHT",
+      "MAG MARIN PHYTOLIF",
+      "FERROLIFE PHYTOLIF",
+      "THREOMAG COMPLEX",
+      "SLIM BOOST",
+      "APPETIT BOOST",
+      "VITAMINE C COMPLEX",
+      "SELENIUM PHYTOLIFE",
+      "FENUGREC PHYTOLIFE",
+      "MAG 24",
+      "GRAVIOLA COMP PHYT",
+      "CITRA ZINC",
+      "ALPHA LIPOLIFE",
+      "PHYTO COLON",
+      "PROPOLIS PLUS PHYT",
+      "VISIO LIFE",
+      "VITAMINE D3 PHYTOL",
+      "MAG300 CARBONATE",
+      "MEMOBOOST",
+      "DIABEX",
+      "PHYTO THYROX",
+      "PROSTALIFE",
+      "ASHWAGANDHA PHYTOL",
+      "COMPLEXE B 300",
+      "SHILAJIT PHYTOLIFE",
+      "ARTIBOOST",
+      "GARCINIA CAMBOGIA",
+      "FERTI BOOST WOMEN",
+      "PROBIOLIFE"
+    ]
+  },
+  {
+    "lab": "PIC SOLUTION",
+    "products": ["PIC INSUMED"]
+  },
+  {
+    "lab": "PIERRE FABRE",
+    "products": [
+      "CURACNE",
+      "TARDYFERON B9",
+      "APAROXAL",
+      "STRUCTOVIAL",
+      "MYCOSTER",
+      "ELUDRIL",
+      "STRUCRTOVIAL",
+      "THEOSTAT",
+      "ANESDERM GE",
+      "PERIDYS",
+      "TANGANIL PRO",
+      "STRUCTUM",
+      "PERMIXON",
+      "LOCAPRED",
+      "TANGANIL",
+      "PRIMALAN",
+      "LOCATOP",
+      "TARDYFERON",
+      "DEXERYL",
+      "CYCLO 3"
+    ]
+  },
+  {
+    "lab": "PLI",
+    "products": [
+      "MAGNESIUM VIT.C",
+      "ISOLONE",
+      "DIGOXINE STREULI",
+      "ALLERGINE",
+      "PROSTNEED"
+    ]
+  },
+  {
+    "lab": "PRIMALAC PREMIUM",
+    "products": ["PRIMALAC 1", "PRIMALAC 2"]
+  },
+  {
+    "lab": "PRODERMA SANTELABO",
+    "products": ["POLYDERMYL"]
+  },
+  {
+    "lab": "PRODICOS",
+    "products": [
+      "BIOTENDRA",
+      "DERMASYL",
+      "VITA C PRODICOS",
+      "BARDDA",
+      "BOBOGEL",
+      "MADECRYL",
+      "DERMOCRYL",
+      "CICABRULEX",
+      "OZH HEMORROIDES",
+      "DEXAFINE",
+      "MONOGYNAX GYN",
+      "BEBEDOUCE",
+      "VITAMINE E",
+      "FONGILAX",
+      "DEXASPRAY",
+      "APHTOLYSE",
+      "MIFLUGEL",
+      "BEMOCYCATRIL",
+      "GIVADEX",
+      "PRODIMER D HERBILL",
+      "PRODIPLASTINE",
+      "O.Z.H OIF ZERO HEM",
+      "OROSPRAY"
+    ]
+  },
+  {
+    "lab": "PRODUIT DENTAIR SA",
+    "products": ["TRIXANOL"]
+  },
+  {
+    "lab": "PROGMED LABORATOIR",
+    "products": ["PROGCUF"]
+  },
+  {
+    "lab": "PROMISEMED TM",
+    "products": ["PROMISEMED"]
+  },
+  {
+    "lab": "PROMOPHARM",
+    "products": ["MERCUROCHROME"]
+  },
+  {
+    "lab": "PROMOPLUS PHARMA",
+    "products": ["HEMOREINE"]
+  },
+  {
+    "lab": "PROPHARMAF",
+    "products": ["PRODHEA", "FECONDYL H", "PROSITOL FERT. FEM"]
+  },
+  {
+    "lab": "PROPHARMAL",
+    "products": [
+      "EFFERALGAN",
+      "VITAMINE C UPSA",
+      "TOPLEXIL",
+      "MAXILASE",
+      "SUCRANDEL",
+      "VITAMINE C",
+      "EFFERALGAN VIT.C",
+      "CALCIBRONAT",
+      "MAALOX",
+      "ASPEGIC",
+      "DOLIPRANE",
+      "DOLI RHUME",
+      "ASPIRINE UPSA VITC",
+      "EFFERALGAN CODEINE",
+      "RHINATHIOL",
+      "SOLUPRED",
+      "TELFAST"
+    ]
+  },
+  {
+    "lab": "PROVIVO",
+    "products": [
+      "STEVIAPHORE",
+      "FERVIVO",
+      "PROXEED WOMEN",
+      "KRILLVIVO",
+      "FENGIVIVO",
+      "PROXEED PLUS",
+      "MIALVIVO",
+      "PROSTA VIVO",
+      "TENSIOVIVO",
+      "VIVOPHORE",
+      "NUTRIVIVO",
+      "DIGEST VIVO",
+      "DERMOVIVO",
+      "MASSEVIVO",
+      "CISTO VIVO",
+      "OSTEOVIVO",
+      "LIPOVIVO"
+    ]
+  },
+  {
+    "lab": "PUR LAB",
+    "products": ["VASTINE"]
+  },
+  {
+    "lab": "PURENAISSANCE",
+    "products": ["PURENA HUI VEG LEN"]
+  },
+  {
+    "lab": "RACINE LAB",
+    "products": ["CALMINI", "BOBODENT", "ALOECINE", "GINGIZONE"]
+  },
+  {
+    "lab": "RADIAN",
+    "products": ["RADIAN"]
+  },
+  {
+    "lab": "RAFARM S.A",
+    "products": ["LATAZ"]
+  },
+  {
+    "lab": "RAM PHARMACEUTIC",
+    "products": ["NEXORPAN", "INFANTRIL"]
+  },
+  {
+    "lab": "RATIOPHARM",
+    "products": ["ECONAZOLE-RAT", "FUROSEMIDE-RAT", "DOXYCICLINE-RAT"]
+  },
+  {
+    "lab": "RAZA INTERNATIONAL",
+    "products": ["HONEY CURE"]
+  },
+  {
+    "lab": "RAZES",
+    "products": ["PARACETAMOL RAZES"]
+  },
+  {
+    "lab": "RCPHARM",
+    "products": ["MIELECTIS"]
+  },
+  {
+    "lab": "RECKITT BENCKI.PH.",
+    "products": ["MOOV", "STREPSILS", "TEMGESIC"]
+  },
+  {
+    "lab": "REGILAIT",
+    "products": [
+      "FRANCE LAIT LF",
+      "CEREALES LACTEES",
+      "FRANCE LAIT CONFOR",
+      "FRANCE LAIT"
+    ]
+  },
+  {
+    "lab": "REMEDMEDIC",
+    "products": ["BIOREMED MTVM", "BIOREMED OMEGA 3", "BIOREMED VIT D3"]
+  },
+  {
+    "lab": "RENAUDIN",
+    "products": ["HALOPERIDOL-RDN", "AMITRIPTYLINE RND", "DICLOFENAC SOD.RDN"]
+  },
+  {
+    "lab": "RHUMEL",
+    "products": ["EOSINE AQUEUSE"]
+  },
+  {
+    "lab": "RI.MOS",
+    "products": ["HYPEROIL"]
+  },
+  {
+    "lab": "RIADH PHARM",
+    "products": [
+      "ASCABINE",
+      "POUXINE",
+      "MADECASSINE",
+      "ECONAZOL RPP",
+      "OXYDERM",
+      "BETADERMINE"
+    ]
+  },
+  {
+    "lab": "RIKOMED",
+    "products": [
+      "PROSTASECUR A",
+      "DESTERONE DHEA",
+      "APAISOS",
+      "MAGNE-FORT",
+      "SPIRULINE",
+      "MULTIBON RIKOMED",
+      "VITACEINTE",
+      "PALMETO",
+      "OMEGA RIKOMED",
+      "CALCIPLUS",
+      "PROGENUS",
+      "RIKOFORM",
+      "FONCURINE 4000",
+      "VISION-PLUS",
+      "CONFOGEST",
+      "DORVIT RIKOMED",
+      "ROYALE G+"
+    ]
+  },
+  {
+    "lab": "RISEN LABS",
+    "products": ["ZINKY-C"]
+  },
+  {
+    "lab": "RIVOPHARM-SUI",
+    "products": ["NIFUROXAZIDE-RIV", "KETOTIFENE-RIV"]
+  },
+  {
+    "lab": "ROCHE",
+    "products": ["VALIUM", "LAROXYL", "DILATREND"]
+  },
+  {
+    "lab": "ROCHE DIAGNOSTICS",
+    "products": [
+      "ACCU-CHEK PERFORMA",
+      "ACCU-CHEK PERF/KIT",
+      "ACCU-CHEK FASTCLIX",
+      "ACCU-CHEK ACTIVE",
+      "SOFTCLIX II"
+    ]
+  },
+  {
+    "lab": "ROSA PHYTOPHARMA",
+    "products": ["PEPSANE"]
+  },
+  {
+    "lab": "ROSASPHARMA",
+    "products": [
+      "VITAMINE E",
+      "OMEGA 3",
+      "OMEGA 3 CARDIO",
+      "VAPOPURE",
+      "VITAMINE D3",
+      "VITAMINE C",
+      "DORMILIA",
+      "PROSTERAL",
+      "OMEGA 3 BOOST",
+      "TOCOVIT",
+      "FERTIOLE",
+      "MAGNO 3B",
+      "OMEGA 3 MEM ET CON",
+      "OMEGA 3 EMOTION"
+    ]
+  },
+  {
+    "lab": "ROVAC",
+    "products": [
+      "ROVIT E",
+      "ROVIT D3",
+      "CURVAC",
+      "GESTA-ELLE",
+      "CHARBOVAC PLUS",
+      "ROVAC PROSTAC",
+      "POLYNAX",
+      "ROVYX",
+      "ROVIT C",
+      "ROMEGA 3"
+    ]
+  },
+  {
+    "lab": "RUBIO",
+    "products": ["CORPRILOR"]
+  },
+  {
+    "lab": "S.F.P.P",
+    "products": ["BIO HEMORROIDE"]
+  },
+  {
+    "lab": "SAIDAL",
+    "products": [
+      "SULFOLYPTOL",
+      "FRUBIAL",
+      "PARALGAN",
+      "KALIGON  SANS SUCR",
+      "CLOMIPRAMINE SAID",
+      "VALSIS PLUS",
+      "METROGYL",
+      "HUILE PARAFFINE BI",
+      "TIMONAL",
+      "SULAMINE",
+      "NOTOREX",
+      "CAMPHOBIOTIC AMINO",
+      "SAIPRIL PLUS",
+      "CLOFENAL",
+      "SARTIX",
+      "LAVIDA",
+      "OXALINE",
+      "VITAFORM",
+      "AMPILINE",
+      "DIABENIL",
+      "TRANSOMIL",
+      "AMLORIDAL",
+      "ZANITRA",
+      "ROVADAL",
+      "CHLORURE SODIUM",
+      "FLUCIDAL",
+      "HISTAGAN",
+      "SULPUREN",
+      "ACTICAL",
+      "SALBUTAMOL",
+      "TRIMEBUTINE SAIDAL",
+      "BETASONE",
+      "ACEPRAL",
+      "LATIDINE",
+      "INDOMET",
+      "HEPTAGYL",
+      "POVIP",
+      "ALERFENE",
+      "DIAPHAG",
+      "INVERTER",
+      "CLOMYCINE",
+      "DIABENORM",
+      "AMOXYPEN",
+      "COPARALGAN",
+      "RINASTINE",
+      "NAUSEDIUM",
+      "MYCOTINE",
+      "LOPESTIN",
+      "PHANAZOL",
+      "H.F.M.",
+      "SAIPRIL",
+      "LAMIDAZ",
+      "PROZOL",
+      "KALIGON",
+      "ACEPRAL CARDIO",
+      "AMIOCARDONE",
+      "FONGENAL",
+      "ORAPEN",
+      "DOLTRAM PLUS",
+      "EUPNEX",
+      "CLAMOXYPEN",
+      "RETARCILINE",
+      "CARDITAL",
+      "KETOSKIN",
+      "NIFLUMATE",
+      "VIACTAL",
+      "REHYDRAX",
+      "DIAGUANID",
+      "BROMHEXINE",
+      "SAIFEN",
+      "HEMORECT",
+      "BETACYL",
+      "NATRIBIFLUOR",
+      "RENIPRIL",
+      "DEXASONE",
+      "PRECORTYL",
+      "MICODAL",
+      "NEUROVIT",
+      "SAILOX",
+      "DENORAL",
+      "VITA C",
+      "XIMALEX",
+      "DOXYLINE",
+      "MEBEVERINE SAIDAL",
+      "PRURAX",
+      "ALLERTINE",
+      "MESOPRAL",
+      "VALSIS",
+      "CITRATE DE BETAINE",
+      "LATENDRA",
+      "FUROZAL",
+      "PRIMAZOL",
+      "LIPOCARD",
+      "CLOGEL",
+      "DOLTRAM",
+      "ENCOFLUIDE",
+      "AZIMYCINE",
+      "PRIXAM",
+      "GLUCOSE",
+      "GECTAPEN",
+      "ENERMAG",
+      "RHUMAFED",
+      "HCQ SAIDAL",
+      "GENTAMYCINE",
+      "ACIFUDAL",
+      "CLOPRAMID",
+      "MYCOCIDE",
+      "FUMACUR",
+      "COBAMINE",
+      "BUPRINAL",
+      "IBUMAL",
+      "NIFAZIDE",
+      "CAMPHOBIOTIC",
+      "MYCOFLUCON",
+      "GLYCERINE",
+      "ZANITRA PLUS"
+    ]
+  },
+  {
+    "lab": "SALEM",
+    "products": [
+      "LIDOCAINE LS",
+      "MEFESTAN",
+      "VOGALON",
+      "ASPEVASC",
+      "ECOVAR",
+      "VIT D3",
+      "SINOVIAL",
+      "CHECK ISUCARE",
+      "SIMEXANE",
+      "ALPROFENE",
+      "FENOMIX",
+      "SEREXON",
+      "GLUCAR",
+      "CLORAXENE",
+      "GLYCERINE LS",
+      "RAMITEC",
+      "RIZINAL",
+      "COPARAMOL",
+      "SPASMOL",
+      "TEMESTA",
+      "HEPAZEN",
+      "TRAMADOL PLUS",
+      "CHECK 3",
+      "CETALGINE",
+      "VISCERALENE",
+      "HYDREX",
+      "VOGALYS",
+      "RELAXAN",
+      "ARNICA PRO",
+      "CICATRINE",
+      "FENAQUENE",
+      "SULPIRIDE LS",
+      "TROPHYL",
+      "GLUNOVO I3",
+      "URSOLYSE",
+      "PRIMINAL",
+      "TRAMADOL LS",
+      "FONGYNE",
+      "SINOVIAL HL",
+      "PROCTOLON",
+      "PIROXAL",
+      "TROPHYL PLUS",
+      "VITAMINE D3",
+      "PARAMOL EXTRA",
+      "LAXADYL",
+      "NIFLUMENE",
+      "CAPTOPRIL LS",
+      "SALAZA",
+      "LOWGAS",
+      "PARAMOL",
+      "SIBIONICS",
+      "DIGESTAT",
+      "AMLODEX",
+      "PARAMOL RHUME",
+      "GYNOMIX"
+    ]
+  },
+  {
+    "lab": "SANA PHARMA",
+    "products": ["SITO HEAL"]
+  },
+  {
+    "lab": "SANAMED",
+    "products": [
+      "DIACENE 50",
+      "IMMUNO BOOST",
+      "HYDRO CURCUMA",
+      "MAGNESIUM BIS 500",
+      "PSYLIA CONFORT",
+      "FLUVASTAN LP",
+      "SPASFODINE",
+      "ZAFRAN BIO",
+      "CLOMINE",
+      "HERBAL  PATCH",
+      "SIRENE  PATCH",
+      "DIPROLOL",
+      "BETAHIST",
+      "NEURAXON",
+      "HONEYCURE",
+      "NAPROX",
+      "CARDIMED",
+      "VITAMINE C",
+      "FERTI HOM",
+      "TENORMED",
+      "RIVOMED"
+    ]
+  },
+  {
+    "lab": "SANDACARE",
+    "products": ["SANDACARE NEB BR C"]
+  },
+  {
+    "lab": "SANDOZ",
+    "products": [
+      "FORADIL",
+      "SINUC SAFT",
+      "RETARPEN",
+      "OSPEXIN",
+      "ERYBESAN",
+      "PENICILLINE G-BCH",
+      "TRANSACALM",
+      "BANEOCIN",
+      "CURAM",
+      "LACTORIUM FORTE",
+      "LOXEN",
+      "LACTORIUM",
+      "PIROXICAM SANDOZ",
+      "TULIP",
+      "OMNITROPE",
+      "SUPPLIN",
+      "PARLODEL",
+      "TAMOXIFEN EBEWE",
+      "CEFAZOLINE SANDOZ",
+      "EXODERIL",
+      "METHOTREXATE",
+      "SERONIL",
+      "VITAMINE C",
+      "GLUDOSIN",
+      "KETONAL",
+      "SEDACORON",
+      "GENTAMICINE BIOCH",
+      "MINOXIDIL",
+      "ZINNAT"
+    ]
+  },
+  {
+    "lab": "SANOFI",
+    "products": [
+      "VITASCORBOL",
+      "TOUJEO",
+      "MAXILASE",
+      "SOLIAN",
+      "CORVASAL",
+      "SURMONTIL",
+      "DITROPAN",
+      "DOLI RHUME",
+      "URSOLVAN",
+      "TRANXENE",
+      "LIPANOR",
+      "GRISEFULINE",
+      "TRITAZIDE",
+      "CLOMID",
+      "DOGMATIL",
+      "APIDRA",
+      "LOVENOX",
+      "SOUFRANE",
+      "TILDIEM",
+      "XATRAL",
+      "TRIATEC",
+      "DEPAKINE",
+      "TOPLEXIL",
+      "LACTACYD",
+      "TICLID",
+      "KAYEXALATE",
+      "DICYNONE SANOFI",
+      "BG STAR",
+      "HYDROCORTISONE ROU",
+      "NASACORT",
+      "PYOSTACINE",
+      "RHINATHIOL",
+      "INSULINE ASPR SNFI",
+      "SOLUPRED",
+      "SECTRAL",
+      "RHINACARE",
+      "BIRODOGYL",
+      "COAPROVEL",
+      "ERCEFURYL",
+      "MONO-TILDIEM",
+      "AMAREL",
+      "APROVEL",
+      "GLYCAN",
+      "CORDARONE",
+      "ASPEGIC",
+      "OPTICROM",
+      "PROFENID",
+      "CODOLIPRANE",
+      "TELFAST",
+      "STILNOX",
+      "PLAVIX",
+      "PRIMPERAN",
+      "OROKEN",
+      "ROVAMYCINE",
+      "APROVASC",
+      "ARAVA",
+      "CIDERMEX",
+      "LANTUS",
+      "DOLIPRANE",
+      "MAALOX",
+      "RHINATHIOL TOU.SEC",
+      "TUSSO-RHINATHIOL",
+      "ACTONEL OAW",
+      "PLAQUENIL"
+    ]
+  },
+  {
+    "lab": "SANOFI GENERICS",
+    "products": ["AMLODIPINE WINTHRO", "RAMIPRIL WINTHROP"]
+  },
+  {
+    "lab": "SANOFI-PASTEUR",
+    "products": ["VAXIGRIP", "VACCIN RABIQUE MEX"]
+  },
+  {
+    "lab": "SANTAMINE",
+    "products": ["ORAL SHOT FER B9", "ORAL SHOT FER"]
+  },
+  {
+    "lab": "SANTE DIET",
+    "products": ["GELAMINE"]
+  },
+  {
+    "lab": "SANTEVA",
+    "products": [
+      "SANTEVA HYALUDENT",
+      "NATUZEN ZINC",
+      "DOLOCARE EXPERT",
+      "DOLOCARE CRYOGEL",
+      "LICELOCK",
+      "OXYCARE",
+      "MAMLOCARE"
+    ]
+  },
+  {
+    "lab": "SANTIVERI",
+    "products": ["FARINE VIGOR NU/DO", "VIGOR FARINE", "MAGNESIUM SANTEVER"]
+  },
+  {
+    "lab": "SAPHARM",
+    "products": ["VYACTIR", "RISPISAPH", "TADILIX"]
+  },
+  {
+    "lab": "SARL ASECUD ALGERI",
+    "products": ["SABEEL COMFORT+G30", "SABEEL"]
+  },
+  {
+    "lab": "SARL BIOPLUS PHARM",
+    "products": [
+      "CALMOX",
+      "MAGHFIZZ VIT C",
+      "BIOMITEB",
+      "BIOPLUS MAGNESIUM",
+      "ROYAL HONEY",
+      "DIGESTROG",
+      "VIT C",
+      "BIOPLUS SOL DE REH",
+      "GASTROG",
+      "MAGHFIZZ MAGNESIUM"
+    ]
+  },
+  {
+    "lab": "SARL CONTIN PHARM",
+    "products": ["BICADEX"]
+  },
+  {
+    "lab": "SARL DIMED",
+    "products": ["BIATAIN ALGINATE"]
+  },
+  {
+    "lab": "SARL EL MORDJANE M",
+    "products": [
+      "BPN FENUGREC BIO",
+      "MAGNESIUM MARIN",
+      "BPN LEVURE DE BIER",
+      "BPN CHITOSAN",
+      "BPN VITAMINE E",
+      "BPN MAGNESIUM BISG",
+      "LIBITONIX",
+      "OMEGA3+VIT D3",
+      "IMUNAT",
+      "GINKGO BILOBA",
+      "PEAUX JEUNES",
+      "11 VITAMINES+9 MIN",
+      "VITAMINE E",
+      "BPN 11 VIT & 9 MIN",
+      "BPN SPIRULINE",
+      "ACIDE HYALURONIQUE",
+      "BPN VITAMINE D3",
+      "VITAMINE D3",
+      "MARRON D INDE",
+      "MAGNESIUM BISGLYCI",
+      "BPN OMEGA 3+VIT.D3",
+      "BPN GINKGO BILOBA",
+      "ALLERGOPHYT",
+      "GELEE ROYAL",
+      "BPN PEAUX JEUNES",
+      "BPN GELEE ROYALE"
+    ]
+  },
+  {
+    "lab": "SARL EVEREST PHARM",
+    "products": ["ARTROFEN", "CAUTEROIDE"]
+  },
+  {
+    "lab": "SARL GENIS",
+    "products": ["HIMOXYL"]
+  },
+  {
+    "lab": "SARL IPSIM",
+    "products": ["BISEPSIM"]
+  },
+  {
+    "lab": "SARL LILIUM PHAR A",
+    "products": [
+      "LILIUM HAIRVOL",
+      "LILIUM MENOLIB",
+      "LILIUM HEPALIB",
+      "LILIUM FERTIFIT M",
+      "LILIUM URISOFT",
+      "LILIUM SUB12",
+      "LILIUM DIGEST PLUS",
+      "LILIUM SOPK FREE",
+      "LILIUM BESTFER",
+      "LILIUM THYROLIB",
+      "LILIUM YES CAL+",
+      "LILIUM DHEA PLUS",
+      "LILIUM ANAFLAM",
+      "LILIUM FERTIFIT F",
+      "LILIUM YES VIT"
+    ]
+  },
+  {
+    "lab": "SARL OK PHARMA",
+    "products": ["VIAXTRA FEMME", "VIAXTRA HOMME"]
+  },
+  {
+    "lab": "SARL REPARTIDIS",
+    "products": ["HEMORRELAX"]
+  },
+  {
+    "lab": "SARL SYMBIOSE",
+    "products": ["BEBE ZINC"]
+  },
+  {
+    "lab": "SCHEFFLER",
+    "products": [
+      "ADDITIVA CA+VIT.D3",
+      "ADDITIVA MAG+VIT B",
+      "ACTIVLINE VIT.C&ZN",
+      "ADDITIVA OSTEOGARD",
+      "ADDITIVA MAGNESIUM",
+      "ADDITIVA VIT.C+ZN",
+      "ADDITIVA BAMBI-MIX",
+      "VISIO FORCE LUTEIN",
+      "ADDITIVA MULTIVIT",
+      "ADDITIVA MULVI+MIN"
+    ]
+  },
+  {
+    "lab": "SCHERING PLOUGH",
+    "products": ["EULEXINE"]
+  },
+  {
+    "lab": "SCI PHARMA",
+    "products": [
+      "NUTRIGEST+COEN Q10",
+      "FYTOMAX MEN",
+      "NUTRIGEST+CHV ET O",
+      "DESIMAX FEMME",
+      "FYTOMAX DHEA",
+      "DESIMAX",
+      "FERTITON FEMME SCI",
+      "FYTOMAX WOMEN",
+      "NOSEFLUX NAUSE VOM",
+      "ZINC +VIT C SCI",
+      "PRESSIOFYT+",
+      "ARTHROFIT + CURCUM",
+      "FYTOMAX SOPK",
+      "BIOGYM ARTIGYM CUR",
+      "VITA C",
+      "FERTITIONIQUE HOMM",
+      "NUTRIGEST +",
+      "NUTRIGEST + VISION",
+      "SUPPLY-PRO",
+      "LES NEUF B",
+      "CARDIOFIT PLUS",
+      "NUTRIGEST+ SELINIU",
+      "NUTRIGEST + GROSSE",
+      "FERTISITOL",
+      "NUTRIGEST+ VIT.B12",
+      "NUTRIGEST + FER",
+      "BIOGYM CARNISLIM"
+    ]
+  },
+  {
+    "lab": "SCIENCEX",
+    "products": ["OSSEANS D3"]
+  },
+  {
+    "lab": "SEASONS",
+    "products": ["STERIPAD"]
+  },
+  {
+    "lab": "SECO+",
+    "products": ["SECOSOIN"]
+  },
+  {
+    "lab": "SERENITY",
+    "products": [
+      "PANDY CNCNT CROS",
+      "PANDY  SOMMEIL",
+      "PANDY DIARHEE",
+      "EASY FER",
+      "PANDY CONSTIPATION",
+      "PANDY APPETIT"
+    ]
+  },
+  {
+    "lab": "SERVIER",
+    "products": [
+      "PRETERAX",
+      "PROTOS",
+      "DIAMICRON",
+      "VASTAREL",
+      "COVERSYL",
+      "PROCORALAN",
+      "DAFLON",
+      "FLUDEX",
+      "COVERAM",
+      "BIPRETERAX"
+    ]
+  },
+  {
+    "lab": "SEVE SANTE",
+    "products": [
+      "REFLU SEVE",
+      "SEVE CHARBON",
+      "SEVE ENERGY",
+      "SEVE MINCEUR",
+      "SEVE IMMU ZINC",
+      "SEVE MAG",
+      "SEVE APPETI"
+    ]
+  },
+  {
+    "lab": "SFAN",
+    "products": ["FLATULYSE", "VITAFORT MULTI VIT"]
+  },
+  {
+    "lab": "SINCLAIR",
+    "products": ["KELO-STRETCH", "ALOCLAIR PLUS", "ATOPICLAIR", "ALOCLAIR"]
+  },
+  {
+    "lab": "SINIL PHARMACEUTIC",
+    "products": ["HARUFEN"]
+  },
+  {
+    "lab": "SINOCARE",
+    "products": ["I CAN I3"]
+  },
+  {
+    "lab": "SLM PHARM",
+    "products": [
+      "VITAMER HYPER AERO",
+      "ACTIKIDS OMEGA 3",
+      "ACTIKIDS COL & GAZ",
+      "VITAMER ISOTO AERO"
+    ]
+  },
+  {
+    "lab": "SMITH & NEPHEW",
+    "products": ["JELONET"]
+  },
+  {
+    "lab": "SMR PHARMA",
+    "products": ["ARTHROCURE"]
+  },
+  {
+    "lab": "SOINSPHYTO",
+    "products": [
+      "SOINTHODKINE HE",
+      "GINGIDOL",
+      "ANTIPOUX MARILOX",
+      "GYNONET",
+      "SOINSTHOD"
+    ]
+  },
+  {
+    "lab": "SOLUPHARM",
+    "products": ["METHYLPREDNISOL SL", "HEPTAGYL"]
+  },
+  {
+    "lab": "SOMEDIAL",
+    "products": [
+      "AMATRILINE",
+      "DIALAMOL",
+      "SOMALGINE",
+      "MERIDONE",
+      "INFLAMINE",
+      "LESTONE",
+      "MEFLOX",
+      "METROMYCINE",
+      "NEURALDOL",
+      "SOMIFED",
+      "CIPROMINE"
+    ]
+  },
+  {
+    "lab": "SOPHAL",
+    "products": [
+      "NORFLOXAL",
+      "NOVITAL",
+      "ASPIGAL",
+      "CLORAFAL",
+      "METRONIDAL",
+      "PREDNAL",
+      "AMLODIPAL",
+      "OROKAL",
+      "COTRIMOXAL",
+      "MEPRENAL",
+      "OMNIFAL",
+      "CEDROXAL",
+      "CLARITAL",
+      "RANITIDAL",
+      "SPIRAMYNAL",
+      "ARTHROFLEX",
+      "AZITHRAL",
+      "SILDEFAL",
+      "CIPROFLOXAL",
+      "BIOTINOR PE/CHE/ON",
+      "FLURBIPROFAL",
+      "CEFAZAL",
+      "CIAFAL",
+      "FEXONIDAL",
+      "AMLOVAL",
+      "DICLOFAL LP",
+      "LEXINAL",
+      "AMOXAL",
+      "COTRIMOXAL FORT",
+      "PENIVAL",
+      "PARACETAL",
+      "TRAPAL",
+      "CELEXAL",
+      "SULPIDAL",
+      "DICLOFAL",
+      "NITROXAL",
+      "AMPAL",
+      "CALCIUM D3 SOPHAL",
+      "LOPERIDAL",
+      "ZINETAL",
+      "IBUPROFAL"
+    ]
+  },
+  {
+    "lab": "SOPRODIM",
+    "products": [
+      "FERTICARE WOMEN",
+      "VIGORMAX",
+      "SOPRELAX STRESS",
+      "TRIOFORT",
+      "VALUZIDE",
+      "IRBEDIM",
+      "OMEGA 3 DHA EPA",
+      "PURE-CHAR",
+      "FREE MOVE",
+      "SOPRODIM ASHWAGAND",
+      "VIT D3",
+      "SARTADIM",
+      "VITATRON 23 NUTRIM",
+      "FASTOFEN",
+      "SOPRODIM GINKO BIL",
+      "SOPRODIM MAGNESIUM",
+      "SOPRELAX",
+      "BRONCHOLIERRE"
+    ]
+  },
+  {
+    "lab": "SOPROPHAL",
+    "products": [
+      "VITAMINE E",
+      "SOPRESSOR",
+      "VITAMINE E SOPROPH",
+      "WELLGYNAX",
+      "VALPROATE CHRONO"
+    ]
+  },
+  {
+    "lab": "SPA SOPRODIUM",
+    "products": [
+      "LIPONIL",
+      "SOPRICALM",
+      "DEPOLAN",
+      "SOPROTAM",
+      "GLODEC",
+      "LAMORIG"
+    ]
+  },
+  {
+    "lab": "SPIMACO",
+    "products": [
+      "PHYTOREN",
+      "ROFENAC",
+      "SAPOFEN",
+      "CORTIDERM",
+      "FUSIDERM",
+      "KLAVOX",
+      "CIPROMAX",
+      "LEJAM",
+      "MAFEPAIN",
+      "CLOVIR",
+      "ANDROFERTI",
+      "PROFENAC",
+      "HYMOX",
+      "LIPOVAST"
+    ]
+  },
+  {
+    "lab": "STADA",
+    "products": ["METOPROLOL"]
+  },
+  {
+    "lab": "STING PHARM",
+    "products": [
+      "HALTE-APHTE",
+      "THYMO CALM",
+      "BELKOMER ISOTONIQU",
+      "BELKOMER HYPER",
+      "BELKODINE",
+      "BIOCALYPTUS",
+      "BLYTHOL",
+      "REHYD. SEL DE RE/O"
+    ]
+  },
+  {
+    "lab": "STRAPHARM",
+    "products": ["VITAMINE C", "MAGNA 300 + VIT B6"]
+  },
+  {
+    "lab": "SUGENTECH",
+    "products": ["SGTI-FLEX"]
+  },
+  {
+    "lab": "SUKHTIAN PHARMA",
+    "products": ["HIGEEN HARRAR"]
+  },
+  {
+    "lab": "SUMIFUN",
+    "products": ["DIABETIC PATCH"]
+  },
+  {
+    "lab": "SUPER SMART",
+    "products": ["BERBERINE"]
+  },
+  {
+    "lab": "SWISS ENERGY",
+    "products": [
+      "SWISS-ENE PRENATAL",
+      "SWISS-ENE HR-NL-SK",
+      "SWISS-ENE NEU FORC",
+      "VITAMINES+BIOTINE",
+      "HELLO KITTY",
+      "VITC",
+      "SWISS-ENE SLIM LIN",
+      "SWISS-ENE JOINT-CA",
+      "SWISS-ENE ACTIVE",
+      "SWISS-ENE VITAMI C",
+      "BLACK GARLIC VIT",
+      "VITAMINES SUP. ENE",
+      "SAMBUCUS IMMUNO",
+      "NEUROFORCE VIT",
+      "IMMUNOVIT",
+      "SPIDER MAN MULTVT",
+      "VITAMINES MAG+B CO",
+      "CALCIUM VITAMIN D3",
+      "MULTI V.KDS A+C+D3",
+      "SWISS-ENE A-STRESS",
+      "VITAMINE ANTI AGE"
+    ]
+  },
+  {
+    "lab": "SWITCH BIO",
+    "products": [
+      "BIOPENTHEEN",
+      "MIBIO",
+      "TOUX SPAN",
+      "BIOPLASTINE",
+      "NATAKON",
+      "COLIBABY",
+      "HEMOFLON",
+      "MADECABIO",
+      "RESPIRMER HYPERTNQ",
+      "COLLUTOL",
+      "CAMILLE BEBE",
+      "KEITYCON FORTE",
+      "RESPIRMER ISOTONIQ",
+      "VOMIBYE",
+      "LEAFINE",
+      "LACTO SWITCH"
+    ]
+  },
+  {
+    "lab": "SYMBIOSE",
+    "products": [
+      "MIELBO",
+      "CICA-FILM",
+      "COLLUSPRAY",
+      "PROFREEZE",
+      "TITARROIDE",
+      "BIAFIDERM",
+      "BIAFININE",
+      "MIRAMAR",
+      "CAPSIMAX",
+      "BEBEZINC"
+    ]
+  },
+  {
+    "lab": "SYMBIOSIS PHARMA",
+    "products": ["BRONCARE"]
+  },
+  {
+    "lab": "SYTHOPHARM",
+    "products": ["ZINC"]
+  },
+  {
+    "lab": "TABET PHARM",
+    "products": ["RHUMIZINE", "GLIPTINE", "ZITROMICINE", "TEPROLL", "TEPENTINE"]
+  },
+  {
+    "lab": "TABUK PHARMACEUTIC",
+    "products": [
+      "LOTEVAN",
+      "CEPHALEX",
+      "LOTEVAN PLUS",
+      "TABUVAN",
+      "DEMENTILE",
+      "ILLUSOF",
+      "VASCOVEL",
+      "NERVAX",
+      "COXITAB",
+      "DIVIDO",
+      "DERMA-T",
+      "VAROXA",
+      "TABICLOR",
+      "KEPACETAM",
+      "SOLIFETAB",
+      "BISOTAB",
+      "WINEX",
+      "ZINOXIMOR",
+      "VITAGLOBIN",
+      "VAVO",
+      "EFIRAP",
+      "ARPETAB",
+      "TASONEX",
+      "CO-TABUVAN",
+      "ZOLIX",
+      "TABLAFIL",
+      "NEUROPLEX",
+      "ENDOLET",
+      "EZIPAN",
+      "ROSUTAB",
+      "URILAX",
+      "MELODERM",
+      "IBINOR"
+    ]
+  },
+  {
+    "lab": "TAKEDA",
+    "products": ["ENANTONE LP", "DYNAVIT"]
+  },
+  {
+    "lab": "TAPHCO",
+    "products": [
+      "DAGHTAN",
+      "MYKODAN",
+      "PHLOSPAM",
+      "KORTIKAN",
+      "SULAN",
+      "EMETIKAN",
+      "IBUPSO",
+      "TALAN",
+      "FERON B9",
+      "FERAN B9"
+    ]
+  },
+  {
+    "lab": "TASSILI ARAB PHARM",
+    "products": ["MEBEVAN"]
+  },
+  {
+    "lab": "TAXOFIT",
+    "products": [
+      "TAXOFIT MG+POTASSI",
+      "TAXOFIT ZINC+HISTI",
+      "TAXOFIT DIRECT",
+      "TAXOFIT MG"
+    ]
+  },
+  {
+    "lab": "TECHNOMAD",
+    "products": ["HYPEROIL"]
+  },
+  {
+    "lab": "TECO DIAGNOSTICA",
+    "products": ["URS 10", "GLUCO-CHECK GX II", "URS 5"]
+  },
+  {
+    "lab": "TEJ PHARM",
+    "products": [
+      "FERTIDAM",
+      "FERTIMAL",
+      "MAMAN+ALLAITEMENT",
+      "ZINC+VITAMINE C",
+      "COENZYME Q10",
+      "CHARBONEX",
+      "NATURE AIL",
+      "MINCITOP",
+      "BIO CURCUMINE",
+      "MACA",
+      "GINKGO BILOBA",
+      "PROBIOTIC+ENZYMES",
+      "NATURE OIGNON",
+      "APPETTI TOP",
+      "CYCLOCALM",
+      "BIOMENO",
+      "MAG3 B",
+      "NAUSETIL"
+    ]
+  },
+  {
+    "lab": "TEMARA BIO",
+    "products": [
+      "NUTRIMEL APPE BOOS",
+      "NEZFRANE",
+      "NAUSEVOM",
+      "CUR-BETADINE",
+      "CUR-COLIC",
+      "FONGINEX"
+    ]
+  },
+  {
+    "lab": "TETRA MEDICAL",
+    "products": ["TETRATUL"]
+  },
+  {
+    "lab": "THEA",
+    "products": [
+      "VIRGAN",
+      "CHIBROXINE",
+      "DICLOCED",
+      "ZALERG",
+      "CHIBRO CADRON",
+      "DEXAFREE",
+      "SICCAFLUID",
+      "NAAXIA",
+      "BLEPHAGEL",
+      "AZYTER",
+      "GELTIM LP",
+      "STER-DEX",
+      "MYDRIATICUM",
+      "VITAMINE A",
+      "RIFAMYCINE",
+      "VITABACT",
+      "FLUIDABAK",
+      "THEALOSE",
+      "NAABAK"
+    ]
+  },
+  {
+    "lab": "THERA SANTE",
+    "products": [
+      "OVASENS",
+      "APPETIFORME",
+      "THERALACT",
+      "OVAPURE",
+      "NONOSE",
+      "PREFOLIC",
+      "PRO CARBON"
+    ]
+  },
+  {
+    "lab": "THERAMAF",
+    "products": [
+      "CYCLOFERT HOMME",
+      "MAGNETREX",
+      "VITAFOLIN DHA+EPA",
+      "TOP SEA BUCCAL",
+      "CELINE",
+      "CYCLOFERT FEMME",
+      "BIOCALCIN"
+    ]
+  },
+  {
+    "lab": "THERAMEX",
+    "products": ["LUTENYL", "ANTADYS"]
+  },
+  {
+    "lab": "THERAPLOS LABORATO",
+    "products": [
+      "FORSAVIT JUNIOR",
+      "BETA-D",
+      "SOLIMAG BISGLYCINA",
+      "THERAPLOS BETAFER",
+      "THERAPLOS DOLIVIT",
+      "MADOLYSE",
+      "THERAPLOS MAGNESM",
+      "THERAPLOS VIT. C",
+      "TORALEX",
+      "THERAPLOS GRIPAMOX",
+      "THERAPLOS OSTIFLEX",
+      "THERAPLOS BETAMAG",
+      "THERAPLOS ARTIFLEX"
+    ]
+  },
+  {
+    "lab": "TIVOLI PHARM",
+    "products": ["OMEGA 3 TIVO"]
+  },
+  {
+    "lab": "TKMED LABS",
+    "products": ["TKORETTE"]
+  },
+  {
+    "lab": "TRENKA",
+    "products": ["EUCARBON"]
+  },
+  {
+    "lab": "TRIMB HEALTHCARE",
+    "products": ["FOOTNER"]
+  },
+  {
+    "lab": "TROMMSDORFF",
+    "products": ["KELTICAN"]
+  },
+  {
+    "lab": "TWIN SANTE",
+    "products": ["ZINC+VITAMINE C"]
+  },
+  {
+    "lab": "TZ LAB",
+    "products": ["DIAVITAL"]
+  },
+  {
+    "lab": "U-PHARMA",
+    "products": ["UPRANE", "MERIRHUME", "MERICALM", "UTAG CP"]
+  },
+  {
+    "lab": "ULUGBEG",
+    "products": ["100 TOUX", "PROPIOLYSS", "VITADONE TC MAG", "VITADONE D3"]
+  },
+  {
+    "lab": "UNILAB",
+    "products": ["GENTAMINE", "STOPCOL"]
+  },
+  {
+    "lab": "UNIMED",
+    "products": ["PND", "PHYSIOL", "MEDIMAR", "DEXAMEX", "FLOXAMED", "CEFAZOL"]
+  },
+  {
+    "lab": "UNIQUE PHARMACEUT.",
+    "products": ["PAMIDOL", "BIODAZOL"]
+  },
+  {
+    "lab": "UNITED PHARMA.MANU",
+    "products": ["SUPRA CALCI"]
+  },
+  {
+    "lab": "UPC",
+    "products": [
+      "ELLEANE",
+      "ALFUZOX",
+      "ANASTRAZOL",
+      "DOMPERIDONE UPC",
+      "ELISOR",
+      "GRAVIOLA UPC",
+      "ZETIREC",
+      "DYDROGYN",
+      "DESOGESTREL",
+      "DARISLOR",
+      "PACIFENE",
+      "LEXOPAM",
+      "YASMINE",
+      "MADECOSID",
+      "SUNYA",
+      "DESONETTE",
+      "ORALVEX",
+      "RHINOLACTOL",
+      "ECAZIDE",
+      "MARILON",
+      "BICALUTAMIDE",
+      "PROLIXIA",
+      "CARDOMYL PLUS",
+      "CARDOMYL",
+      "SEALAR",
+      "NOMEGESTROL",
+      "PERIACTINE",
+      "LOPRIL",
+      "LETROZOLE",
+      "LYANA",
+      "ATUSSINE",
+      "LUTEROL",
+      "FLUVERMI",
+      "BROMAZEPAM UPC",
+      "SYNEDIL GE"
+    ]
+  },
+  {
+    "lab": "UPSA",
+    "products": [
+      "EFFERALGAN",
+      "VITAMINE C",
+      "EFFERALGAN VIT.C",
+      "UPFEN",
+      "EFFERALGAN CODEINE",
+      "ASPIRINE UPSA VITC"
+    ]
+  },
+  {
+    "lab": "URGO",
+    "products": [
+      "HUMER DESCONGEST.",
+      "URGO AMPOULES",
+      "HUMEX MAL DE GORGE",
+      "ALVITYL GROSSESSE",
+      "URGO CORICIDE",
+      "HUMEX LIERRE GRIMP",
+      "ALVITYL APPETIT",
+      "ALVITYL DEFENSES",
+      "ALVITYL VIT C ACER",
+      "ALVITYL CONCENTRAT",
+      "ECZEKALM",
+      "ALVITYL TONUS  GIN",
+      "URGO DERMYL APHTES",
+      "URGO APHT FILMOGEL",
+      "ALVITYL PLUS",
+      "ALVITYL MEMOIR",
+      "HUMEX SPRAY OTOL",
+      "ALVITYL",
+      "URGO DOULEURS/PAIN",
+      "STEVIA",
+      "HUMEX RHUME",
+      "HUMEX LIB",
+      "URGO VERRUES",
+      "ALVITYL PETIT BOOS",
+      "HUMEX TOUX SECHE",
+      "URGO CREVASSES FIL",
+      "URGO EXTENSIBLE",
+      "URGO BRULURES",
+      "HUMEX EXPECT.ENF",
+      "ALVITYL VIT MINERA",
+      "HUMEX COLLYRE UD",
+      "ALVITYL NUIT PAISI",
+      "STOPCOLIC",
+      "SANYRENE",
+      "URGO PREV MYCOSES",
+      "BANDE AUTO ADHEREN",
+      "HUMER",
+      "HUMER NEZ BOUCHE",
+      "ALVITYL TONUS",
+      "URGO RESISTANT",
+      "HUMEX TOUX GRASSE",
+      "HUMEX MAL DE GO LI"
+    ]
+  },
+  {
+    "lab": "URSAPHARM",
+    "products": ["HYLO GEL", "HYLO COMOD"]
+  },
+  {
+    "lab": "VALEANT",
+    "products": ["FALVIT MAMA", "FALVIT ESTRO+", "FALVIT", "RELAMAX FORTE B6"]
+  },
+  {
+    "lab": "VAMOUSSE",
+    "products": ["VAMOUSSE"]
+  },
+  {
+    "lab": "VASU PHARMA",
+    "products": ["SPARCK ROYAL"]
+  },
+  {
+    "lab": "VERSALYA PHARMA",
+    "products": ["REHYDRAMIN", "OVUSITOL", "POLYBACTUM"]
+  },
+  {
+    "lab": "VIATRIS",
+    "products": [
+      "AMLOR",
+      "ZOXAN",
+      "VIAGRA",
+      "SUPLASYN",
+      "MEDROL",
+      "XALACOM",
+      "ALDACTAZINE",
+      "LYRICA",
+      "AMIODARONE MERCK",
+      "AZATHIOPRINE MYLAN",
+      "XALATAN",
+      "MOLSIDOMINE MERCK",
+      "TAHOR",
+      "PREDNISOLONE MERCK",
+      "SOLUMEDROL",
+      "PAROXETINE MERCK",
+      "TAMOXIFENE MERCK",
+      "FENOFIBRATE MERCK",
+      "METHYLPRENISO MYL",
+      "ZOLOFT",
+      "CARDULAR",
+      "PHLOROGLUCINOL MYL",
+      "CELEBREX",
+      "RELPAX"
+    ]
+  },
+  {
+    "lab": "VIEGERME",
+    "products": [
+      "VIEMAG 150 +B6",
+      "URILYSE",
+      "VITAMINE C",
+      "ZINC 10+",
+      "BENERGIE",
+      "FLEXOVITE",
+      "PRASTERONE",
+      "DIGERME TRANSIT",
+      "VIT APPETIT+"
+    ]
+  },
+  {
+    "lab": "VIFOR",
+    "products": ["VENOFER"]
+  },
+  {
+    "lab": "VIHERBS",
+    "products": ["OSOGOLD"]
+  },
+  {
+    "lab": "VITABIOTICS",
+    "products": [
+      "PERFECTIL TRIP ACT",
+      "PREGNACARE ORIGINA",
+      "PREGNACARE CONCEPT",
+      "JOINTACE GLUC+CHON",
+      "WELLMAN CONCEPTION",
+      "WELLWOMAN ORIGINAL",
+      "WELLMAN ORIGINAL",
+      "FEROGLOBIN B12",
+      "OSTEOCARE"
+    ]
+  },
+  {
+    "lab": "VITAFIZZ",
+    "products": ["VITAFIZZ MAG + B6", "VITAFIZZ MULTIVIT", "VITAFIZZ VITAMIN C"]
+  },
+  {
+    "lab": "VITAL",
+    "products": [
+      "VITONIC FERSANG",
+      "GROSSIVIT",
+      "VITONIC ALLAITEMEN",
+      "PEDIACTIF OMEGA 3",
+      "PEDIACTIF APIGRIP",
+      "PEDIACTIF SOMMEIL",
+      "VITONIC FERTILITE",
+      "GROSSIVIT VITAMINE",
+      "VITONIC CONCEPTION",
+      "VITONIC GROSSESSE",
+      "PEDIACTIF GAZ VIT",
+      "PEDIACTIF FORTIVIT"
+    ]
+  },
+  {
+    "lab": "VITAL CARE",
+    "products": ["VITAL CHECK", "URS-10"]
+  },
+  {
+    "lab": "VITARMONYL",
+    "products": [
+      "MULTIVIT&OLIGOELEM",
+      "MULTIVITAMINE BOOS",
+      "VITALIERRE",
+      "VITAMINE C",
+      "MAGNESIU B1-B6-B12",
+      "ACTISOM",
+      "MULTIVIT. BOOST GU",
+      "CHARBON VEGETAL",
+      "MAGNESIUM+B6 EQUIL",
+      "CURCUMA FORTE",
+      "OMEGA 3 EQU.CAR.VA"
+    ]
+  },
+  {
+    "lab": "VITAVEA",
+    "products": [
+      "MANHAE INTIMHAE EQ",
+      "NUTRIQUINONE",
+      "ORAPAINE",
+      "ULTRABIOTIQUE INFA",
+      "MAGNE MARIN+VITAMI",
+      "NUTRIQUINONE 100"
+    ]
+  },
+  {
+    "lab": "VITEA",
+    "products": ["MAGNESIUM MARIN"]
+  },
+  {
+    "lab": "VIVACHEK",
+    "products": ["VIVACHEK INO", "VIVACHEK"]
+  },
+  {
+    "lab": "VIVAGENIC",
+    "products": [
+      "VIVASPRAY",
+      "ARGININE",
+      "ZINC",
+      "LUBEXX",
+      "CORMAX PLUS",
+      "HEMOREX"
+    ]
+  },
+  {
+    "lab": "WARNER CHILCOTT",
+    "products": ["DIGOXINE NATIVELLE"]
+  },
+  {
+    "lab": "WEA SPEKRA",
+    "products": ["SALBUTAMOL WEA"]
+  },
+  {
+    "lab": "WELLNESS",
+    "products": ["BICAWELL"]
+  },
+  {
+    "lab": "WEST PHARM",
+    "products": ["ARTIWEST", "OSCAL D3", "MEGA 6", "MOVILAX"]
+  },
+  {
+    "lab": "WIKI",
+    "products": ["WIKI APHT NATURE"]
+  },
+  {
+    "lab": "WIN PHARMA",
+    "products": [
+      "ZINC VIT C",
+      "CALCI D3",
+      "SPASFIT",
+      "TANAKOR",
+      "OMEGA 3 KIDS",
+      "DORNUIT",
+      "GINKOLOBA",
+      "ASHAWANDA",
+      "VITA E",
+      "TANAKOR PLUS",
+      "CALMA SEVEN",
+      "GINKOBA",
+      "DOR O SEC",
+      "VITA C",
+      "DAFLOIDE",
+      "MAXIMAG",
+      "APHTUS",
+      "GLUTA LIGHT",
+      "NO ADDIC",
+      "CIMIPAUSE 200",
+      "ANSIOFIT",
+      "ALYVIUM",
+      "CALYTHYM",
+      "VOMICALM",
+      "FUNGIFIT",
+      "SENALAX",
+      "KELTIDINE FORTE",
+      "LITHIALYSE"
+    ]
+  },
+  {
+    "lab": "WOO-SHIN MEDIC",
+    "products": ["KEFENTECH"]
+  },
+  {
+    "lab": "WORLD MEDICINE",
+    "products": [
+      "CALCIUM D3 WML",
+      "VIASART",
+      "OSMAX",
+      "FLUTEL",
+      "TADAFORS",
+      "RIZOPROL",
+      "VITAPPETIT",
+      "ETACID",
+      "DORZAMED",
+      "LATASOPT",
+      "PALLADA",
+      "EJATARD",
+      "LIMENDA",
+      "DORZASOPT",
+      "DORT BIEN",
+      "IVYLIX",
+      "COLICKID",
+      "MEMOKID",
+      "URSA",
+      "BEKLOMIL",
+      "ZOLTONAR",
+      "SLEZAVIT",
+      "ARIFY",
+      "GALARA",
+      "CALCIMED",
+      "BRITIL",
+      "LORNADO",
+      "TAMSUPROST",
+      "RUVAST",
+      "METACARTIN",
+      "URILIT",
+      "DORT KID",
+      "LANZOMED",
+      "APFECTO",
+      "LIMENDA-L",
+      "VAMELAN",
+      "FUTARON",
+      "OS FORT"
+    ]
+  },
+  {
+    "lab": "XETION",
+    "products": [
+      "MAGNESIUM VIT.B6",
+      "ARTHROFORT PLUS",
+      "VITAMINE D3 XT",
+      "KANZI XT",
+      "VIT C PLUS",
+      "HEPATO PROTECTEUR",
+      "VITAMINE B12",
+      "COROLYZ",
+      "MAG DINA"
+    ]
+  },
+  {
+    "lab": "YAD TECH",
+    "products": [
+      "FERTILIA HOMME",
+      "INOSIA FEMME",
+      "FERTILIA FEMME",
+      "FERTILIA MTL"
+    ]
+  },
+  {
+    "lab": "YNSADIET",
+    "products": ["OMEGA 3 BIOMAX", "PROSTAZEN"]
+  },
+  {
+    "lab": "YOVENE",
+    "products": ["MOBIFLEX"]
+  },
+  {
+    "lab": "YPSOMED",
+    "products": ["MYLIFE PENFINE", "CLICK FINE"]
+  },
+  {
+    "lab": "YSANA",
+    "products": [
+      "SLIM YSANA",
+      "FORCENRGY SUPR TNS",
+      "APPETITE KIDS",
+      "GASTRYZEN DIGEST",
+      "DEFENSES KIDS",
+      "FORCENRGY TONUS",
+      "BEMORY KIDS",
+      "CALMYZEN",
+      "GASTRYZEN NAUSEE",
+      "SERYDORM"
+    ]
+  },
+  {
+    "lab": "YVES PONROY",
+    "products": [
+      "OMEGA 3 YVES PONRO",
+      "SUPPLAMAMAN ENCEIN",
+      "FORMEN PERFORM",
+      "MELAFORTE",
+      "FENUVIT",
+      "AMINOFORTE",
+      "CHONDRO+",
+      "FLEXIBIOL PLUS",
+      "CHARBON VEGETAL",
+      "FLEXIBIOL"
+    ]
+  },
+  {
+    "lab": "ZACOURENE",
+    "products": ["SO-DERMA"]
+  },
+  {
+    "lab": "ZAM PHARM",
+    "products": ["OMNISELS", "FLUVERZAM"]
+  },
+  {
+    "lab": "ZAMBON",
+    "products": [
+      "MONURIL",
+      "FLUIMUCIL",
+      "VELITEN",
+      "RHINOFLUIMUCIL",
+      "PANOTILE"
+    ]
+  },
+  {
+    "lab": "ZED GROUP",
+    "products": ["ORGANIER KIDS"]
+  },
+  {
+    "lab": "ZED GROUP A.S",
+    "products": ["MULTIVITAMINE", "OMEGA 3"]
+  },
+  {
+    "lab": "ZEIN PHARM",
+    "products": [
+      "OMEGA 3",
+      "ZEIN PHARM MELATON",
+      "ZEIN GRAVIOLA",
+      "VITAMINE C PURE",
+      "FORTINAT",
+      "MAGNESIUM",
+      "ARTHRI PLUS",
+      "ZEIN LEBERTRAN",
+      "ZEIN FRUCHT MAN",
+      "CO Q10",
+      "D-MANNOSE",
+      "VIT B-COM FO",
+      "VITAMINE C + ZINC",
+      "D-RIBOSE",
+      "ACE SE ZI ZEIN PHA",
+      "ARGININE",
+      "DOLOCTAN FORTE",
+      "LEBERTRAN",
+      "ANTI ACNE",
+      "MYOINOSITOL ZEI PH",
+      "RUTINE+C",
+      "ZEIN MAGNESIUM"
+    ]
+  },
+  {
+    "lab": "ZERAM",
+    "products": ["CETIRIZINE"]
+  },
+  {
+    "lab": "ZIALY PHARM",
+    "products": ["SOFTAZINE"]
+  },
+  {
+    "lab": "ZIM LABORATOIRES",
+    "products": ["FENATE"]
+  }
+]
