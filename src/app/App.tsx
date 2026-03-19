@@ -40,8 +40,9 @@ import {
   Briefcase,
   ChevronRight as ChevronRightIcon,
   ChevronDown,
+  FileSpreadsheet,
 } from "lucide-react";
-
+import * as xlsx from "xlsx";
 import { labsData, LabData } from "./data/labsData";
 
 const API_URL = "https://elkendiviewer-backend.onrender.com/";
@@ -253,6 +254,184 @@ const Pagination: React.FC<PaginationProps> = ({
   );
 };
 
+// Export helper functions
+const exportToExcel = (
+  data: any[],
+  filename: string,
+  sheetName = "Données",
+) => {
+  if (data.length === 0) {
+    return false;
+  }
+
+  // Create a new workbook
+  const workbook = {
+    SheetNames: [sheetName],
+    Sheets: {
+      [sheetName]: {},
+    },
+  };
+
+  // Get all unique keys from data
+  const allKeys = new Set<string>();
+  data.forEach((item) => {
+    Object.keys(item).forEach((key) => allKeys.add(key));
+  });
+
+  const headers = Array.from(allKeys);
+
+  // Create cell references
+  const cellRefs: any = {};
+
+  // Add headers (row 1)
+  headers.forEach((header, colIndex) => {
+    const cellAddress = String.fromCharCode(65 + colIndex) + "1";
+    cellRefs[cellAddress] = {
+      v: header,
+      t: "s",
+      s: {
+        font: { bold: true, sz: 12 },
+        fill: { fgColor: { rgb: "E0E0E0" } },
+        alignment: { horizontal: "center", vertical: "center" },
+        border: {
+          top: { style: "thin", color: { rgb: "000000" } },
+          bottom: { style: "thin", color: { rgb: "000000" } },
+          left: { style: "thin", color: { rgb: "000000" } },
+          right: { style: "thin", color: { rgb: "000000" } },
+        },
+      },
+    };
+  });
+
+  // Add data rows
+  data.forEach((item, rowIndex) => {
+    headers.forEach((header, colIndex) => {
+      const cellAddress = String.fromCharCode(65 + colIndex) + (rowIndex + 2);
+      const value = item[header] !== undefined ? item[header] : "";
+
+      // Determine cell type and formatting
+      let cellType = "s";
+      let formattedValue = value;
+
+      if (typeof value === "number") {
+        cellType = "n";
+      } else if (value instanceof Date) {
+        cellType = "d";
+        formattedValue = value;
+      } else if (typeof value === "boolean") {
+        cellType = "b";
+      }
+
+      cellRefs[cellAddress] = {
+        v: formattedValue,
+        t: cellType,
+        s: {
+          border: {
+            top: { style: "thin", color: { rgb: "D0D0D0" } },
+            bottom: { style: "thin", color: { rgb: "D0D0D0" } },
+            left: { style: "thin", color: { rgb: "D0D0D0" } },
+            right: { style: "thin", color: { rgb: "D0D0D0" } },
+          },
+        },
+      };
+    });
+  });
+
+  // Set column widths
+  const colWidths: any = {};
+  headers.forEach((_, colIndex) => {
+    const colLetter = String.fromCharCode(65 + colIndex);
+    colWidths[colLetter] = { wpx: 150 };
+  });
+
+  // Add to sheet
+  workbook.Sheets[sheetName] = {
+    ...cellRefs,
+    "!ref": `A1:${String.fromCharCode(65 + headers.length - 1)}${data.length + 1}`,
+    "!cols": colWidths,
+  };
+
+  // Convert to XLSX using SheetJS
+  try {
+    // @ts-ignore - SheetJS is loaded via CDN
+    if (window.XLSX) {
+      // @ts-ignore
+      const wbout = window.XLSX.write(workbook, {
+        bookType: "xlsx",
+        type: "binary",
+      });
+
+      // Create blob and download
+      const blob = new Blob([s2ab(wbout)], {
+        type: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      });
+      const url = window.URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = `${filename}.xlsx`;
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      window.URL.revokeObjectURL(url);
+      return true;
+    }
+  } catch (error) {
+    console.error("Excel export error:", error);
+  }
+
+  // Fallback to CSV if XLSX fails
+  return exportToCSV(data, filename);
+};
+
+// Helper function for string to array buffer
+const s2ab = (s: string) => {
+  const buf = new ArrayBuffer(s.length);
+  const view = new Uint8Array(buf);
+  for (let i = 0; i < s.length; i++) {
+    view[i] = s.charCodeAt(i) & 0xff;
+  }
+  return buf;
+};
+
+// CSV export as fallback
+const exportToCSV = (data: any[], filename: string) => {
+  if (data.length === 0) return false;
+
+  // Convert data to CSV format with proper escaping
+  const escapeCSV = (str: any) => {
+    if (str === null || str === undefined) return "";
+    const string = String(str);
+    if (
+      string.includes(",") ||
+      string.includes('"') ||
+      string.includes("\n") ||
+      string.includes("\r")
+    ) {
+      return `"${string.replace(/"/g, '""')}"`;
+    }
+    return string;
+  };
+
+  const headers = Object.keys(data[0]);
+  const csvContent = [
+    "\uFEFF" + headers.map(escapeCSV).join(";"), // BOM for UTF-8 and semicolon for French Excel
+    ...data.map((row) =>
+      headers.map((header) => escapeCSV(row[header])).join(";"),
+    ),
+  ].join("\r\n");
+
+  const blob = new Blob([csvContent], { type: "text/csv;charset=utf-8;" });
+  const url = window.URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = `${filename}.csv`;
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  window.URL.revokeObjectURL(url);
+  return true;
+};
+
 export default function App() {
   // Login state
   const [loginData, setLoginData] = useState<LoginData>({
@@ -372,6 +551,28 @@ export default function App() {
   const productInputRef = useRef<HTMLInputElement>(null);
   const productDropdownRef = useRef<HTMLDivElement>(null);
   const userDropdownRef = useRef<HTMLDivElement>(null);
+
+  // Load SheetJS library for Excel export
+  useEffect(() => {
+    const loadSheetJS = () => {
+      if (typeof window !== "undefined" && !(window as any).XLSX) {
+        const script = document.createElement("script");
+        script.src = "https://unpkg.com/xlsx/dist/xlsx.full.min.js";
+
+        script.onload = () => {
+          console.log("SheetJS loaded successfully");
+        };
+
+        script.onerror = () => {
+          console.warn("Failed to load SheetJS, using CSV fallback");
+        };
+
+        document.head.appendChild(script);
+      }
+    };
+
+    loadSheetJS();
+  }, []);
 
   // Check session on mount
   useEffect(() => {
@@ -1057,16 +1258,17 @@ export default function App() {
     return selectedLab ? selectedLab.products : [];
   };
 
-  // Export CSV for authorized view
-  const exportAuthorizedToCSV = () => {
+  // New improved export function for authorized view
+  const exportAuthorizedToExcel = () => {
     if (filteredAuthorized.length === 0) {
       setApiMessageType("error");
       setApiMessage("Aucune donnée à exporter");
       return;
     }
 
-    const csvData = filteredAuthorized.map((info) => ({
+    const exportData = filteredAuthorized.map((info) => ({
       Date: formatDate(info.created_at),
+      "Date info": info.info_date ? formatDate(info.info_date) : "",
       Utilisateur: info.users?.email || "Inconnu",
       BU: info.type_bu,
       Type: info.type_info,
@@ -1075,22 +1277,124 @@ export default function App() {
       Commentaire: info.comment || "",
     }));
 
-    const csvContent = [
-      Object.keys(csvData[0] || {}).join(","),
-      ...csvData.map((row) => Object.values(row).join(",")),
-    ].join("\n");
+    const currentDate = new Date().toISOString().split("T")[0];
+    const success = exportToExcel(
+      exportData,
+      `Informations_autorisees_${currentDate}`,
+      "Informations Autorisées",
+    );
 
-    const blob = new Blob([csvContent], { type: "text/csv;charset=utf-8;" });
-    const url = window.URL.createObjectURL(blob);
-    const a = document.createElement("a");
-    a.href = url;
-    a.download = `informations_autorisees_${new Date().toISOString().split("T")[0]}.csv`;
-    document.body.appendChild(a);
-    a.click();
-    document.body.removeChild(a);
-    window.URL.revokeObjectURL(url);
+    if (success) {
+      setApiMessageType("success");
+    } else {
+      setApiMessageType("error");
+      setApiMessage("Erreur lors de l'export");
+    }
+  };
 
-    setApiMessageType("success");
+  // Export function for all informations
+  const exportAllInformationsToExcel = () => {
+    if (allInformations.length === 0) {
+      setApiMessageType("error");
+      setApiMessage("Aucune donnée à exporter");
+      return;
+    }
+
+    const exportData = allInformations.map((info) => ({
+      Date: formatDate(info.created_at),
+      "Date info": info.info_date ? formatDate(info.info_date) : "",
+      Utilisateur: info.users?.email || "Inconnu",
+      BU: info.type_bu,
+      Type: info.type_info,
+      Laboratoire: info.laboratoire,
+      "Produit concurrent": info.produit_concurent || "",
+      Commentaire: info.comment || "",
+    }));
+
+    const currentDate = new Date().toISOString().split("T")[0];
+    const success = exportToExcel(
+      exportData,
+      `Toutes_informations_${currentDate}`,
+      "Toutes les Informations",
+    );
+
+    if (success) {
+      setApiMessageType("success");
+    } else {
+      setApiMessageType("error");
+      setApiMessage("Erreur lors de l'export");
+    }
+  };
+
+  // Export function for user informations
+  const exportUserInformationsToExcel = () => {
+    if (filteredInformations.length === 0) {
+      setApiMessageType("error");
+      setApiMessage("Aucune donnée à exporter");
+      return;
+    }
+
+    const exportData = filteredInformations.map((info) => ({
+      Date: formatDate(info.created_at),
+      "Date info": info.info_date ? formatDate(info.info_date) : "",
+      BU: info.type_bu,
+      Type: info.type_info,
+      Laboratoire: info.laboratoire,
+      "Produit concurrent": info.produit_concurent || "",
+      Commentaire: info.comment || "",
+    }));
+
+    const currentDate = new Date().toISOString().split("T")[0];
+    const success = exportToExcel(
+      exportData,
+      `Mes_informations_${currentDate}`,
+      "Mes Informations",
+    );
+
+    if (success) {
+      setApiMessageType("success");
+    } else {
+      setApiMessageType("error");
+      setApiMessage("Erreur lors de l'export");
+    }
+  };
+
+  // Export function for users
+  const exportUsersToExcel = () => {
+    if (filteredUsers.length === 0) {
+      setApiMessageType("error");
+      setApiMessage("Aucune donnée à exporter");
+      return;
+    }
+
+    const exportData = filteredUsers.map((user) => ({
+      Email: user.email,
+      "Code utilisateur": user.user_code,
+      Rôle:
+        user.role === "A"
+          ? "Administrateur"
+          : user.role === "D"
+            ? "Délégué"
+            : "Responsable",
+      "Vue autorisée":
+        user.role === "R" ? user.view || "Non définie" : "Non applicable",
+      "Date création": formatDate(user.created_at),
+      "ID Utilisateur": user.id,
+    }));
+
+    const currentDate = new Date().toISOString().split("T")[0];
+    const success = exportToExcel(
+      exportData,
+      `Utilisateurs_${currentDate}`,
+      "Utilisateurs",
+    );
+
+    if (success) {
+      setApiMessageType("success");
+    } else {
+      setApiMessageType("error");
+      setApiMessage("Erreur lors de l'export");
+    }
   };
 
   // ---------- LOGIN ----------
@@ -1671,26 +1975,38 @@ export default function App() {
               Liste des utilisateurs ({filteredUsers.length})
             </h2>
 
-            {/* Search Bar */}
-            <div className="relative w-full md:w-64">
-              <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-                <Search className="h-5 w-5 text-gray-400" />
+            <div className="flex items-center gap-4">
+              {/* Search Bar */}
+              <div className="relative w-full md:w-64">
+                <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                  <Search className="h-5 w-5 text-gray-400" />
+                </div>
+                <input
+                  type="text"
+                  placeholder="Rechercher par email, code, rôle..."
+                  value={userSearchTerm}
+                  onChange={(e) => setUserSearchTerm(e.target.value)}
+                  className="pl-10 pr-4 py-2.5 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent w-full"
+                />
+                {userSearchTerm && (
+                  <button
+                    onClick={() => setUserSearchTerm("")}
+                    className="absolute inset-y-0 right-0 pr-3 flex items-center"
+                  >
+                    <X className="h-4 w-4 text-gray-400 hover:text-gray-600" />
+                  </button>
+                )}
               </div>
-              <input
-                type="text"
-                placeholder="Rechercher par email, code, rôle..."
-                value={userSearchTerm}
-                onChange={(e) => setUserSearchTerm(e.target.value)}
-                className="pl-10 pr-4 py-2.5 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent w-full"
-              />
-              {userSearchTerm && (
-                <button
-                  onClick={() => setUserSearchTerm("")}
-                  className="absolute inset-y-0 right-0 pr-3 flex items-center"
-                >
-                  <X className="h-4 w-4 text-gray-400 hover:text-gray-600" />
-                </button>
-              )}
+
+              {/* Export Button */}
+              <button
+                onClick={exportUsersToExcel}
+                disabled={filteredUsers.length === 0}
+                className="bg-gradient-to-r from-green-500 to-green-600 text-white px-5 py-2.5 rounded-lg hover:from-green-600 hover:to-green-700 transition-all shadow-md hover:shadow-lg flex items-center gap-2 disabled:opacity-50 disabled:cursor-not-allowed"
+              >
+                <FileSpreadsheet className="w-4 h-4" />
+                <span>Excel</span>
+              </button>
             </div>
           </div>
           <div className="overflow-x-auto">
@@ -2036,40 +2352,21 @@ export default function App() {
 
         {/* Informations Table */}
         <div className="bg-white rounded-2xl shadow-lg overflow-hidden">
-          <div className="px-6 py-4 border-b border-gray-200 flex justify-between items-center">
+          <div className="px-6 py-4 border-b border-gray-200 flex flex-col md:flex-row md:items-center justify-between gap-4">
             <h2 className="text-xl font-semibold text-gray-700">
               Toutes les informations ({allInformations.length})
             </h2>
-            <button
-              onClick={() => {
-                // Export functionality
-                const csv = allInformations.map((info) => ({
-                  Date: formatDate(info.created_at),
-                  Utilisateur: info.users?.email || "Inconnu",
-                  BU: info.type_bu,
-                  Type: info.type_info,
-                  Laboratoire: info.laboratoire,
-                  "Produit concurrent": info.produit_concurent || "",
-                  Commentaire: info.comment || "",
-                }));
 
-                const csvContent = [
-                  Object.keys(csv[0] || {}).join(","),
-                  ...csv.map((row) => Object.values(row).join(",")),
-                ].join("\n");
-
-                const blob = new Blob([csvContent], { type: "text/csv" });
-                const url = window.URL.createObjectURL(blob);
-                const a = document.createElement("a");
-                a.href = url;
-                a.download = `informations_${new Date().toISOString().split("T")[0]}.csv`;
-                a.click();
-              }}
-              className="bg-gradient-to-r from-green-500 to-green-600 text-white px-5 py-2.5 rounded-lg hover:from-green-600 hover:to-green-700 transition-all shadow-md hover:shadow-lg flex items-center gap-2"
-            >
-              <Download className="w-4 h-4" />
-              Exporter CSV
-            </button>
+            <div className="flex items-center gap-4">
+              <button
+                onClick={exportAllInformationsToExcel}
+                disabled={allInformations.length === 0}
+                className="bg-gradient-to-r from-green-500 to-green-600 text-white px-5 py-2.5 rounded-lg hover:from-green-600 hover:to-green-700 transition-all shadow-md hover:shadow-lg flex items-center gap-2 disabled:opacity-50 disabled:cursor-not-allowed"
+              >
+                <FileSpreadsheet className="w-4 h-4" />
+                <span>Exporter Excel</span>
+              </button>
+            </div>
           </div>
           <div className="overflow-x-auto">
             <table className="w-full">
@@ -2201,12 +2498,12 @@ export default function App() {
                 {filteredAuthorized.length} information(s) trouvée(s)
               </div>
               <button
-                onClick={exportAuthorizedToCSV}
+                onClick={exportAuthorizedToExcel}
                 disabled={filteredAuthorized.length === 0}
                 className="bg-gradient-to-r from-green-500 to-green-600 text-white px-5 py-2.5 rounded-lg hover:from-green-600 hover:to-green-700 transition-all shadow-md hover:shadow-lg flex items-center gap-2 disabled:opacity-50 disabled:cursor-not-allowed"
               >
-                <Download className="w-4 h-4" />
-                Exporter CSV
+                <FileSpreadsheet className="w-4 h-4" />
+                <span>Exporter Excel</span>
               </button>
             </div>
           </div>
@@ -3600,9 +3897,19 @@ export default function App() {
                           />
                         </div>
 
-                        <div className="text-sm text-gray-500 bg-gray-100 px-4 py-2 rounded-lg">
-                          {filteredInformations.length} information(s)
-                          trouvée(s)
+                        <div className="flex items-center gap-4">
+                          <div className="text-sm text-gray-500 bg-gray-100 px-4 py-2 rounded-lg">
+                            {filteredInformations.length} information(s)
+                            trouvée(s)
+                          </div>
+                          <button
+                            onClick={exportUserInformationsToExcel}
+                            disabled={filteredInformations.length === 0}
+                            className="bg-gradient-to-r from-green-500 to-green-600 text-white px-5 py-2.5 rounded-lg hover:from-green-600 hover:to-green-700 transition-all shadow-md hover:shadow-lg flex items-center gap-2 disabled:opacity-50 disabled:cursor-not-allowed"
+                          >
+                            <FileSpreadsheet className="w-4 h-4" />
+                            <span>Excel</span>
+                          </button>
                         </div>
                       </div>
                     </div>
@@ -3847,7 +4154,6 @@ export default function App() {
           </div>
         </div>
       )}
-
 
       {renderDeleteConfirmation()}
     </div>
